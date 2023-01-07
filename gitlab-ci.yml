@@ -1,0 +1,25 @@
+image: registry.gitlab.com/pages/hugo/hugo_extended:latest
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+  HUGO_ENV: production
+
+default:
+  before_script:
+    - apk add --update --no-cache git go
+    - git submodule update --init --recursive
+
+test:
+  script:
+    - hugo
+  rules:
+    - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
+
+pages:
+  script:
+    - hugo --baseUrl https://aspie96.gitlab.io/blog/
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
