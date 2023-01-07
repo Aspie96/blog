@@ -1,0 +1,4 @@
+baseURL = "https://aspie96.github.com/blog/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "PaperMod"
