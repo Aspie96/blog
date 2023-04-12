@@ -62,8 +62,7 @@ My take on freedom of speech and of expression can be summarized as follows:
 - Plain misdeeds with no redeeming social importance which are ill-intended or likely to be harmful, such as fraud, dealing in child pornography and credible threats of illegal violence, don't and shouldn't fall within the scope of free speech.
 - Where some other fundamental right necessarily conflicts with freedom of speech, a reasonable balance needs to be found between the two. Freedom of speech should be held in very high consideration when finding such trade-offs.
 - Freedom from government censorship should be strongly protected. Generally, speech which is currently legal either in the US or the EU should be legal worldwide.
-- It must be legally allowed to criticize the law, as well as to endorse policies, whether such policies are desirable or not.
-- It is acceptable to criticize the law even when such criticism is itself illegal. Laws that prohibit criticism of the legal status quo are illegitimate.
+- It must be legally allowed to criticize the law, as well as to endorse policies, whether such policies are desirable or not. Laws that prohibit criticism of the legal status quo are illegitimate.
 - Practice of journalism shouldn't be subject to formalities or legal requirements, such as registration in a public registry.
 - Offensive speech, including blasphemy and flag desecration, should be legally allowed.
 - Hate speech and similarly disgraceful expressions of abhorrent ideas should be countered with words, not trough violence or suppression.
@@ -81,5 +80,7 @@ My take on freedom of speech and of expression can be summarized as follows:
 The current level of freedom of expression is not sufficient and, while some of the much-needed progress lies in the context of politics and of the law, most of it is cultural and societal. Free software controlled by users may be part of what's needed, but it would be unwise to treat as a technical problem that which mostly isn't.
 
 There are multiple reasons for my highly permissive stance on freedom of expression.
+
+Freedom of expression is a necessary cornerstone of a healthy democracy. If the people are to make collective decisions, they ought to be able to openly discuss and challenge ideas. If enough people dislike a certain ideology, that of censoring it might become a nearly ubiquitous desire. However, democracy should empower all individuals, not just the majority. If the majority doesn't feel it can trust itself not to be convinced by ideas so clearly wrong that censoring them seems reasonable, and to reach reasonable conclusions in the future, then it most certainly cannot, in that moment and scope, trust itself to exercise censorship. Weakening freedom of expressions doesn't only affect those alive in that moment who have disagreeable ideas, it also deteriorates democracy for future generations. Therefore the right to express oneself should supersede others' will to suppress expression.
 
 It must be noted that limiting someone's freedom of speech is the same as limiting everybody else's ability to listen to them. To tape one's mouth is to plug another's ears.
