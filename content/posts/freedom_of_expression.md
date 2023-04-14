@@ -7,17 +7,17 @@ lastmod: 2023-01-07T19:54:01+01:00
 
 ## Freedom of expression and the law
 
-Freedom of opinion and expression is a human right according to the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The UDHR is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders) and countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely by their level of freedom of expression. People in Western democracies enjoy freedom of speech, of the press and of assembly, but such freedoms are nowhere absolute. This article focuses on the United States and the European Union.
+Freedom of opinion and expression is a human right according to the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The UDHR is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders) and countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in their level of freedom of expression. People in Western democracies enjoy freedom of speech, of the press and of assembly, but such freedoms are nowhere absolute. This article focuses on the United States and the European Union.
 
-Behaviors such as fraud, dealing in [child pornography](https://www.justice.gov/criminal-ceos/citizens-guide-us-federal-law-child-pornography), violent threats and defamation do not fall within the scope of free speech.
+Behaviours such as fraud, dealing in [child pornography](https://www.justice.gov/criminal-ceos/citizens-guide-us-federal-law-child-pornography), violent threats and defamation do not fall within the scope of free speech.
 
 Artistic and literary (including software) works of authorship are covered by copyright according to the [Berne Convention](https://www.wipo.int/treaties/en/ip/berne/). However, this only applies to the works themselves and [does not extend to ideas](https://www.copyright.gov/title17/92chap1.html#102). Limitations to exclusive rights exist in the [US](https://www.copyright.gov/title17/92chap1.html#107) and the [EU](http://data.europa.eu/eli/dir/2019/790/oj) and they help to preserve freedom of speech.
 
-[Digital rights management](https://www.eff.org/issues/drm) is the employment of technology to restrict the use of copyrighted digital assets. With some exceptions, circumventing DRM technology is illegal, although technically possible. Distributing technology, including software, intended to circumvent DRM is also illegal, thereby restricting freedom of [expression trough computer code](https://www.eff.org/cases/bernstein-v-us-dept-justice).
+[Digital rights management](https://www.eff.org/issues/drm) is the employment of technology to restrict the use of copyrighted digital assets. With some exceptions, circumventing DRM technology is illegal, although technically possible. Distributing technology, including software, intended to circumvent DRM is also illegal, thereby restricting freedom of [expression through computer code](https://www.eff.org/cases/bernstein-v-us-dept-justice).
 
 ### In the United States
 
-The [First Amendment to the United States Constitution](https://constitution.congress.gov/constitution/amendment-1/) protects freedom of religion, freedom of speech and freedom of the press and freedom of assemble from government suppression. The extent of this protection is, however, not absolute.
+The [First Amendment to the United States Constitution](https://constitution.congress.gov/constitution/amendment-1/) protects freedom of religion, freedom of speech and freedom of the press and freedom of assembly from government suppression. The extent of this protection is, however, not absolute.
 
 Hate speech is legal in the country, as it is [protected](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/05/07/no-theres-no-hate-speech-exception-to-the-first-amendment/) under the First Amendment. Sexual [obscenity](https://www.justice.gov/criminal-ceos/obscenity), on the other hand, is [unprotected](https://www.justice.gov/criminal-ceos/obscenity), resulting in [censorship](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1462&num=0&edition=prelim) of obscene hard-core pornography.
 
@@ -27,17 +27,17 @@ According to the [Press Freedom Index](https://rsf.org/index), freedom of the pr
 
 ### In the European Union
 
-The European Union is a union of multiple different counties with significantly different laws and legal systems.
+The European Union is a union of multiple different countries with significantly different laws and legal systems.
 
-Freedom of expression is protected by the [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) and by the [Charter of Fundamental Rights of the European Union](https://fra.europa.eu/eu-charter/article/11-freedom-expression-and-information). The ECHR, however, allows for licensing requirements for certain enterprises and for limitations on freedom of expression deemed necessary for several stated purposes.
+Freedom of expression is protected by the [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) and by the [Charter of Fundamental Rights of the European Union](https://fra.europa.eu/eu-charter/article/11-freedom-expression-and-information). The ECHR, however, allows for licencing requirements for certain enterprises and for limitations on freedom of expression deemed necessary for several stated purposes.
 
-Racist or xenophobic [hate speech](https://commission.europa.eu/node/721) is illegal, but member states [differ](https://en.wikipedia.org/wiki/Hate_speech_laws_by_country) in how they address it. Many of them also have have [blasphemy laws](https://end-blasphemy-laws.org/countries/europe/). Hard-core pornography is regulated by individual countries, but most allow its possession, production and sale to adults.
+Racist or xenophobic [hate speech](https://commission.europa.eu/node/721) is illegal, but member states [differ](https://en.wikipedia.org/wiki/Hate_speech_laws_by_country) in how they address it. Many of them also have [blasphemy laws](https://end-blasphemy-laws.org/countries/europe/). Hard-core pornography is regulated by individual countries, but most allow its possession, production and sale to adults.
 
 Circumvention of DRM technology is [illegal](http://data.europa.eu/eli/dir/2001/29/2019-06-06). However, rightholders are required to provide the means for benefiting from some of the exceptions to copyright.
 
-The European Union [censored](https://www.consilium.europa.eu/en/press/press-releases/2022/03/02/eu-imposes-sanctions-on-state-owned-outlets-rt-russia-today-and-sputnik-s-broadcasting-in-the-eu/) the [RT](https://www.consilium.europa.eu/en/press/press-releases/2022/03/02/eu-imposes-sanctions-on-state-owned-outlets-rt-russia-today-and-sputnik-s-broadcasting-in-the-eu/) and [Sputnik](https://sputniknews.com/) Russian news outlets following the 2022 Russian invasion of Ukraine, citing the need to counter disinformation, a decision criticized by [European Digital Rights](https://edri.org/) and the [European Federation of Journalists](https://europeanjournalists.org/blog/2022/03/01/fighting-disinformation-with-censorship-is-a-mistake/), but [upheld](https://curia.europa.eu/jcms/jcms/p1_3832079) by the Court of Justice.
+The European Union [censored](https://www.consilium.europa.eu/en/press/press-releases/2022/03/02/eu-imposes-sanctions-on-state-owned-outlets-rt-russia-today-and-sputnik-s-broadcasting-in-the-eu/) the [RT](https://www.consilium.europa.eu/en/press/press-releases/2022/03/02/eu-imposes-sanctions-on-state-owned-outlets-rt-russia-today-and-sputnik-s-broadcasting-in-the-eu/) and [Sputnik](https://sputniknews.com/) Russian news outlets following the 2022 Russian invasion of Ukraine, citing the need to counter disinformation, a decision criticised by [European Digital Rights](https://edri.org/) and the [European Federation of Journalists](https://europeanjournalists.org/blog/2022/03/01/fighting-disinformation-with-censorship-is-a-mistake/), but [upheld](https://curia.europa.eu/jcms/jcms/p1_3832079) by the Court of Justice.
 
-In the European Union personal data receives strong protection trough the [GDPR](https://commission.europa.eu/node/1300). Member states are required to reconcile the right to privacy, to which exceptions can exist, with freedom of expression and information.
+In the European Union, personal data receives strong protection through the [GDPR](https://commission.europa.eu/node/1300). Member states are required to reconcile the right to privacy, to which exceptions can exist, with freedom of expression and information.
 
 #### In Italy
 
