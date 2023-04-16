@@ -55,7 +55,7 @@ Unlike in the United States, the legal protection of freedom of speech in Italy 
 
 Freedom of expression is not a law. Freedom of expression is an idea, a principle and a human right. Some laws simply happen to implement some specific aspects of it.
 
-I consider myself to be a free speech maximalist. Lack of abuse trough government censorship is not sufficient. Instead, actual and effective access to the exercise of freedom of speech is needed, in a culture which encourages self-expression.
+I consider myself to be a free speech maximalist. Lack of abuse through government censorship is not sufficient. Instead, actual and effective access to the exercise of freedom of speech is needed, in a culture which encourages self-expression.
 
 My take on freedom of speech and of expression can be summarized as follows:
 
@@ -65,14 +65,14 @@ My take on freedom of speech and of expression can be summarized as follows:
 - It must be legally allowed to criticize the law, as well as to endorse policies, whether such policies are desirable or not. Laws that prohibit criticism of the legal status quo are illegitimate.
 - Practice of journalism shouldn't be subject to formalities or legal requirements, such as registration in a public registry.
 - Offensive speech, including blasphemy and flag desecration, should be legally allowed.
-- Hate speech and similarly disgraceful expressions of abhorrent ideas should be countered with words, not trough violence or suppression.
+- Hate speech and similarly disgraceful expressions of abhorrent ideas should be countered with words, not through violence or suppression.
 - Sexual obscenity and hard-core pornography should be allowed and not restricted beyond the extent necessary to protect children and unwilling recipients.
 - Circumventing DRM technology should be allowed, as should be distributing software intended to do so. Customers should be clearly informed of the presence of DRM-based restrictions in any device they buy.
 - Privacy is instrumental to freedom of expression.
-- Individuals should have the option of privately communicating in a secure and confidential way, including trough cryptography. It should also be possible to express oneself publicly and yet anonymously.
+- Individuals should have the option of privately communicating in a secure and confidential way, including through cryptography. It should also be possible to express oneself publicly and yet anonymously.
 - Access to neutral tools which can facilitate the actual exercise of freedom of expression should be maximized.
 - Privacy-preserving free-speech or censorship-resistant online social media platforms should be made mainstream.
-- High-quality free and open source software tools useful to provide users with access to freedom to create and of expression trough art, text, video and other media are immensely valuable.
+- High-quality free and open source software tools useful to provide users with access to freedom to create and of expression through art, text, video and other media are immensely valuable.
 - A culture of open and honest discourse and critical thinking should be fostered. The social cost of disagreements should be reduced.
 - Defending others' right to free expression should not be misunderstood as endorsing, approving, liking, or even condoning what they say.
 - The right to free speech includes the right to openly endorse censorship.
@@ -85,7 +85,7 @@ I consider freedom of expression to be a necessary cornerstone of a healthy demo
 
 Censorship by social media platforms carries its own set of issues. I don't argue, in this instance, that it is morally wrong to limit content on one's own server, and I certainly believe that using the force of law to prevent it would be unwise. What I also think, however, is that maximally content-neutral social media platforms are better for society, that it would be desirable if they were successful and that they should be preferred as general-purpose platforms. Social media platforms are, for many, one of the primary means used to communicate with others publicly. There is no reason to subjugate ourselves to the whims and preferences of a select group of oligarchs when exchanging opinions or information. Indeed, one shouldn't expect the economical interests of those running successful social media platform to align with the good of society, nor trust any entity with the undeserved authority to decide what should be read and what should be written. One's public profile should be representative of what one wishes to share of oneself, not the intersection between that and an arbitrary set of rules. Nobody owes anyone the effort and expense needed to create and run free-speech platforms, and the status quo may not be the result of any injustice. But injustices aren't all that can lead to a suboptimal status of society, and while none ought to run such platforms, it'd be nice if they were mainstream.
 
-Banning certain topics or ideas from spaces used for public expression, be it trough the law, trough an extreme and excessive amount of public censure, or trough the choice of private entities that own such spaces, has the inevitable effect of creating eco chambers where those who treat those topics or express those ideas assemble and shelter from the outside. This is dangerous in at least two ways. It leaves those people unchallenged, while also giving them a sense of victimhood, leading to radicalization and it makes it harder for those who aren't part of these groups to learn about what they say and to actually understand them.
+Banning certain topics or ideas from spaces used for public expression, be it through the law, through an extreme and excessive amount of public censure, or through the choice of private entities that own such spaces, has the inevitable effect of creating eco chambers where those who treat those topics or express those ideas assemble and shelter from the outside. This is dangerous in at least two ways. It leaves those people unchallenged, while also giving them a sense of victimhood, leading to radicalization and it makes it harder for those who aren't part of these groups to learn about what they say and to actually understand them.
 
 It must be noted that limiting someone's freedom of speech is the same as limiting everybody else's ability to listen to them. To tape one's mouth is to plug another's ears. Censoring people isn't simply an action taken against them. It's also an action that impacts everyone who would have wanted to listen to them. That doesn't just include the fans of the censored ones, but also those who simply wanted to be informed about their position. Whenever the claim is heard that some party has made a certain public assertion, verifying that claim (that the assertion has been made) requires access to the assertion itself, as published by that party. Believing that a party has asserted something is entirely different from believing that the assertion is true. The fact that, often in error, something has been said is often newsworthy. Censorship can prevent fact-checking news of this sort.
 
