@@ -53,7 +53,7 @@ Unlike in the United States, the legal protection of freedom of speech in Italy 
 
 ## My take
 
-Freedom of expression is not a law. Freedom of expression is an idea, a principle and a human right. Some laws simply happen to implement some specific aspects of it.
+Freedom of expression is not a law. It is an idea, a principle and a human right. Some laws simply happen to implement some specific aspects of it.
 
 I consider myself to be a free speech maximalist. Lack of abuse through government censorship is not sufficient. Instead, actual and effective access to the exercise of freedom of speech is needed, in a culture which encourages self-expression.
 
@@ -96,4 +96,4 @@ As for the idea that the right to free speech should be understood to include th
 - *[In full: Rowan Atkinson on free speech](https://www.youtube.com/watch?v=BiqDZlAZygU)* by Rowan Atkinson
 - *[Remarks to the United Nations General Assembly in New York City](https://www.presidency.ucsb.edu/documents/remarks-the-united-nations-general-assembly-new-york-city-12#docmedia)* by Barack Obama
 - *[Defending the Right to Offend](https://www.huffpost.com/entry/defending-the-right-to-offend_b_7104960)* by Ayaan Hirsi Ali
-- *[http://www.aaronsw.com/weblog/becausewecan](http://www.aaronsw.com/weblog/becausewecan)* by Aaron Swartz
+- *[Free Speech: Because We Can](http://www.aaronsw.com/weblog/becausewecan)* by Aaron Swartz
