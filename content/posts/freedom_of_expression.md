@@ -17,7 +17,7 @@ Artistic and literary (including software) works of authorship are covered by co
 
 ### In the United States
 
-The [First Amendment to the United States Constitution](https://constitution.congress.gov/constitution/amendment-1/) protects freedom of religion, freedom of speech and freedom of the press and freedom of assembly from government suppression. The extent of this protection is, however, not absolute.
+The [First Amendment to the United States Constitution](https://constitution.congress.gov/constitution/amendment-1/) protects freedom of religion, freedom of speech, freedom of the press and freedom of assembly from government suppression. The extent of this protection is, however, not absolute.
 
 Hate speech is legal in the country, as it is [protected](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/05/07/no-theres-no-hate-speech-exception-to-the-first-amendment/) under the First Amendment. Sexual [obscenity](https://www.justice.gov/criminal-ceos/obscenity), on the other hand, is [unprotected](https://www.justice.gov/criminal-ceos/obscenity), resulting in [censorship](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1462&num=0&edition=prelim) of obscene hard-core pornography.
 
@@ -27,7 +27,7 @@ According to the [Press Freedom Index](https://rsf.org/index), freedom of the pr
 
 ### In the European Union
 
-The European Union is a union of multiple different countries with significantly different laws and legal systems.
+Different countries in the European Union have significantly different laws and legal systems.
 
 Freedom of expression is protected by the [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) and by the [Charter of Fundamental Rights of the European Union](https://fra.europa.eu/eu-charter/article/11-freedom-expression-and-information). The ECHR, however, allows for licencing requirements for certain enterprises and for limitations on freedom of expression deemed necessary for several stated purposes.
 
