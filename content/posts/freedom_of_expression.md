@@ -100,3 +100,4 @@ As for the idea that the right to free speech should be understood to include th
 - *[Remarks to the United Nations General Assembly in New York City](https://www.presidency.ucsb.edu/documents/remarks-the-united-nations-general-assembly-new-york-city-12#docmedia)* by Barack Obama
 - *[Defending the Right to Offend](https://www.huffpost.com/entry/defending-the-right-to-offend_b_7104960)* by Ayaan Hirsi Ali
 - *[Free Speech: Because We Can](http://www.aaronsw.com/weblog/becausewecan)* by Aaron Swartz
+- *[Daryl Davis addresses the 2017 FIRE Student Network Conference](https://www.youtube.com/watch?v=ndPmdL7XqxQ)* by Daryl Davis
