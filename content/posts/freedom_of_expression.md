@@ -7,7 +7,7 @@ lastmod: 2023-01-07T19:54:01+01:00
 
 ## Freedom of expression and the law
 
-Freedom of opinion and expression is a human right according to the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The UDHR is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders) and countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in their level of freedom of expression. People in Western democracies enjoy freedom of speech, of the press and of assembly, but such freedoms are nowhere absolute. This article focuses on the United States and the European Union.
+Freedom of opinion and expression is a human right according to the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The UDHR is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders) and countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in their level of freedom of expression. People in Western democracies enjoy freedom of speech, of the press and of assembly, but these freedoms are nowhere absolute. This article focuses on the United States and the European Union.
 
 Behaviours such as fraud, dealing in [child pornography](https://www.justice.gov/criminal-ceos/citizens-guide-us-federal-law-child-pornography), credible threats of illegal violence and defamation do not fall within the scope of free speech.
 
@@ -17,11 +17,11 @@ Artistic and literary (including software) works of authorship are covered by co
 
 ### In the United States
 
-The [First Amendment to the United States Constitution](https://constitution.congress.gov/constitution/amendment-1/) protects freedom of religion, freedom of speech, freedom of the press and freedom of assembly from government suppression. The extent of this protection is, however, not absolute.
+The [First Amendment to the United States Constitution](https://constitution.congress.gov/constitution/amendment-1/) protects freedom of religion, freedom of speech, freedom of the press and freedom of assembly from government suppression. This protection is, however, not absolute.
 
 Hate speech is legal in the country, as it is [protected](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/05/07/no-theres-no-hate-speech-exception-to-the-first-amendment/) under the First Amendment. Sexual [obscenity](https://www.justice.gov/criminal-ceos/obscenity), on the other hand, is [unprotected](https://www.justice.gov/criminal-ceos/obscenity), resulting in [censorship](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1462&num=0&edition=prelim) of obscene hard-core pornography.
 
-According to the [Press Freedom Index](https://rsf.org/index), freedom of the press in the United States is inferior to that of Nordic countries.
+According to the [Press Freedom Index](https://rsf.org/index), freedom of the press in the United States is inferior to that of several other countries.
 
 ### In the European Union
 
@@ -37,9 +37,9 @@ Personal data receives a strong protection through the [GDPR](https://commission
 
 #### In Italy
 
-The freedom to express thoughts and freedom of the press are [protected](https://www.senato.it/istituzione/la-costituzione/parte-i/titolo-i/articolo-21) by the Italian constitution, but the same article also prohibits exhibits offensive to public morality. Limits to freedom of expression and of the press exist in the country.
+The freedom to express thoughts and of the press are [protected](https://www.senato.it/istituzione/la-costituzione/parte-i/titolo-i/articolo-21) by the Italian constitution, but the same article also prohibits exhibits offensive to public morality. Limits to freedom of expression and of the press exist in the country.
 
-Vilification of the [nation](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/291_1_1), of its [constitutional institutions or armed forces](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/290_1_1) or of its [flag](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/292_1_1) and offence of the [president](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/278_1_1) are illegal. Propagating ideas based on racial or ethnic superiority or hatred is also [prohibited](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/604_1_2) as are organisations aimed at discrimination on certain grounds. Public [blasphemy](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/724_1_1) against God is illegal, as is publicly [offending](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/404_1_1) a religion by vilifying objects of worship.
+Vilification of the [nation](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/291_1_1), of its [constitutional institutions or armed forces](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/290_1_1) or of its [flag](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/292_1_1) and offence to the honor or prestige of the [president](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/278_1_1) are illegal. Propagating ideas based on racial or ethnic superiority or hatred is also [prohibited](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/604_1_2) as are organisations aimed at discrimination on certain grounds. Public [blasphemy](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/724_1_1) against God is illegal, as is publicly [offending](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/404_1_1) a religion by vilifying objects of worship.
 
 In order to sell devices containing copyrighted music, videos or computer programs, one must apply a [sticker](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633~art181bis) by [SIAE](https://www.siae.it/). This even includes self-produced works, but the stickers are very [cheap](https://www.gazzettaufficiale.it/eli/id/2002/01/21/02A00483/sg) and this is essentially just bureaucracy.
 
@@ -51,15 +51,17 @@ Unlike in the United States, the legal protection of freedom of speech in Italy 
 
 Governments aren't the only ones taking actions to prevent public communications, thereby engaging in censorship.
 
-Social media platforms are used by many as one of the primary tools for public self-expression. The companies running these platform, however, have the ability to remove anything which gets published, as well as to ban accounts altogether. This gives these companies a lot of power to influence public discourse, not necessarily in the public interest.
+Social media platforms are used by many as one of the primary tools for public self-expression. The companies running these platform, however, have the ability to remove anything which gets published, as well as to ban accounts altogether. This gives them a lot of power to influence public discourse, not necessarily in the public interest.
 
-Content-neutral free-speech platforms that only remove that which would otherwise hamper the functionality, the utility or the existence of the platform itself (such as spam or illegal material) do exist. It must be noted that the mere occurrence of phrases like "free speech" in the marketing of these platforms doesn't guarantee anything and that a bias which appears opposite to that of mainstream platforms is no better than the bias of mainstream platform. Censorship-resistant platforms based on open source software and decentralized communication protocols also exist and they may provide a solution to the problem.
+Content-neutral free-speech platforms that only remove that which would otherwise hamper the functionality, the utility or the existence of the platform itself (such as spam or illegal material) do exist. It must be noted that the mere occurrence of phrases like "free speech" in the marketing of a platform doesn't guarantee anything. A bias which appears opposite to that of mainstream platforms is no better than the bias of mainstream platform. Censorship-resistant platforms based on open source software and decentralized communication protocols also exist and they may provide a solution to the problem.
+
+Some online platforms make it easier than others to speak anonymously. This allows users to express themselves without fear of social repercussions or their personal or professional life being degraded. Several people may need this protection. Consider, for example, those living in oppressive religious environments: an apostate in an Islamic theocracy or a gay boy in a family of Christian fundamentalists. Anonymity can shield them while they publish their personal experiences and interact with others like them.
 
 ## Censorship by thugs
 
 Governments aren't alone in violating human rights.
 
-If, when speaking a certain idea, one risks being arrested and jailed by employees of the state, one isn't really free to express those ideas. If expression is legal, but upon stating certain ideas publicly one risks being beaten up, killed, or otherwise harmed by the mafia, one is equally unfree to express those ideas. Whether the gunmen expected to carry out the punishment are government-sponsored or mafia-sponsored really doesn't make a lot of difference for the victim: either way the right to freedom of expression is infringed.
+If, when speaking a certain idea, one risks being arrested and jailed by employees of the state, one isn't really free to express those ideas. If expression is legal, but upon speaking publicly one risks being beaten up, killed, or otherwise harmed by the mafia, one is equally unfree to express those ideas. Whether the gunmen expected to carry out the punishment are government-sponsored or mafia-sponsored really doesn't make a lot of difference for the victim: either way the right to freedom of expression is infringed.
 
 Non-government authorities can also take it upon themselves to limit the free expression of individuals under their control. For example, parents with underage children that have nowhere else to go and no way to escape their submission may force them to say certain things and prevent them from saying others, far exceeding the amount of control needed to protect the child's own interests. This is also an act of censorship, just like the others.
 
