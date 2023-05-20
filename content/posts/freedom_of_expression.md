@@ -1,11 +1,11 @@
 ---
-title: "My take on freedom of speech"
+title: "My take on freedom of expression"
 date: 2023-01-04T19:54:01+01:00
 draft: false
 lastmod: 2023-01-07T19:54:01+01:00
 ---
 
-In this article I outline my take on the important principle on freedom of speech.
+In this article I outline my take on the important principle on freedom of speech and of expression.
 
 ## Freedom of expression and the law
 
