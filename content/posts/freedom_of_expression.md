@@ -1,9 +1,11 @@
 ---
-title: "Freedom_of_expression"
+title: "My take on freedom of speech"
 date: 2023-01-04T19:54:01+01:00
 draft: false
 lastmod: 2023-01-07T19:54:01+01:00
 ---
+
+In this article I outline my take on the important principle on freedom of speech.
 
 ## Freedom of expression and the law
 
@@ -20,6 +22,8 @@ Artistic and literary (including software) works of authorship are covered by co
 The [First Amendment to the United States Constitution](https://constitution.congress.gov/constitution/amendment-1/) protects freedom of religion, freedom of speech, freedom of the press and freedom of assembly from government suppression. This protection is, however, not absolute.
 
 Hate speech is legal in the country, as it is [protected](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/05/07/no-theres-no-hate-speech-exception-to-the-first-amendment/) under the First Amendment. Sexual [obscenity](https://www.justice.gov/criminal-ceos/obscenity), on the other hand, is [unprotected](https://www.justice.gov/criminal-ceos/obscenity), resulting in [censorship](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1462&num=0&edition=prelim) of obscene hard-core pornography.
+
+The US have a history of restricting export of encryption technologies. [Phil Zimmermann](https://www.mit.edu/~prz/) was the first developer of the PGP encryption program. He was investigated for exporting munitions without a license because encryption software with keys larger than 40 bits was included in the [United States Munitions List](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-121) and PGP was available worldwide. As a response, Zimmermann published, trough the [MIT Press](https://mitpress.mit.edu/), a paper [book](https://www.mit.edu/~prz/EN/essays/index.html) containing the whole source code of PGP. Eventually, Zimmermann was not prosecuted and the government [closed](https://www.mit.edu/~prz/EN/background/index.html) the investigation. [Regulations](https://www.bis.doc.gov/index.php/policy-guidance/encryption) on the export of encryption software from the United States still exist to this day. Programs on application stores by [Microsoft](https://learn.microsoft.com/en-us/windows/uwp/security/export-restrictions-on-cryptography) and [Apple](https://developer.apple.com/documentation/security/complying_with_encryption_export_regulations) have to comply with these restrictions.
 
 According to the [Press Freedom Index](https://rsf.org/index), freedom of the press in the United States is inferior to that of several other countries.
 
@@ -79,7 +83,7 @@ Freedom of expression is not a law. It is an idea, a principle and a human right
 
 I consider myself to be a free speech maximalist. Lack of abuse through government censorship is not sufficient. Instead, actual and effective access to the exercise of freedom of speech is needed, along with a culture which encourages self-expression.
 
-My take on freedom of speech and of expression is as follows:
+Rather than try to condense my whole opinion on the subject in one paragraph, I will list individual points each of which is one of its aspects:
 
 - Plain misdeeds with no redeeming social importance which are ill-intended or likely to be harmful, such as fraud, dealing in child pornography and credible threats of illegal violence, don't and shouldn't fall within the scope of free speech.
 - Where some other fundamental right necessarily conflicts with freedom of speech, a reasonable balance needs to be found between the two. Freedom of speech should be held in very high consideration when finding such tradeoffs.
@@ -126,3 +130,4 @@ As for the idea that the right to free speech should be understood to include th
 - *[Free Speech: Because We Can](http://www.aaronsw.com/weblog/becausewecan)* by Aaron Swartz
 - *[Daryl Davis addresses the 2017 FIRE Student Network Conference](https://www.youtube.com/watch?v=ndPmdL7XqxQ)* by Daryl Davis
 - *[Another Point of View at WMAQ](https://youtu.be/BtVqIYEsbrg?t=791)* by Jerry Springer
+- *[Free Speech Lets Me Know My Enemy](https://www.youtube.com/watch?v=OBuXYtmQ8mw)* by Killer Mike
