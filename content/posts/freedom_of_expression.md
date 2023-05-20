@@ -82,7 +82,7 @@ I consider myself to be a free speech maximalist. Lack of abuse through governme
 My take on freedom of speech and of expression is as follows:
 
 - Plain misdeeds with no redeeming social importance which are ill-intended or likely to be harmful, such as fraud, dealing in child pornography and credible threats of illegal violence, don't and shouldn't fall within the scope of free speech.
-- Where some other fundamental right necessarily conflicts with freedom of speech, a reasonable balance needs to be found between the two. Freedom of speech should be held in very high consideration when finding such trade-offs.
+- Where some other fundamental right necessarily conflicts with freedom of speech, a reasonable balance needs to be found between the two. Freedom of speech should be held in very high consideration when finding such tradeoffs.
 - Freedom from government censorship should be strongly protected. Generally, speech which is currently legal either in the US or the EU should be legal worldwide.
 - It must be legally allowed to criticize the law, as well as to endorse policies, whether such policies are desirable or not. Laws that prohibit criticism of the legal status quo are illegitimate.
 - Practice of journalism shouldn't be subject to formalities or legal requirements, such as registration in a public registry.
