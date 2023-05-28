@@ -5,15 +5,15 @@ draft: false
 lastmod: 2023-01-07T19:54:01+01:00
 ---
 
-In this article I outline my take on freedom of speech and of expression. I will use the two phrases interchangeably, or closely to it, throughout the article, to refer to the right to engage in speech acts, in a rather broad sense.
+In this article I will outline my take on freedom of speech and of expression. I will use the two phrases interchangeably, or closely to it, throughout the article, to refer to the right to engage in speech acts, in a rather broad sense.
 
-First, I will talk about the relationship between this freedom and the law, although, as will be apparent, the legal aspect of this topic is not the only one that interests me. Secondly, I will briefly discuss some specific subjects that relate to freedom of expression. Finally, I will cover my general opinion which is a highly liberal and permissive one.
+First, I will discuss my understanding of the relationship between this freedom and the law, although, as will be apparent, the legal aspect of this topic is not the only one that interests me. Secondly, I will briefly consider some specific subjects that relate to freedom of expression. Finally, I will cover my general opinion on the matter, which is a highly liberal and permissive one.
 
 ## Freedom of expression and the law
 
 *I am not a lawyer and this is not legal advice.*
 
-Freedom of opinion and expression is a human right according to the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The UDHR is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders). The [International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) commits countries to respect certain rights, including freedom of thought and freedom of expression, but has limitations. In practice, countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in their level of freedom of expression. People in Western democracies enjoy freedom of speech, of the press and of assembly, but these freedoms are nowhere absolute. This article focuses on the United States and the European Union.
+Freedom of opinion and expression is a human right according to the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The UDHR is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders). The [International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) commits countries to respect certain rights, including freedom of thought and freedom of expression, but has limitations. In practice, countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in their level of freedom of speech. People in Western democracies enjoy freedom of speech, of the press and of assembly, but these freedoms are nowhere absolute. This article focuses on the United States and the European Union.
 
 Behaviours such as fraud, dealing in [child pornography](https://www.justice.gov/criminal-ceos/citizens-guide-us-federal-law-child-pornography), credible threats of illegal violence and defamation do not fall within the scope of free speech.
 
@@ -55,7 +55,7 @@ An Italian court [ruled](https://www.ansa.it/sito/notizie/cultura/arte/2023/05/1
 
 The press in Italy is regulated. All newspapers must be [registered](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-08;47~art5) on a [court registry](https://www.tribunale.belluno.giustizia.it/registrazione-di-giornali-o-periodici_114.html) in order to be legally published ([not necessary](https://www.mcreporter.info/LEGACY/giurisprudenza/cass12_23230.htm) for an online blog) and one needs to join a [registry](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;69~art45) by the [Order of Journalists](https://www.odg.it/) in order to practice the profession of journalism (a [controversial](https://www.ilfattoquotidiano.it/2010/07/27/einaudi-abolire-l%E2%80%99ordine-dei-giornalisti/44565/) norm, and which [doesn't exist](https://www.odg.it/la-storia) in the rest of Europe). In the [Press Freedom Index](https://rsf.org/index) Italy ranks below most EU countries and even the United States.
 
-The legal protection of freedom of speech in Italy extends beyond lack of government censorship. The Workers' Statute grants workers the [right](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art1) to express their thoughts in the workplace and [prohibits](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art8) employers from investigating their opinions on political, religious or social topics.
+The legal protection of freedom of speech in Italy extends beyond limitations on government censorship. The Workers' Statute grants workers the [right](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art1) to express their thoughts in the workplace and [prohibits](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art8) employers from investigating their opinions on political, religious or social topics.
 
 ## Social-media censorship
 
@@ -65,7 +65,7 @@ Social media platforms are used by many as one of the primary tools for public s
 
 Content-neutral free-speech platforms that only remove that which would otherwise hamper the functionality, the utility or the existence of the platform itself (such as spam or illegal material) do exist. Censorship-resistant platforms based on open source software and decentralized communication protocols also exist and they may provide a solution to the problem.
 
-Some online platforms make it easier than others to speak anonymously. This allows users to express themselves without fear of social repercussions or their personal or professional life being degraded. Several people may need this protection. Consider, for example, those living in oppressive religious environments: an apostate in an Islamic theocracy or a gay boy in a family of Christian fundamentalists. Anonymity can shield them while they publish their personal experiences and interact with others like them.
+Some online platforms make it easier than others to speak anonymously. This allows users to express themselves without fear of social repercussions or their personal or professional life being degraded. Several people may need this protection. Consider, for example, those living in oppressive religious environments: an apostate in an Islamic theocracy or a gay boy in a radicalized family of Christian fundamentalists. Anonymity can shield them while they publish their personal experiences and interact with others like them.
 
 ## Censorship by thugs
 
@@ -87,7 +87,7 @@ Freedom of expression is not a law. It is an idea, a principle and a human right
 
 I consider myself to be a free speech maximalist. Lack of abuse through government censorship is not sufficient. Instead, actual and effective access to the exercise of freedom of speech is needed, along with a culture which encourages self-expression.
 
-Rather than try to condense my whole opinion on the subject in one paragraph, I will list individual points each of which is one of its aspects:
+Rather than try to condense too much of my opinion on the subject in one paragraph, I will list simple individual points, each of which is one of its aspects:
 
 - Plain misdeeds with no redeeming social importance which are ill-intended or likely to be harmful, such as fraud, dealing in child pornography and credible threats of illegal violence, don't and shouldn't fall within the scope of free speech.
 - Where some other fundamental right necessarily conflicts with freedom of speech, a reasonable balance needs to be found between the two. Freedom of speech should be held in very high consideration when finding such tradeoffs.
