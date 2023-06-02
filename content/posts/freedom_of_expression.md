@@ -5,7 +5,7 @@ draft: false
 lastmod: 2023-01-07T19:54:01+01:00
 ---
 
-In this article I will outline my take on freedom of speech and of expression. I will use the two phrases interchangeably, or closely to it, throughout the article, to refer to the right to engage in speech acts, in a rather broad sense.
+In this article I will outline my take on freedom of speech and of expression. I will use the two phrases interchangeably, or closely to it, throughout the article, to refer to the right to engage in speech acts, in a rather broad sense, not limited to verbal language.
 
 First, I will discuss my understanding of the relationship between this freedom and the law, although, as will be apparent, the legal aspect of this topic is not the only one that interests me. Secondly, I will briefly consider some specific subjects that relate to freedom of expression. Finally, I will cover my general opinion on the matter, which is a highly liberal and permissive one.
 
@@ -55,7 +55,7 @@ An Italian court [ruled](https://www.ansa.it/sito/notizie/cultura/arte/2023/05/1
 
 The press in Italy is regulated. All newspapers must be [registered](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-08;47~art5) on a [court registry](https://www.tribunale.belluno.giustizia.it/registrazione-di-giornali-o-periodici_114.html) in order to be legally published ([not necessary](https://www.mcreporter.info/LEGACY/giurisprudenza/cass12_23230.htm) for an online blog) and one needs to join a [registry](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;69~art45) by the [Order of Journalists](https://www.odg.it/) in order to practice the profession of journalism (a [controversial](https://www.ilfattoquotidiano.it/2010/07/27/einaudi-abolire-l%E2%80%99ordine-dei-giornalisti/44565/) norm, and which [doesn't exist](https://www.odg.it/la-storia) in the rest of Europe). In the [Press Freedom Index](https://rsf.org/index) Italy ranks below most EU countries and even the United States.
 
-The legal protection of freedom of speech in Italy extends beyond limitations on government censorship. The Workers' Statute grants workers the [right](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art1) to express their thoughts in the workplace and [prohibits](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art8) employers from investigating their opinions on political, religious or social topics.
+The legal protection of freedom of speech in Italy extends beyond limitations on government censorship. The Workers' Statute grants workers the [right](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art1) to express their thoughts in the workplace and [forbids](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art8) employers from investigating their opinions on political, religious or social topics.
 
 ## Social-media censorship
 
