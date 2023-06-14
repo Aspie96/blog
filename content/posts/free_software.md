@@ -15,6 +15,12 @@ Literary and artistic works are covered by *copyright*. Some uniformity across d
 
 Software is covered by [copyright](https://en.wikipedia.org/wiki/Software_copyright): it is either considered a kind of literary work or protected similarly to literary works in the United States, in the European Union and in other jurisdictions.
 
-Suppose you receive a program, made by someone else, in object form. You cannot study it and know what it does and how it works in detail, because you don't have the corresponding source code to read. You could technically distribute copies of the program (computers can always copy data), but you aren't legally allowed to do so, unless you have been authorized. And modifying the program to make your own version is something you are neither able nor allowed to do.
+Suppose you receive a program, made by someone else, in object form. You cannot study it and know what it does and how it works in detail, because you don't have the corresponding source code to read. You could technically distribute copies of the program (computers can always copy data), but you aren't legally allowed to do so, unless you have been authorized. And modifying the program to make your own version is something you may be neither able nor allowed to do.
 
-*Free software* is software which any user, in any field of endeavor, is free to run, analyze, modify and distribute. This implies that it is provided alongside with equal access to its source code (defined as the form of the program which is best for modification) as well as an authorization to perform these actions. These two elements provide *software freedom* to anyone who owns a copy of the program.
+## Free software
+
+*Free software* is software which any user, in any field of endeavor, is free to run, analyze, modify and distribute. This implies that it is provided alongside with equal access to its source code as well as an authorization to perform such actions. These two elements provide *software freedom* to anyone who owns a copy of the program.
+
+It is important to note that in "free software" the word "free" refers to freedom (as in "free speech"), not as price (as in "free beer"). This ambiguity is specific to the English language, which is why sometimes the Spanish and French word "libre" is used instead of "free" to avoid confusion. In practice, free software is often distributed at no charge (partly because anyone that receives can also distribute it), but a lot of software available at no charge is not free software.
+
+In the '80s, [Richard Stallman](https://stallman.org/) [announced](https://www.gnu.org/gnu/initial-announcement.html) the GNU project and, later, published the [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html). The idea was to create a free operating compatible with Unix (a popular operating system at the time, which has been rather influential).
