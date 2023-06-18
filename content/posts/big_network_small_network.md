@@ -15,11 +15,11 @@ In this article I suggest a simple idea. The purpose is to reduce the amount of 
 
 The basic idea is to have a system composed of a *big network* and a *small network*.
 
-The big network, as the name would suggest, is significantly larger. Given a few examples for a new task as input, the big network produces the weights of the small network as output. That is the whole training process for the small network.
+The *big network*, as the name would suggest, is significantly larger. Given a few examples for a new task as input, the *big network* produces the weights of the *small network* as output. That is the whole training process for the *small network*.
 
-The small network, then, is the one actually used during inference to actually perform the task.
+The *small network*, then, is the one actually used during inference to actually perform the task.
 
-This solution comes at the cost of having to train the large network to being with. Additionally, the whole architecture of the small network, including the shape of its inputs and outputs, would be fixed.
+This solution comes at the cost of having to train the large network to being with. Additionally, the whole architecture of the *small network*, including the shape of its inputs and outputs, would be fixed.
 
 ## The problem
 
@@ -29,159 +29,71 @@ Consider now, a large populations of tasks $T$, each sharing the same length of 
 
 *Small network* is a neural architecture that we can expect to give good results when trained trough supervised learning on a task selected from $T$.
 
-*Big network* is a neural architecture which has an input vector of length $k \cdot (n + m)$ and an output vector of length equal to the number of internal parameters in small network.
+*Big network* is a neural architecture which has an input vector of length $k \cdot (n + m)$ and an output vector of length equal to the number of internal parameters in *small network*.
 
-The *metatask* of big network is to produce good internal parameters for small network for a generic task $T_l$ given (as input to big network) $k$ randomly selected examples of $T_l$.
+The *metatask* of *big network* is to produce good internal parameters for *small network* for a generic task $T_l$ given (as input to *big network*) $k$ randomly selected examples of $T_l$.
 
 Each task $T_l$ can be assumed to be described by a dataset of $d$ example pairs. We should assume that $d \gg k$.
 
-Attempting supervised learning trough gradient descent on big network trough standard gradient descent using back propagation would not work. One would first need to train small network several times, thereby building examples for the metatask. However, in the simplest implementation of this, big network would, during inference, interpolate different possible vector of internal parameters, all of which would make small network equally good at the task, but the average of which would be meaningless.
+Attempting supervised learning trough gradient descent on *big network* trough standard gradient descent using back propagation would not work. One would first need to train *small network* several times, thereby building examples for the metatask. However, in the simplest implementation of this, *big network* would, during inference, interpolate different possible vector of internal parameters, all of which would make *small network* equally good at the task, but the average of which would be meaningless.
 
 The solution that I suggest is that each training step should be as follows:
 - A random task $T_l$ is selected.
-- $d$ random examples $s1 \ldots s_d$ are selected from $T_l$.
+- $d$ random examples $s1 \ldots s_k$ are selected from $T_l$.
 - Another example $(x, y)$, different from the others, is also selected from $T_l$.
-- Examples $s1 \ldots s_d$ are combined to produce the input vector for big network.
-- The output vector of big network determines the internal parameters of small network.
-- Small network receives the feature vector $x$ and produces an output vector.
-- The loss of the whole architecture for this training step is the distance between the output of small network and the target vector $y$.
+- Examples $s1 \ldots s_k$ are combined to produce the input vector for *big network*.
+- The output vector of *big network* determines the internal parameters of *small network*.
+- *Small network* receives the feature vector $x$ and produces an output vector.
+- The loss of the whole architecture for this training step is the distance between the output of *small network* and the target vector $y$.
 
-This would bias the architecture towards specific weights for small network, rather than a centroid of multiple trainings because it will optimize for the performance of small network.
+This would bias the architecture towards specific weights for *small network*, rather than a centroid of multiple trainings because it will optimize for the performance of *small network*.
 
-From the point of view of the learning algorithm, only the internal parameters of big network are being trained, while those of small network only exist as internal values during the computation.
+From the point of view of the learning algorithm, only the internal parameters of *big network* are being trained, while those of *small network* only exist as internal values during the computation.
 
-The architecture can be trained in the standard way. Each sample has a feature vector which contains $s1 \ldots s_d$ as well as $x$ and a target vector which is $y$.
+The architecture can be trained in the standard way. Each sample has a feature vector which contains $s1 \ldots s_k$ as well as $x$ and a target vector which is $y$.
 
-Once the training is complete, big network can be extracted from the larger architecture and it will simply perform the metatask of predicting the internal parameters of small network given $s1 \ldots s_d$. Performing this prediction also constitutes the training for small network, which will require only $k$ examples and be computationally quicker.
+Once the training is complete, *big network* can be extracted from the larger architecture and it will simply perform the metatask of predicting the internal parameters of *small network* given $s1 \ldots s_k$. Performing this prediction also constitutes the training for *small network*, which will require only $k$ examples and be computationally quicker.
 
 ## Details
 
-Big network should have an architecture such that the order of the $d$ samples of the task it receives is irrelevant.
+*Big network* should have an architecture such that the order of the $k$ samples of the task it receives is irrelevant.
 
-The architecture should be build such that the initial outputs of big network are close to the range of weights that a good initializer would give to small network.
+The architecture should be build such that the initial outputs of *big network* are close to the range of weights that a good initializer would give to *small network*.
 
-## Freedom of expression and the law
+## Mathematical description
 
-*I am not a lawyer and this is not legal advice.*
+The description of the *big network* and *small network* system given above is rather purposefully informal, to make it simpler and more intuitive. While a fully formal description is outside the scope of this article and may require more details to be specified, some more mathematical rigour could help to understand this idea better.
 
-Freedom of opinion and expression is a human right according to the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The UDHR is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders). The [International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) commits countries to respect certain rights, including freedom of thought and freedom of expression, but has limitations. In practice, countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in their level of freedom of speech. People in Western democracies enjoy freedom of speech, of the press and of assembly, but these freedoms are nowhere absolute. This article focuses on the United States and the European Union.
+Given that some potential tasks are more likely than others to be the ones we are focusing on (or we may care more about those tasks), that which I previously described as a "population of tasks" should be rather described as a probability distribution over possible tasks. Thus, let's consider a random variable $t$ over a set of tasks $T$, which indicates a selected task.
 
-Behaviours such as fraud, dealing in [child pornography](https://www.justice.gov/criminal-ceos/citizens-guide-us-federal-law-child-pornography), credible threats of illegal violence and defamation do not fall within the scope of free speech.
+We can define a generic random feature vector $x$ as a random variable over $\mathbb{R}^m$. $x$ will be dependent on $t$. Likewise, the target vector $y$ is a random variable over $\mathbb{R}^n$ which depends on both $t$ and $x$. A generic sample is represented by a random variable $s$, defined as $(x,y)$: it will therefore depend on $x$ and $y$.
 
-Artistic and literary (including software) works of authorship are covered by copyright according to the [Berne Convention](https://www.wipo.int/treaties/en/ip/berne/). However, this only applies to the works themselves and [does not extend to ideas](https://www.copyright.gov/title17/92chap1.html#102). Limitations to exclusive rights exist in the [US](https://www.copyright.gov/title17/92chap1.html#107) and the [EU](http://data.europa.eu/eli/dir/2019/790/oj) and they help to preserve freedom of speech.
+We can describe a neural architecture as a function which, given a vector of *internal parameters* and an input feature vector, produces an estimate of a target vector, each with a specific length. These functions also have some other properties that are omitted here and which will be known to those familiar with neural networks. *Small network* is a function $small\_network: \mathbb{R}^i \times \mathbb{R}^m \to \mathbb{R}^n$, while *big network* is a function $big\_network: \mathbb{R}^j \times ((\mathbb{R}^m \times \mathbb{R}^n)^k \times \mathbb{R}^m) \to \mathbb{R}^i$, where $i$ and $j$ are the amounts of internal parameters for *small network* and *big network* respectively
 
-[Digital rights management](https://www.eff.org/issues/drm) is the employment of technology to restrict the use of copyrighted digital assets. With some exceptions, circumventing DRM technology is illegal, although technically possible. Distributing technology, including software, intended to circumvent DRM is also illegal, thereby restricting freedom of expression through computer code.
+Describing the functions for neural architectures such that the vector of parameters is the first of its arguments allows for *currying* and the curried function corresponds to a trained model. The notation I will use to refer to the application of the architecture $a$ over an input feature vector $u$ using parameters $\Pi$ can be written as either $a(\Pi, u)$ or $a(\Pi)(u)$. However, I will use the different notation $a(u \mid \Pi)$, which has the same meaning.
 
-### In the United States
+Suppose that a distance function $dist$ is defined. The loss of the *small network* architecture with weights $\Pi\_{small}$ is a random variable which depends on the selected task $t$ and the selected sample $s = (x,y)$. Assuming that the objective of *small network* is to minimize the distance of the predicted target vector with the real one, it can be defined as:
 
-The [First Amendment to the United States Constitution](https://constitution.congress.gov/constitution/amendment-1/) protects freedom of religion, freedom of speech, freedom of the press and freedom of assembly from government suppression. This protection is, however, not absolute.
+$$loss_{small}(\Pi_{small}) = dist(small\_network(x \mid \Pi_{small}), y)$$
 
-Hate speech is legal in the country, as it is [protected](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/05/07/no-theres-no-hate-speech-exception-to-the-first-amendment/) under the First Amendment. Sexual [obscenity](https://www.justice.gov/criminal-ceos/obscenity), on the other hand, is [unprotected](https://www.justice.gov/criminal-ceos/obscenity), resulting in [censorship](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1462&num=0&edition=prelim) of obscene hard-core pornography.
+The loss for the metatask is the loss that *small network* will have using the weights generated by *big network* to solve the task as described by the randomly selected examples $s_1 \ldots s_k$:
 
-The US have a history of restricting export of encryption technologies. [Phil Zimmermann](https://www.mit.edu/~prz/) was the first developer of the PGP encryption program. He was investigated for exporting munitions without a license because encryption software was included in the [United States Munitions List](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-121) and PGP was available worldwide. As a response, Zimmermann published, trough the [MIT Press](https://mitpress.mit.edu/), a paper [book](https://www.mit.edu/~prz/EN/essays/index.html) containing the whole source code of PGP. Eventually, Zimmermann was not prosecuted and the government [closed](https://www.mit.edu/~prz/EN/background/index.html) the investigation. [Regulations](https://www.bis.doc.gov/index.php/policy-guidance/encryption) on the export of encryption software from the United States still exist to this day. Programs on application stores by [Microsoft](https://learn.microsoft.com/en-us/windows/uwp/security/export-restrictions-on-cryptography) and [Apple](https://developer.apple.com/documentation/security/complying_with_encryption_export_regulations) have to comply with these restrictions.
+$$loss_{big}(\Pi_{big}) = loss_{small}(big\_network(s_1 \ldots s_k \mid \Pi_{big}))$$
 
-According to the [Press Freedom Index](https://rsf.org/index), freedom of the press in the United States is inferior to that of several other countries.
+This gives us the equation to compute the loss for each step during the actual training process:
 
-### In the European Union
+$$loss_{big}(\Pi_{big}) = dist(small\_network(x \mid loss_{small}(big\_network(s_1 \ldots s_k \mid \Pi_{big}))), y)$$
 
-Different countries in the European Union have significantly different laws and legal systems.
+The overall loss of *small network* with weights $\Pi_{small}$ is a random variable that depends on a specific selected task $t$ and is given by the function:
 
-Freedom of expression is protected by the [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) and by the [Charter of Fundamental Rights of the European Union](https://fra.europa.eu/eu-charter/article/11-freedom-expression-and-information). The ECHR, however, allows for licencing requirements for certain enterprises and for limitations on freedom of expression deemed necessary for several stated purposes.
+$$Loss_{small}(\Pi_{small}) = \mathbf{E}[loss_{small}(\Pi_{small}) \mid t]$$
+$$Loss_{small}(\Pi_{small}) = \mathbf{E}[dist(small\_network(x \mid \Pi_{small}), y) \mid t]$$
 
-Racist or xenophobic [hate speech](https://commission.europa.eu/node/721) is illegal, but member states [differ](https://en.wikipedia.org/wiki/Hate_speech_laws_by_country) in how they address it. Many of them also have [blasphemy laws](https://end-blasphemy-laws.org/countries/europe/). Hard-core pornography is regulated by individual countries, but most [allow](https://en.wikipedia.org/wiki/Pornography_laws_by_region#Europe) its possession, production and sale to adults.
+The overall loss for *big network* with weights $\Pi_{big}$ is a real value, not a random variable, given by the function:
 
-The European Union [censored](https://www.consilium.europa.eu/en/press/press-releases/2022/03/02/eu-imposes-sanctions-on-state-owned-outlets-rt-russia-today-and-sputnik-s-broadcasting-in-the-eu/) the [RT](https://www.rt.com/) and [Sputnik](https://sputniknews.com/) Russian news outlets following the 2022 Russian invasion of Ukraine, citing the need to counter disinformation, a decision criticised by [European Digital Rights](https://edri.org/our-work/edri-statement-the-fundamental-rights-consequences-of-the-eu-media-ban/) and the [European Federation of Journalists](https://europeanjournalists.org/blog/2022/03/01/fighting-disinformation-with-censorship-is-a-mistake/), but [upheld](https://curia.europa.eu/jcms/jcms/p1_3832079) by the Court of Justice.
+$$Loss_{big}(\Pi_{big}) = \mathbf{E}[loss_{big}(\Pi_{big})]$$
+$$Loss_{big}(\Pi_{big}) = \mathbf{E}[loss_{small}(big\_network(s_1 \ldots s_k \mid \Pi_{big}))]$$
+$$Loss_{big}(\Pi_{big}) = \mathbf{E}[\mathbf{E}[loss_{small}(big\_network(s_1 \ldots s_k \mid \Pi_{big})) \mid t]]$$
+$$Loss_{big}(\Pi_{big}) = \mathbf{E}[Loss_{small}(big\_network(s_1 \ldots s_k \mid \Pi_{big}))]$$
 
-Personal data receives a strong protection through the [GDPR](https://commission.europa.eu/node/1300). Member states are required to reconcile the right to privacy, to which exceptions can exist, with freedom of expression and information.
-
-#### In Italy
-
-The freedom to express thoughts and of the press are [protected](https://www.senato.it/istituzione/la-costituzione/parte-i/titolo-i/articolo-21) by the Italian constitution, but the same article also prohibits exhibits offensive to public morality. Limits to freedom of expression and of the press exist in the country.
-
-Vilification of the [nation](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/291_1_1), of its [constitutional institutions or armed forces](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/290_1_1) or of its [flag](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/292_1_1) and offence to the honor or prestige of the [president](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/278_1_1) are illegal. Propagating ideas based on racial or ethnic superiority or hatred is also [prohibited](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/604_1_2) as are organisations aimed at discrimination on certain grounds. Public [blasphemy](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/724_1_1) against God is illegal, as is publicly [offending](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/404_1_1) a religion by vilifying objects of worship.
-
-In order to sell devices containing copyrighted music, videos or computer programs, one must apply a [sticker](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633~art181bis) by [SIAE](https://www.siae.it/). This even includes self-produced works, but the stickers are very [cheap](https://www.gazzettaufficiale.it/eli/id/2002/01/21/02A00483/sg) and this is essentially just bureaucracy.
-
-An Italian court [ruled](https://www.ansa.it/sito/notizie/cultura/arte/2023/05/15/tribunale-si-al-diritto-allimmagine-per-beni-culturali_2fa5a371-1732-4cc7-bc7c-398a7c7a1341.html) against a publisher for using, without authorization, an image of [David](https://en.wikipedia.org/wiki/David_(Michelangelo)) by Michelangelo. The plaintiff was [Galleria dell'Accademia](https://www.galleriaaccademiafirenze.it/), the museum which hosts the famous statue. The defendant had used the image commercially by displaying it together with an image of a model (using [lenticular printing](https://en.wikipedia.org/wiki/Lenticular_printing)) for advertisement purposes. According to the court, this humiliated the symbolic value of the famous work. The Italian constitution promotes and defends [culture and art](https://www.senato.it/istituzione/la-costituzione/principi-fondamentali/articolo-9), as well as inviolable [human rights](https://www.senato.it/istituzione/la-costituzione/principi-fondamentali/articolo-2). The court chose to defend the right not to have one's intellectual heritage altered and distorted as part of the [right to personal identity](https://www.altalex.com/documents/news/2018/03/22/prova-e-diritto-alla-identita-personale-estratto-le-prove-civili) and to uphold the collective right to citizens' identity, affirming a right to image for cultural heritage.
-
-The press in Italy is regulated. All newspapers must be [registered](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-08;47~art5) on a [court registry](https://www.tribunale.belluno.giustizia.it/registrazione-di-giornali-o-periodici_114.html) in order to be legally published ([not necessary](https://www.mcreporter.info/LEGACY/giurisprudenza/cass12_23230.htm) for an online blog) and one needs to join a [registry](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;69~art45) by the [Order of Journalists](https://www.odg.it/) in order to practice the profession of journalism (a [controversial](https://www.ilfattoquotidiano.it/2010/07/27/einaudi-abolire-l%E2%80%99ordine-dei-giornalisti/44565/) norm, and which [doesn't exist](https://www.odg.it/la-storia) in the rest of Europe). In the [Press Freedom Index](https://rsf.org/index) Italy ranks below most EU countries and even the United States.
-
-The legal protection of freedom of speech in Italy extends beyond limitations on government censorship. The Workers' Statute grants workers the [right](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art1) to express their thoughts in the workplace and [forbids](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art8) employers from investigating their opinions on political, religious or social topics.
-
-## Social-media censorship
-
-Governments aren't the only ones taking actions to prevent public communications, thereby engaging in censorship.
-
-Social media platforms are used by many as one of the primary tools for public self-expression. The companies running these platform, however, have the ability to remove anything which gets published, as well as to ban accounts altogether. This gives them a lot of power to influence public discourse, not necessarily in the public interest.
-
-Content-neutral free-speech platforms that only remove that which would otherwise hamper the functionality, the utility or the existence of the platform itself (such as spam or illegal material) do exist. Censorship-resistant platforms based on open source software and decentralized communication protocols also exist.
-
-Some online platforms make it easier than others to speak anonymously. This allows users to express themselves without fear of social repercussions or their personal or professional life being degraded. Several people may need this protection. Consider, for example, those living in oppressive religious environments: an apostate in an Islamic theocracy or a gay boy in a family of Christian fundamentalists. Anonymity can shield them while they publish their personal experiences and interact with others like them.
-
-## Censorship by thugs
-
-Governments aren't alone in violating human rights.
-
-If, when speaking a certain idea, one risks being arrested and jailed by employees of the state, one isn't really free to express that idea. If expression is legal, but upon speaking publicly one risks being beaten up, killed, or otherwise harmed by the mafia or by some gang, one is equally unfree to express those ideas. Whether those expected to carry out the punishment are government-sponsored or mafia-sponsored really doesn't make a lot of difference for the victim: either way the right to freedom of expression is infringed.
-
-Non-government authorities can also take it upon themselves to limit the free expression of individuals under their control. For example, parents with underage children who have nowhere else to go and no way to escape their submission may force them to say certain things and prevent them from saying others, far exceeding the amount of control needed to protect the children's own interests. This is also an act of censorship, just like the others.
-
-## Tools of expression
-
-Beside lack of censorship, public access to tools that facilitate expression can also be empowering.
-
-In the world of software, tools useful for freedom of expression include editors for text, images, videos, audio and 3D models, as well as automatic translators and tools that can improve accessibility for disabled people. These programs should be widely available as free and open source software, as software freedom can enhance other kinds of freedom.
-
-## My take
-
-Freedom of expression is not a law. It is an idea, a principle and a human right. Some laws simply happen to implement some specific aspects of it.
-
-I consider myself to be a free speech maximalist. Lack of abuse through government censorship is not sufficient. Instead, actual and effective access to the exercise of freedom of speech is needed, along with a culture which encourages self-expression.
-
-Rather than try to condense too much of my opinion on the subject in one paragraph, I will list simple individual points, each of which is one of its aspects:
-
-- Plain misdeeds with no redeeming social importance which are ill-intended or likely to be harmful, such as fraud, dealing in child pornography and credible threats of illegal violence, don't and shouldn't fall within the scope of free speech.
-- Where some other fundamental right necessarily conflicts with freedom of speech, a reasonable balance needs to be found between the two. Freedom of speech should be held in very high consideration when finding such tradeoffs.
-- Freedom of speech should be understood to include expression trough computer code.
-- Freedom from government censorship should be strongly protected. Generally, speech which is currently legal either in the US or the EU should be legal worldwide.
-- It should be legally allowed to criticize the law, as well as to endorse policies. Laws that prohibit criticism of the legal status quo are illegitimate.
-- Practice of journalism shouldn't be subject to formalities or legal requirements, such as registration in a public registry.
-- The right to parody and satire should be upheld and defended.
-- Offensive speech, including blasphemy and flag desecration, should be legally allowed.
-- Hate speech and similarly disgraceful expressions of abhorrent ideas should be countered with words, not through violence or suppression.
-- Sexual obscenity and hard-core pornography should be allowed and not restricted beyond the extent necessary to protect children and unwilling recipients.
-- Circumventing DRM technology should be allowed, as should be distributing software intended to do so. Customers should be clearly informed of the presence of DRM-based restrictions in any device they buy.
-- Individuals should have the option of privately communicating in a secure and confidential way, including through strong cryptography. It should also be possible to express oneself publicly and yet anonymously.
-- Access to neutral tools which can facilitate the actual exercise of freedom of expression should be maximized. This includes high-quality free and open source software for writers, artists and coders.
-- Privacy-preserving free-speech or censorship-resistant online social media platforms should be made mainstream.
-- A culture of open, rational and honest discourse and critical thinking should be fostered. The social cost of disagreements should be reduced.
-- People have the right not to take a public stance on issues about which they do not wish to do so.
-- Defending others' right to free expression should not be misunderstood as endorsing, approving or liking what they say.
-- Individually, it's important to take actions to protect, preserve and enhance one's ability to exercise one's own freedom of expression effectively.
-- The right to free speech includes the right to openly endorse censorship.
-
-The current level of freedom of expression is not sufficient and, while some of the much-needed progress lies in the context of politics and of the law, most of it is cultural and societal. Free software controlled by users may be part of what's needed, but it would be unwise to treat as a technical problem that which mostly isn't.
-
-There are multiple reasons for my highly permissive stance on freedom of expression.
-
-I regard freedom of expression as a necessary cornerstone of a healthy democracy. If the people are to make collective decisions, they ought to be able to openly discuss and challenge ideas. If enough people dislike a certain ideology, that of censoring it might become a nearly ubiquitous desire. However, democracy should empower all individuals, not just the majority, and certain rights should be preserved. As for freedom of expression specifically, it isn't just fundamental as an individual right, it is also necessary to allow democratic public discourse to continue. Weakening freedom of expressions doesn't only affect those alive in that moment who have disagreeable ideas, it also deteriorates democracy for future generations. Therefore the right to express oneself should supersede others' will to suppress it.
-
-Censorship by social media platforms carries its own set of issues. I don't argue, in this instance, that it is morally wrong to limit content on one's own server, and I certainly believe that using the force of the law to prevent it would be unwise. What I also think, however, is that maximally content-neutral social media platforms are better for society, that it would be desirable if they were successful and that they should be preferred as general-purpose platforms. Social media platforms are, for many, one of the primary means used to communicate with others publicly. There is no reason to subjugate ourselves to the whims and preferences of a select group of oligarchs when exchanging opinions or information. Indeed, one shouldn't expect the economical interests of those running successful social media platform to align with the good of society, nor should one trust any entity with the undeserved authority to decide what should be read and what should be written. One's public profile should be representative of what one wishes to share of oneself, not the intersection between that and an arbitrary set of rules. Nobody owes anyone the effort and expense needed to create and run free-speech platforms, and the status quo may not be the result of any injustice. But injustices aren't all that can lead to a suboptimal status of society, and while none has to to run such platforms, it'd be nice if they were mainstream.
-
-Banning certain topics or ideas from spaces used for public expression, be it through the law, through an extreme and excessive amount of public censure, or through the choice of private entities that own such spaces, has the risk of creating eco chambers where those who treat those topics or express those ideas assemble and shelter in isolation. This is dangerous in at least two ways. It leaves these people unchallenged, while also giving them a sense of victimhood, potentially leading to radicalization, and it makes it harder for those who aren't part of these groups to learn about what they say and to actually understand them.
-
-It must be noted that limiting someone's freedom of speech is the same as limiting everybody else's ability to listen to them. To tape one's mouth is to plug another's ears. Censoring people isn't simply an action taken against them. It's also an action that impacts everyone who would have wanted to listen to them. That doesn't just include the fans of the censored ones, but also those who simply wanted to be informed about their position. Whenever the claim is heard that some party has made a certain public assertion, verifying that claim (that the assertion has been made) requires access to the assertion itself, as published by that party. Believing that a party has asserted something is entirely different from believing that the assertion is true. The fact that, often in error, something has been said is often newsworthy. Censorship can prevent fact-checking news of this sort.
-
-In addition to everything else, freedom has inherent value and self-expression is something most care about being able to do. It's not just an instrument to achieve other fundamental goals, it is a fundamental goal on its own. Defending people's right to freedom of speech is akin to defending their ability to avoid pain and suffering, to have their dignity protected and to continue living. What makes freedom of speech different is how much cheaper, in terms of required resources, providing it is.
-
-As for the idea that the right to free speech should be understood to include the right to openly endorse censorship, it's easy enough to see. If we must protect the right to express wrong opinions, then endorsement of censorship is one of them and must therefore be protected. Unfortunately many claim to support freedom of expression, but only truly support it for those who align with them politically or ideologically. The idea that they should themselves be censored is an obvious one they will disagree with, with practical certainty. Whether people would endorse the right to express that opinion is therefore a good test of their actual stance on the subject.
-
-## Additional resources
-
-- *[In full: Rowan Atkinson on free speech](https://www.youtube.com/watch?v=BiqDZlAZygU)* by Rowan Atkinson
-- *[Remarks to the United Nations General Assembly in New York City](https://www.presidency.ucsb.edu/documents/remarks-the-united-nations-general-assembly-new-york-city-12#docmedia)* by Barack Obama
-- *[Defending the Right to Offend](https://www.huffpost.com/entry/defending-the-right-to-offend_b_7104960)* by Ayaan Hirsi Ali
-- *[Free Speech: Because We Can](http://www.aaronsw.com/weblog/becausewecan)* by Aaron Swartz
-- *[Daryl Davis addresses the 2017 FIRE Student Network Conference](https://www.youtube.com/watch?v=ndPmdL7XqxQ)* by Daryl Davis
-- *[Another Point of View at WMAQ](https://youtu.be/BtVqIYEsbrg?t=791)* by Jerry Springer
-- *[Free Speech Lets Me Know My Enemy](https://www.youtube.com/watch?v=OBuXYtmQ8mw)* by Killer Mike
+The purpose of the training process is that of minimizing $Loss_{big}$ by finding an optimal value of its internal parameters $\Pi_{big}$. It achieves this goal by performing stochastic gradient descent, using backpropagation, on $loss_{big}$: at each step of the computation all random variables are selected according to their interdependent distributions and are concrete. $loss_{big}$ will be described by a function in $\Pi_{big}$ and specific values for $s=(x,y)$ and $s1 \ldots s2$, which are generated (trough extractions from a dataset) after having randomly selected a specific task $t$ for that step.
