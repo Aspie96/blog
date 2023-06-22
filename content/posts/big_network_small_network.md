@@ -97,3 +97,7 @@ $$Loss_{big}(\Pi_{big}) = \mathbf{E}[\mathbf{E}[loss_{small}(big\_network(s_1 \l
 $$Loss_{big}(\Pi_{big}) = \mathbf{E}[Loss_{small}(big\_network(s_1 \ldots s_k \mid \Pi_{big}))]$$
 
 The purpose of the training process is that of minimizing $Loss_{big}$ by finding an optimal value of its internal parameters $\Pi_{big}$. It achieves this goal by performing stochastic gradient descent, using backpropagation, on $loss_{big}$: at each step of the computation all random variables are selected according to their interdependent distributions and are concrete. $loss_{big}$ will be described by a function in $\Pi_{big}$ and specific values for $s=(x,y)$ and $s1 \ldots s2$, which are generated (trough extractions from a dataset) after having randomly selected a specific task $t$ for that step.
+
+## Justification
+
+Common biases, pragmatics, assumptions that allow us to communicate effectively.
