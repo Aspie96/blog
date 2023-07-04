@@ -13,7 +13,7 @@ Programmers typically create software by writing *source code* in a *programming
 
 Legally, literary and artistic works are covered by *copyright*. Some uniformity across different countries is provided by the [Berne Convention](https://www.wipo.int/treaties/en/ip/berne/), which establishes a common set of legal principles. Copyright is automatic and it exists from the moment the work is fixed in a material medium. In general, preparing derivatives based on an existing work, reproducing it in copies or conveying it to the public are actions that, with some exceptions, require authorization from the copyright holder and are illegal if unauthorized.
 
-Software is covered by [copyright](https://en.wikipedia.org/wiki/Software_copyright) because it is either considered a kind of literary work or protected similarly to literary works in the United States, in the European Union and in other jurisdictions.
+Software is covered by [copyright](https://en.wikipedia.org/wiki/Software_copyright) because it is either considered a kind of literary work or protected similarly to literary works.
 
 Suppose you receive a program, made by someone else, in object form. You cannot study it and know what it does and how it works in detail, because you don't have the corresponding source code to read. You could technically distribute copies of the program (computers can always copy data), but you aren't legally allowed to do so without authorization. And modifying the program to make your own version is something you may be unable to do for both reasons.
 
@@ -23,15 +23,35 @@ Suppose you receive a program, made by someone else, in object form. You cannot 
 
 It is important to note that in "free software" the word "free" refers to freedom (as in "free speech"), not as price (as in "free beer"). This ambiguity is specific to the English language, which is why sometimes the Spanish and French word "libre" is used instead of "free" to avoid confusion. In practice, free software is often distributed at no charge (partly because anyone that receives can also distribute it), but a lot of software available at no charge is not free software.
 
-A detailed description of the history of free software is out of the scope of this article. Of special interest, however, is the [GNU](https://www.gnu.org/) project, [announced](https://www.gnu.org/gnu/initial-announcement.html) by [Richard Stallman](https://stallman.org/) in the '80s, who then published the [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html). The idea was to create a free operating compatible with Unix (a popular operating system at the time, which has been rather influential). Stallman then founded the [Free Software Foundation](https://www.fsf.org/), a non-profit organization.
+A detailed description of the history of free software is out of the scope of this article. Of special interest, however, is the [GNU](https://www.gnu.org/) project, [announced](https://www.gnu.org/gnu/initial-announcement.html) by [Richard Stallman](https://stallman.org/) in the '80s, who then published the [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html). The idea was to create a free operating compatible with Unix (a popular operating system at the time, which has been rather influential). Stallman then founded the [Free Software Foundation](https://www.fsf.org/), a non-profit organization which supports the GNU project and other initiatives.
 
 ## Free software licenses
 
-The free software community has a rather clear conventional understanding of which restrictions can apply to software freedom without making a program non-free. Free software licenses are *public licenses* (given to anyone that receives a copy of the program) and are written as reusable documents.
+The free software community has a rather clear conventional understanding on what restrictions can apply to software freedom without making a program non-free. Software which is, in some way, non-free, is referred to as "proprietary".
 
-In principle, it's possible for anyone to write one's own free software license, but it's strongly recommended to stick to a well-known license instead in order to prevent [proliferation](https://en.wikipedia.org/wiki/License_proliferation).
+Free software licenses are *public licenses* (given to anyone that receives a copy of the program) and are written as reusable documents. In principle, it's possible for anyone to write one's own free software license, but it's strongly recommended to stick to a well-known one instead, in order to prevent [proliferation](https://en.wikipedia.org/wiki/License_proliferation).
 
 Conditions such as that of providing attribution or retaining certain notices when distributing the program are permissible and widespread in free software licenses, as are disclaimers of warranty and liability. On the other hand, restrictions against commercial use of the program, or against uses which the author abhors for moral or political reasons, can never be part of a free software license, especially when they limit the [freedom to run the program](https://www.gnu.org/philosophy/programs-must-not-limit-freedom-to-run.html).
+
+## Copyleft
+
+## Remixing software
+
+There are several ways in which software can be "remixed". It's not crucial to understand this in detail: it's sufficient to know that software programs typically contain portions that were originally part of other projects, or that have been written by someone other than the main authors of the software.
+
+### Forks
+
+It's always possible to modify and then distribute a free program under the same license. When doing so, one is creating a *fork*, while the original is referred to as "upstream".
+
+The ability to fork software is a crucial aspect of the free software community. It allows different flavors of roughly the same software to be independently created, for different brands of users with different tastes and preferences.
+
+Even when the maintainers of a given program abandon the project, independent forks can be created, continuing to provide its users with updates.
+
+When forking software, it's crucial to fully comply with the terms of the license and it's generally advisable to use the same one for all modifications, even when it's not required. Attribution to the original program should be given in a prominent and conspicuous way. It's extremely important, however, to make clear that the fork is independent from the upstream and to avoid confusion. The name and branding of a fork should always be different from the original.
+
+### Libraries
+
+### Patches
 
 ## Advantages of free software
 
@@ -40,6 +60,7 @@ Software freedom leads to many advantages for the user, such as:
 - *Cost*: While free software doesn't have to be available at no charge, it typically is. Even when it isn't, multiple people can buy one copy and reproduce it among themselves, perfectly legally and morally.
 - *Customization*: Because free software can be modified, it can be customized to one's own needs.
 - *Security*: While this may be counter-intuitive to some, the fact that source code is readily available to be studied by anyone is good from a security perspective. It's well understood that computer security should not be addressed trough obscurity (Kerckhoffs's principle). If the source code is public, anyone can verify the absence of backdoors and any accidental vulnerability can be reported and corrected (Linus's law).
+- *Cooperation*: When working cooperatively on a project, free software is ideal because users care share it among themselves independently, without being encumbered by a proprietary license.
 - *Dependability*: A free program never ceases to exist, because any user is allowed to retain copies for any length of time.
-- *All-purpose*: One can learn how to use a free program, become good at it, and then use it, years later, in unforeseen scenarios (such as an unexpected commercial endeavor from what looked like would have remained just a hobby), thanks to the unrestricted freedom to run it.
+- *Applicability*: One can learn how to use a free program, become good at it, and then use it, years later, in unforeseen scenarios (such as an unexpected commercial endeavor from what looked like would have remained just a hobby), thanks to the unrestricted freedom to run it.
 - *Interoperability*: Free program use free file formats, which allows communication between different programs.
