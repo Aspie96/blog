@@ -110,6 +110,24 @@ Thanks to software freedom, governments can uphold copyright and still exercise 
 
 ## Non-software assets
 
+Software programs aren't the only digital assets that can be distributed under a free license. Artworks, books, music and all sort of other works are also subject of copyright.
+
+The [Definition of Free Cultural Works](https://freedomdefined.org/Definition) and the [Open Definition](https://opendefinition.org/) (by the [Open Knowledge Foundation](https://okfn.org/)) independently provide definitions that can be used to establish which licenses are "free" or "open". The relevant freedoms are the same as those for free and open source software, just translated out of the software domain.
+
+[Creative Commons](https://creativecommons.org/) is a nonprofit organization which publishes public licenses which can be used by many. Different licenses written by the Creative Commons organization are widely different between each other. Many of them are proprietary because they include non-free restrictions (such as those against commercial use or sharing derivative works).
+
+Creative Commons [clarifies](https://creativecommons.org/2008/02/20/approved-for-free-cultural-works/) which, among its several different licenses, can be used for free cultural works. [CC0](https://creativecommons.org/publicdomain/zero/1.0/) is a public domain declaration: it waives all copyright on the work, which then can be used without conditions. [CC BY](https://creativecommons.org/licenses/by/4.0/) and [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) are free public licenses which require attribution and prohibit any additional technical or legal restriction on the work. CC BY-SA is a *ShareAlike* license (effectively the same mechanism as copyleft).
+
+While Creative Commons licenses are widely used because of their simplicity, other free licenses suitable for non-software works also exist. Other copyleft licenses for free cultural works include the [Free Art License](https://artlibre.org/licence/lal/en/) and the [GNU GPL](https://www.gnu.org/licenses/licenses.html) license, which, while mainly designed for software, can be used for non-software works as well.
+
+The concept of "source code" exists for non-software works as well, and it has the same meaning: it's the preferred form of the work for making modifications to it. It's arguably less important than for software, though, since books and art pieces are intelligible to humans (and, with some effort, also modifiable) even when stored in other formats. Some copyleft free licenses (such as the GNU GPL) require that access to source code is given when distributing a derivative, while others (such as CC BY-SA and the Free Art License) do not.
+
+The same digital asset (for example, an image) can be stored in a computer file in many different formats that represent the same information differently. Some file formats can only be read using proprietary software (due to secrets or legal restrictions), constraining the user, while others can be dealt with using free and open source software. When distributing free cultural works, it's important to use a free format for doing so, in order to avoid these restrictions and keep the work actually free.
+
+The distinction between software and non-software items in the world of free and open content does matter to some extent, but is not crucial and is blurred for some assets. The same freedoms and, often, the same terminologies and even the same licenses apply across different domains.
+
+The Free Software Definition, the Debian Free Software Guidelines, the Open Source Definition, the Definition of Free Cultural Works and the Open Definition all describe the same set of freedoms and should be read in the most convergent way possible, keeping the tradition and the common norms of the free and open source software community in context.
+
 ## Additional resources
 
 - *[What is Free Software?](https://www.gnu.org/philosophy/free-sw.html)* by the GNU Project
