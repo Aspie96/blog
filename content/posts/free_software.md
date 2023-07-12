@@ -185,6 +185,7 @@ As for free cultural content, [Wikipedia](https://www.wikipedia.org/) is a free 
 - *[Definition of Free Cultural Works](https://freedomdefined.org/Definition)* by Definition of Free Cultural Works
 - *[The Open Definition](https://opendefinition.org/)* by the Open Knowledge Foundation
 - *[Introduction to Free Software and the Liberation of Cyberspace](https://www.youtube.com/watch?v=Ag1AKIl_2GM)* by Richard Stallman
+- *[Why Software Should Not Have Owners](https://www.gnu.org/philosophy/why-free.html) by Richard Stallman
 - *[Selling Free Software](https://www.gnu.org/philosophy/selling.html)* by the GNU Project
 - *[Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)* by Rich Hickey
 
