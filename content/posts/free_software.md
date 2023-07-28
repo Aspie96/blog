@@ -29,7 +29,7 @@ In an ever more digitalized world, restrictions on software give a lot of power 
 
 In "free software" the word "free" refers to freedom (as in "free speech"), not to price (as in "free beer"). This ambiguity is specific to the English language, which is why sometimes the Spanish and French word "libre" is used instead of "free" to avoid confusion. In practice, free software typically happens to be distributed at no charge (partly because anyone that receives can also distribute it), but a lot of software available at no charge is not free software.
 
-The [GNU](https://www.gnu.org/) project, [announced](https://www.gnu.org/gnu/initial-announcement.html) by [Richard Stallman](https://stallman.org/) in the '80s, who then published the [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html), is especially important for the history of free software. The idea was to create a free operating compatible with Unix (a popular operating system at the time). Stallman also founded the [Free Software Foundation](https://www.fsf.org/), a non-profit organization which supports the GNU project and other initiatives and also maintains the [free software definition](https://www.gnu.org/philosophy/free-sw.html).
+The [GNU](https://www.gnu.org/) project, [announced](https://www.gnu.org/gnu/initial-announcement.html) by [Richard Stallman](https://stallman.org/) in the '80s, is especially important for the history of free software. The idea was to create a free operating system. Stallman also founded the [Free Software Foundation](https://www.fsf.org/), a non-profit organization which supports GNU and other initiatives and also maintains the [free software definition](https://www.gnu.org/philosophy/free-sw.html).
 
 The *free software movement* supports software freedom on moral grounds, based on the idea that non-free software is controlled by its owner rather than the user and that this constitutes an instrument of unjust power over users' computing. It is, however, possible to use and endorse free software because of its numerous advantages, even without agreeing with the philosophy underlying the movement.
 
@@ -39,7 +39,7 @@ The [Debian](https://www.debian.org/index.it.html) project, announced by [Ian Mu
 
 In order to exercise software freedom, a user needs to be allowed, by the rightholders of the program, to do so, trough a *license* (which is a synonym of "authorization" and of "permission").
 
-Free software licenses are *public licenses* (permissions given to anyone that receives a copy of the program) and are written as reusable documents. In principle, it's possible for anyone to write one's own license, but it's strongly recommended to stick to a well-known one instead, in order to prevent [proliferation](https://en.wikipedia.org/wiki/License_proliferation).
+Free software licenses are *public licenses* (permissions given to anyone that receives a copy of the program) and are written as reusable documents. In principle, anyone could write one's own license, but it's strongly recommended against, in order to prevent [proliferation](https://en.wikipedia.org/wiki/License_proliferation).
 
 A license can come at certain *conditions*, meaning that it only applies as long as long as they are followed. Most licenses have at least some conditions (or fail to allow certain activities). Some conditions or restrictions are considered permissible in a free software license.
 
@@ -67,35 +67,19 @@ Most restrictive permissible restriction. Incentivize creation of other free sof
 
 ## Remixing software
 
-There are several ways in which software can be "remixed", and some are outlined here.
-
-It's not crucial to understand this section in detail. It's sufficient to know that software programs typically contain portions that were originally part of other projects, or that have been written by someone other than the main authors of the software.
-
-The important point is that, as a result of mutual cooperation and exercise of software freedom, one piece of software can have hundreds of authors and copyright holders. Each one licenses one's own rights (to the respective portions of the program) to the user.
-
-In the simplest case, everyone is using the exact same license document. Usually it's more complex, but, as long as all licenses are cross-compatible, software freedom is preserved. Typically there is only one license (the main and most restrictive one) the end-user actually has reason to care about. Maintainers may have to deal with a bit more complexity in order to ensure compliance.
-
-The rest of this section is for the most curious readers, others can feel free to skip to the next one, where I explain some of the advantages of free software.
-
-### Forks
+There are several ways in which software can be "remixed". These include, among others, *forks*, *libraries* and *patches*.
 
 It's always possible to independently modify and then distribute a free program under the same license. When doing so, one is creating a *fork*, while the original is referred to as "upstream".
 
-### Libraries
+When building new programs, programmers almost never start from scratch. A *library* is a collection of software modules which offer some general functionalities and which can be reused as components of larger programs (or even other libraries). When programming, using libraries made by others is the norm, not the exception.
 
-When building new programs, programmers almost never start from scratch.
+Free programs are often developed cooperatively. Maintainers of a project can publish its source code online. Independent programmers can then contribute by sending *patches* (suggested modifications), which maintainers can choose to *merge* (apply) or not. By default, individual contributors continue to hold the copyright on their own portions of code, but license them publicly (including to maintainers) under the same license as that of the project.
 
-A *library* is a collection of software modules which offer some general functionalities and which can be reused as components of larger programs (or even other libraries).
-
-When programming, using libraries made by others is the norm, not the exception.
-
-### Patches
-
-Free programs are often developed cooperatively. Maintainers of a project can publish its source code online. Independent programmers can then contribute by sending *patches* (suggested modifications), to improve it in some way, which maintainers can choose to *merge* (apply) or not. By default, individual contributors continue to hold the copyright on their own portions of code, but license them publicly, to everyone else (including maintainers), under the same license as that of the project.
+As a result of mutual cooperation and exercise of software freedom, one program can have hundreds of authors and copyright holders. Each one licenses one's own rights (to the respective portions of the program) to the user. In the simplest case, everyone is using the exact same license document. Usually it's more complex, but, as long as all licenses are cross-compatible, software freedom is preserved. Typically there is only one license (the main and most restrictive one) the end-user actually has reason to care about. Maintainers may have to deal with a bit more complexity in order to ensure compliance.
 
 ## Motivations
 
-At this point in the article, you might be wondering why anyone would actually develop free software. There are plenty of motivations, too many for this article.
+At this point in the article, you might be wondering why anyone would actually develop free software. There are plenty of motivations and this section will mention a few.
 
 Software freedom is not anti-business and it's not anti-money. Indeed, the only business models incompatible with software freedom are the ones that require restricting the user. Many business models are perfectly consistent with releasing free software, which also happens to be good publicity for the company and to often get contributions from the community. Sometimes companies that want to release a piece of software can only do so as free software because of copyleft, but that is not the only motive.
 
@@ -151,13 +135,9 @@ The Free Software Definition, the Debian Free Software Guidelines, the Open Sour
 
 ## Examples
 
-There are many free and open source programs which are publicly available to everyone online, at no charge. Many of them are widely used.
+In technical endeavors, free software is common at every level, for programming, managing online services, security purposes and more. It is not, however, just for the tech-savvy.
 
-In technical endeavors, free software is common at every level. Programmers use free tools to develop their own (free or proprietary) software. Administrators use free software to run web servers. Environments based on free software are used internally by companies of all sizes. Software crucial for encryption and security is often free and open source, as is much of the software that constitutes the invisible backbone of the Internet.
-
-Free software is not just for the tech-savvy. It is used in all environments in which computers are and can carry out tasks useful for people at any level of technical skill.
-
-There are several well-known examples of free and open source software programs that you may be familiar with. Here are just a few:
+There are several well-known cross-platform free and open source programs, publicly available at no charge, which you may be familiar with. Here are just a few:
 
 - [Mozilla Firefox](https://www.mozilla.org/it/firefox/): Web browser.
 - [Blender](https://www.blender.org/): Program for 3D digital art.
@@ -173,7 +153,7 @@ Even proprietary programs commonly contain portions of free software that their 
 
 You have probably heard of [Linux](https://www.kernel.org/): a free and open source *kernel*. The kernel of an operating system is a crucial background program that manages resources, orchestrates all other programs and performs certain actions on behalf of them. Many operating systems use Linux as a kernel and have the word "Linux" in their name.
 
-As for free cultural content, [Wikipedia](https://www.wikipedia.org/) is a free (libre) encyclopedia: Wikipedia articles are available under the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
+As for free cultural content, [Wikipedia](https://www.wikipedia.org/) is a free (libre) encyclopedia: its articles are available under the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 ## Additional resources
 
