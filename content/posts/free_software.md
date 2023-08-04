@@ -21,7 +21,7 @@ Legally, original literary and artistic works, such as poems and paintings, are 
 
 Suppose you receive a program, made by someone else, in object form. You cannot study it and know what it does and how it works in detail, because you don't have the corresponding source code to read. You could technically distribute copies of the program (computers can always copy data), but you aren't legally allowed to do so without authorization. You may be unable to modify the program to your liking for both legal and technical reasons.
 
-In an ever more digitalized world, restrictions on software give a lot of power to its rightholders, and a lot of control on those that become dependent on the programs they use.
+Legal and technical restrictions on software go beyond copyright and withholding source code. In an ever more digitalized world, restrictions on software give a lot of power to its rightholders, and a lot of control on those that become dependent on the programs they use.
 
 ## Free software
 
@@ -37,11 +37,11 @@ The [Debian](https://www.debian.org/index.it.html) project, announced by [Ian Mu
 
 ## Free software licenses
 
-In order to exercise software freedom, a user needs to be allowed, by the rightholders of the program, to do so, trough a *license* (which is a synonym of "authorization" and of "permission").
+In order to exercise software freedom, a user needs to be allowed, by the rightholders of the program, to do so, trough a *license* (synonym of "authorization" and of "permission").
 
 Free software licenses are *public licenses* (permissions given to anyone that receives a copy of the program) and are written as reusable documents. In principle, anyone could write one's own license, but it's strongly recommended against, in order to prevent [proliferation](https://en.wikipedia.org/wiki/License_proliferation).
 
-A license can come at certain *conditions*, meaning that it only applies as long as long as they are followed. Most licenses have at least some conditions (or fail to allow certain activities). Some conditions or restrictions are considered permissible in a free software license.
+Most licenses come at certain *conditions* (only applying as long as long as they are followed). Some conditions or restrictions are considered permissible in a free software license.
 
 Conditions such as that of providing attribution or retaining certain notices when distributing the program are permissible and widespread in free software licenses, as are disclaimers of warranty and liability. On the other hand, restrictions against commercial use or uses which the author abhors for moral or political reasons can never be part of a free software license, especially when they limit the [freedom to run the program](https://www.gnu.org/philosophy/programs-must-not-limit-freedom-to-run.html).
 
@@ -71,7 +71,7 @@ There are several ways in which software can be "remixed". These include, among 
 
 It's always possible to independently modify and then distribute a free program under the same license. When doing so, one is creating a *fork*, while the original is referred to as "upstream".
 
-When building new programs, programmers almost never start from scratch. A *library* is a collection of software modules which offer some general functionalities and which can be reused as components of larger programs (or even other libraries). When programming, using libraries made by others is the norm, not the exception.
+When building new programs, programmers almost never start from scratch. A *library* is a collection of software modules which can be reused as components of larger programs. When programming, using libraries made by others is the norm, not the exception.
 
 Free programs are often developed cooperatively. Maintainers of a project can publish its source code online. Independent programmers can then contribute by sending *patches* (suggested modifications), which maintainers can choose to *merge* (apply) or not. By default, individual contributors continue to hold the copyright on their own portions of code, but license them publicly (including to maintainers) under the same license as that of the project.
 
@@ -81,9 +81,9 @@ As a result of mutual cooperation and exercise of software freedom, one program 
 
 At this point in the article, you might be wondering why anyone would actually develop free software. There are plenty of motivations and this section will mention a few.
 
-Software freedom is not anti-business and it's not anti-money. Indeed, the only business models incompatible with software freedom are the ones that require restricting the user. Many business models are perfectly consistent with releasing free software, which also happens to be good publicity for the company and to often get contributions from the community. Sometimes companies that want to release a piece of software can only do so as free software because of copyleft, but that is not the only motive.
+Software freedom is not anti-business and it's not anti-money. Indeed, the only business models incompatible with it are the ones that require restricting the user. Many business models are perfectly consistent with releasing free software, which also happens to be good publicity for the company and, often, a way to get contributions from the community. In some cases, companies that want to release a program can only do so as free software because of copyleft.
 
-While making money by making free software is possible, for-profit companies are not the only ones doing so. For non-profit organizations seeking to make the world a better place and governments serving the interests of their citizens, software freedom is the obvious choice.
+While making money by developing free software is possible, for-profit companies are not the only ones doing so. For non-profit organizations seeking to make the world a better place and governments serving the interests of their citizens, software freedom is the obvious choice.
 
 Individuals can earn by making free software, but many chose to do so for entirely different reasons. For many, writing code is fun, just like many other activities are fun to other people, and this is a strong motivator on its own. It can also be a learning experience. People can also choose to share the programs they write out of altruism, to help others, or for ideological reasons, in order to support software freedom.
 
