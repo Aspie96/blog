@@ -57,11 +57,9 @@ A license which uses the mechanism of copyleft can be described as "reciprocal" 
 
 Copyleft is deeply rooted in the history of free and open source software. It is considered a permissible restriction because it protects software freedom itself and is not based on other principles (unlike, for example, restrictions against certain fields for separate moral or political reasons).
 
-Most free and open source licenses are not copyleft licenses. When, if ever, to use a copyleft license is still debated and ultimately it's a matter of subjective choice.
+Most free and open source licenses are not copyleft licenses. When, if ever, to use a copyleft license is, ultimately, a matter of subjective choice.
 
-Copyleft can be used strategically as a way to promote the release of free software by those that would like to distribute modified versions of the program, but might otherwise do so under proprietary terms.
-
-One of the main issues with copyleft is that it can lead to [incompatibility](https://www.gnu.org/licenses/license-compatibility.html) between licenses which may prevent mixing pieces of software under different licenses.
+Copyleft can be used strategically as a way to promote the release of free software by others. On the other hand,it can lead to license [incompatibility](https://www.gnu.org/licenses/license-compatibility.html), which may prevent mixing pieces of software under different licenses.
 
 ## Remixing software
 
