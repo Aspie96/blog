@@ -27,7 +27,7 @@ Legal and technical restrictions on software go beyond copyright and withholding
 
 [*Free software*](https://www.gnu.org/philosophy/free-sw.html) is software which any user, in any field of endeavor, is free to run, analyze, modify and distribute. This means that it is provided alongside with equal access to its source code, as well as an authorization to perform these actions.
 
-In "free software" the word "free" refers to freedom (as in "free speech"), not to price (as in "free beer"). This ambiguity is specific to the English language, which is why sometimes the Spanish and French word "libre" is used instead of "free" to avoid confusion. In practice, free software typically happens to be distributed at no charge (partly because anyone that receives can also distribute it), but a lot of software available at no charge is not free software.
+In "free software" the word "free" refers to freedom (as in "free speech"), not to price (as in "free beer"). This ambiguity is specific to the English language, which is why sometimes the Spanish and French word "libre" is used, instead of "free", to avoid confusion. In practice, free software typically happens to be distributed at no charge (partly because anyone that receives can also distribute it), but a lot of software available at no charge is not free software.
 
 The [GNU](https://www.gnu.org/) project, [announced](https://www.gnu.org/gnu/initial-announcement.html) by [Richard Stallman](https://stallman.org/) in the '80s, is especially important for the history of free software. The idea was to create a free operating system. Stallman also founded the [Free Software Foundation](https://www.fsf.org/), a non-profit organization which supports GNU and other initiatives and also maintains the [free software definition](https://www.gnu.org/philosophy/free-sw.html).
 
@@ -39,9 +39,9 @@ The [Debian](https://www.debian.org/index.it.html) project, announced by [Ian Mu
 
 In order to exercise software freedom, a user needs to be allowed, by the rightholders of the program, to do so, trough a *license* (synonym of "authorization" and of "permission").
 
-Free software licenses are *public licenses* (permissions given to anyone that receives a copy of the program) and are written as reusable documents. In principle, anyone could write one's own license, but it's strongly recommended against, in order to prevent [proliferation](https://en.wikipedia.org/wiki/License_proliferation).
+Free software licenses are *public licenses* (permissions granted to anyone who receives a copy of the program) written as reusable documents. In principle, anyone could write one's own license, but it's strongly recommended against, in order to prevent [proliferation](https://en.wikipedia.org/wiki/License_proliferation).
 
-Most licenses come at certain *conditions* (only applying as long as long as they are followed). Some conditions or restrictions are considered permissible in a free software license.
+Most licenses come at certain *conditions* (only applying as long as long as they are met). Some conditions or restrictions are considered permissible in a free software license.
 
 Conditions such as that of providing attribution or retaining certain notices when distributing the program are permissible and widespread in free software licenses, as are disclaimers of warranty and liability. On the other hand, restrictions against commercial use or uses which the author abhors for moral or political reasons can never be part of a free software license, especially when they limit the [freedom to run the program](https://www.gnu.org/philosophy/programs-must-not-limit-freedom-to-run.html).
 
@@ -49,21 +49,19 @@ The Free Software Foundation maintains a [list](https://www.gnu.org/licenses/lic
 
 ## Copyleft
 
-Of all restrictions that are permissible in a free software license, [copyleft](https://www.gnu.org/licenses/copyleft.html) is likely the most restrictive one, as well as the one which is most debated and controversial.
+Of all restrictions that are permissible in a free software license, [copyleft](https://www.gnu.org/licenses/copyleft.html) is arguably the most restrictive, interesting and discussed one.
 
 A copyleft license allows distributing one's own modifications to the software only as free software, along with source code, under the same license (or a compatible one). In essence, the copyleft condition ensures that software freedom is preserved when modified versions of the program are passed on.
 
 A license which uses the mechanism of copyleft can be described as "reciprocal" or "share alike". A share-alike license, however, is not necessarily free (for example, it might have a non-commercial restriction). A copyleft license is a license which is both share-alike and free.
 
-The reason that copyleft is considered a permissible restriction in free software licenses is that it still allows distributing modified copies of the program, as free software and it's only based on the principles of software freedom itself (unlike, for example, licenses with restrictions against certain fields for separate moral or political reasons).
+Copyleft is deeply rooted in the history of free and open source software. It is considered a permissible restriction because it protects software freedom itself and is not based on other principles (unlike, for example, restrictions against certain fields for separate moral or political reasons).
 
-Copyleft is deeply rooted in the history of free and open source software and it's clear that copyleft licenses are indeed free and open source. Most free and open source licenses, however, are not copyleft licenses. When, if ever, to use a copyleft license is still debated and ultimately it's a matter of subjective choice.
+Most free and open source licenses are not copyleft licenses. When, if ever, to use a copyleft license is still debated and ultimately it's a matter of subjective choice.
 
 Copyleft can be used strategically as a way to promote the release of free software by those that would like to distribute modified versions of the program, but might otherwise do so under proprietary terms.
 
 One of the main issues with copyleft is that it can lead to [incompatibility](https://www.gnu.org/licenses/license-compatibility.html) between licenses which may prevent mixing pieces of software under different licenses.
-
-Most restrictive permissible restriction. Incentivize creation of other free software. Only based on the values of software freedom itself, not other moral or political values. License incompatibility.
 
 ## Remixing software
 
@@ -115,19 +113,19 @@ Thanks to software freedom, governments can uphold copyright and still exercise 
 
 ## Non-software assets
 
-Software programs aren't the only digital assets that can be distributed under a free license. Artworks, books, music and all sort of other works are also subject of copyright.
+Software programs aren't the only digital assets that can be distributed under a free license. Artworks, books, music and all sorts of other works are also subject to copyright.
 
 The [Definition of Free Cultural Works](https://freedomdefined.org/Definition) and the [Open Definition](https://opendefinition.org/) (by the [Open Knowledge Foundation](https://okfn.org/)) independently provide definitions that can be used to establish which licenses are "free" or "open". The relevant freedoms are the same as those for free and open source software, just translated out of the software domain.
 
-[Creative Commons](https://creativecommons.org/) is a nonprofit organization which publishes public licenses which can be used by many. Different licenses written by the Creative Commons organization are widely different between each other. Many of them are proprietary because they include non-free restrictions (such as those against commercial use or sharing derivative works).
+[Creative Commons](https://creativecommons.org/) is a nonprofit organization which publishes public licenses which can be used by many. Different licenses written by the Creative Commons organization are widely different between each other. Many of them are proprietary because they include non-free restrictions (such as those against commercial use or sharing derivative works), but some are free.
 
-Creative Commons [clarifies](https://creativecommons.org/2008/02/20/approved-for-free-cultural-works/) which, among its several different licenses, can be used for free cultural works. [CC0](https://creativecommons.org/publicdomain/zero/1.0/) is a public domain declaration: it waives all copyright on the work, which then can be used without conditions. [CC BY](https://creativecommons.org/licenses/by/4.0/) and [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) are free public licenses which require attribution and prohibit any additional technical or legal restriction on the work. CC BY-SA is a *ShareAlike* license (effectively the same mechanism as copyleft).
+Creative Commons [clarifies](https://creativecommons.org/2008/02/20/approved-for-free-cultural-works/) which, among its several different licenses, are suitable for free cultural works. [CC0](https://creativecommons.org/publicdomain/zero/1.0/) is a public domain declaration: it waives all copyright on the work, which then can be used without conditions. [CC BY](https://creativecommons.org/licenses/by/4.0/) and [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) are free public licenses which require attribution and prohibit any additional technical or legal restriction on the work. CC BY-SA is a *ShareAlike* license (effectively the same mechanism as copyleft).
 
-While Creative Commons licenses are widely used because of their simplicity, other free licenses suitable for non-software works also exist. Other copyleft licenses for free cultural works include the [Free Art License](https://artlibre.org/licence/lal/en/) and the [GNU GPL](https://www.gnu.org/licenses/licenses.html) license, which, while mainly designed for software, can be used for non-software works as well.
+While Creative Commons licenses are widely used because of their simplicity, other free licenses suitable for non-software works also exist, such as the [Free Art License](https://artlibre.org/licence/lal/en/) and the [GNU GPL](https://www.gnu.org/licenses/licenses.html), which, while mainly designed for software, can be used for other works as well.
 
-The concept of "source code" exists for non-software works as well, and it has the same meaning: it's the preferred form of the work for making modifications to it. It's arguably less important than for software, though, since books and art pieces are intelligible to humans (and, with some effort, also modifiable) even when stored in other formats. Some copyleft free licenses (such as the GNU GPL) require that access to source code is given when distributing a derivative, while others (such as CC BY-SA and the Free Art License) do not.
+The concept of "source code" exists for non-software works too, and it has the same meaning: the preferred form of the work for making modifications to it. It's arguably less important than for software, though, since books and art pieces are intelligible to humans (and, with some effort, also modifiable) even when stored in other formats. Some copyleft free licenses (such as the GNU GPL) require that access to source code is given when distributing a derivative, while others (such as CC BY-SA and the Free Art License) do not.
 
-The same digital asset (for example, an image) can be stored in a computer file in many different formats that represent the same information differently. Some file formats can only be read using proprietary software (due to secrets or legal restrictions), constraining the user, while others can be dealt with using free and open source software. When distributing free cultural works, it's important to use a free format for doing so, in order to avoid these restrictions and keep the work actually free.
+The same digital asset (for example, an image) can be stored in a computer file in many different *formats* that represent the same information differently. Some file formats can only be read using proprietary software (due to secrets or legal restrictions), constraining the user, while others can be dealt with using free and open source software. When distributing free cultural works, it's important to use a free format for doing so, in order to avoid these restrictions.
 
 The distinction between software and non-software items in the world of free and open content does matter to some extent, but is not crucial and is blurred for some assets. The same freedoms and, often, the same terminologies and even the same licenses apply across different domains.
 
@@ -164,7 +162,11 @@ As for free cultural content, [Wikipedia](https://www.wikipedia.org/) is a free 
 - *[Permissible restrictions](https://freedomdefined.org/Permissible_restrictions)* by Definition of Free Cultural Works
 - *[The Open Definition](https://opendefinition.org/)* by the Open Knowledge Foundation
 - *[Introduction to Free Software and the Liberation of Cyberspace](https://www.youtube.com/watch?v=Ag1AKIl_2GM)* by Richard Stallman
+- *[Categories of Free and Nonfree Software](https://www.gnu.org/philosophy/categories.html)* by the GNU Project
+- *[Goodbye, "free software"; hello, "open source"](http://www.catb.org/~esr/open-source.html)* by Eric Raymond
 - *[Happy birthday to GNU](https://www.gnu.org/fry/)* by Stephen Fry
 - *[Why Software Should Not Have Owners](https://www.gnu.org/philosophy/why-free.html)* by Richard Stallman
 - *[Selling Free Software](https://www.gnu.org/philosophy/selling.html)* by the GNU Project
+- *[What Is The Spirit of Open Source?](https://haacked.com/archive/2012/02/22/spirit-of-open-source.aspx/)* by Phil Haack
+- *[Let's Talk About Open Source](https://blog.sentry.io/lets-talk-about-open-source/)* by David Cramer
 - *[Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)* by Rich Hickey
