@@ -17,15 +17,15 @@ If the topic seems complex, don't let this dissuade you from using free and open
 
 Programmers typically create software by writing *source code* in a *programming language*. Source code is primarily text. It's a detailed description of the program which trained humans and computers alike can understand. It can be converted, trough *compilation*, into other forms that can only be read by computers: *object code*. The result is still the same program, just represented in a different way, which is usually more efficient. The reverse operation (going from object code to human-readable source code) is often hard, if not nearly impossible.
 
-Legally, original literary and artistic works, such as poems and paintings, are covered by *copyright* (or "author's rights"). Some uniformity across different countries is provided by the [Berne Convention](https://www.wipo.int/treaties/en/ip/berne/). Copyright is automatic and it exists from the moment the work is first fixed in a material medium. In general, preparing derivatives based on an existing work, reproducing it in copies and conveying it to the public are actions that, with some exceptions, require authorization from the copyright holder and are illegal if unauthorized. Software is covered by [copyright](https://en.wikipedia.org/wiki/Software_copyright) because it is either considered a kind of literary work or protected similarly to literary works.
+Legally, original literary and artistic works of authorship, such as poems and paintings, are covered by *copyright* (or "author's rights"). Copyright is automatic and it exists from the moment the work is first fixed in a material medium. In general, preparing derivatives based on an existing work, reproducing it in copies and conveying it to the public are actions that, with some exceptions, require authorization from the copyright holder and are illegal if unauthorized. Software programs are covered by [copyright](https://en.wikipedia.org/wiki/Software_copyright) as literary works.
 
 Suppose you receive a program, made by someone else, in object form. You cannot study it and know what it does and how it works in detail, because you don't have the corresponding source code to read. You could technically distribute copies of the program (computers can always copy data), but you aren't legally allowed to do so without authorization. You may be unable to modify the program to your liking for both legal and technical reasons.
 
-Legal and technical restrictions on software go beyond copyright and withholding source code. In an ever more digitalized world, restrictions on software give a lot of power to its rightholders, and a lot of control on those that become dependent on the programs they use.
+Legal and technical restrictions on software exist beyond copyright and withholding source code. In an ever more digitalized world, restrictions on software give a lot of power to its rightholders, and a lot of control on those that become dependent on the programs they use.
 
 ## Free software
 
-[*Free software*](https://www.gnu.org/philosophy/free-sw.html) is software which any user, in any field of endeavor, is free to run, analyze, modify and distribute. This means that it is provided alongside with equal access to its source code, as well as an authorization to perform these actions.
+[*Free software*](https://www.gnu.org/philosophy/free-sw.html) is software which any user, in any field of endeavor, is free to run, copy, distribute, study, change and improve. This means that it is provided alongside with equal access to its source code, as well as an authorization to perform these actions.
 
 In "free software" the word "free" refers to freedom (as in "free speech"), not to price (as in "free beer"). This ambiguity is specific to the English language, which is why sometimes the Spanish and French word "libre" is used, instead of "free", to avoid confusion. In practice, free software typically happens to be distributed at no charge (partly because anyone that receives can also distribute it), but a lot of software available at no charge is not free software.
 
@@ -35,13 +35,29 @@ The *free software movement* supports software freedom on moral grounds, based o
 
 The [Debian](https://www.debian.org/index.it.html) project, announced by [Ian Murdock](https://ianmurdock.com/) in 1993, builds upon GNU and a lot of other software to deliver a free operating system. It is still extremely popular and relevant in technical environments. Debian used to be sponsored by the Free Software Foundation. [Bruce Perens](https://perens.com/) later became the leader of the project and wrote the [Debian Free Software Guidelines](https://wiki.debian.org/DebianFreeSoftwareGuidelines), which Debian uses, together with other documents, to establish the boundary between free and proprietary software.
 
-## Free software licenses
+## Open Source
+
+*Open source* is the same as free software. The reason for the double name is historical.
+
+Eric Raymond and Bruce Perens started the Open Source Initiative in 1998, as president and vice-president respectively. The idea was to promote free software under a different name, leveraging a more pragmatic approach. The open source movement has been very successful at doing so, making open source software widespread.
+
+The Open Source Definition, maintained by OSI, is based on the Debian Free Software Guidelines (also written by Perens) and it is equivalent, in substance, to the FSD by the FSF.
+
+In essence, the open source movement promotes free software under a different name, leveraging a more pragmatic approach. This has been very successful, making open source software widespread.
+
+Software is *source available* when, merely, its source code is provided. Source available software is not (necessarily) open source: for that, an open source license, which grants software freedom, is needed.
+
+The difference between the free software movement and the open source movement is big, but people from both can happily work together on the same programs. It is possible to promote software freedom without belonging neatly to either camp.
+
+Debian currently uses "free software" and "open source" synonymously and interchangeably.
+
+## Licenses
 
 In order to exercise software freedom, a user needs to be allowed, by the rightholders of the program, to do so, trough a *license* (synonym of "authorization" and of "permission").
 
-Free software licenses are *public licenses* (permissions granted to anyone who receives a copy of the program) written as reusable documents. In principle, anyone could write one's own license, but it's strongly recommended against, in order to prevent [proliferation](https://en.wikipedia.org/wiki/License_proliferation).
+Free software licenses are *public licenses* (granted to anyone who receives a copy of the program) written as reusable documents. In principle, anyone could write one's own license, but it's strongly recommended against, in order to prevent [proliferation](https://en.wikipedia.org/wiki/License_proliferation).
 
-Most licenses come at certain *conditions* (only applying as long as long as they are met). Some conditions or restrictions are considered permissible in a free software license.
+Most licenses come at certain *conditions* (only applying as long as long as they are met). Certain conditions or restrictions are considered compatible with software freedom.
 
 Conditions such as that of providing attribution or retaining certain notices when distributing the program are permissible and widespread in free software licenses, as are disclaimers of warranty and liability. On the other hand, restrictions against commercial use or uses which the author abhors for moral or political reasons can never be part of a free software license, especially when they limit the [freedom to run the program](https://www.gnu.org/philosophy/programs-must-not-limit-freedom-to-run.html).
 
@@ -51,11 +67,9 @@ The Free Software Foundation maintains a [list](https://www.gnu.org/licenses/lic
 
 Of all restrictions that are permissible in a free software license, [copyleft](https://www.gnu.org/licenses/copyleft.html) is arguably the most restrictive, interesting and discussed one.
 
-A copyleft license allows distributing one's own modifications to the software only as free software, along with source code, under the same license (or a compatible one). In essence, the copyleft condition ensures that software freedom is preserved when modified versions of the program are passed on.
+A copyleft license allows distributing one's own modifications to the software only as free software, under the same license (or a compatible one). In essence, it ensures that software freedom is preserved when modified versions of the program are passed on.
 
-A license which uses the mechanism of copyleft can be described as "reciprocal" or "share alike". A share-alike license, however, is not necessarily free (for example, it might have a non-commercial restriction). A copyleft license is a license which is both share-alike and free.
-
-Copyleft is deeply rooted in the history of free and open source software. It is considered a permissible restriction because it protects software freedom itself and is not based on other principles (unlike, for example, restrictions against certain fields for separate moral or political reasons).
+Copyleft is deeply rooted in the history of free and open source software. It is considered a permissible restriction because it protects software freedom itself and is not based on other principles (such as other moral or political ideas).
 
 Most free and open source licenses are not copyleft licenses. When, if ever, to use a copyleft license is, ultimately, a matter of subjective choice.
 
@@ -65,13 +79,13 @@ Copyleft can be used strategically as a way to promote the release of free softw
 
 There are several ways in which software can be "remixed". These include, among others, *forks*, *libraries* and *patches*.
 
-It's always possible to independently modify and then distribute a free program under the same license. When doing so, one is creating a *fork*, while the original is referred to as "upstream".
+It's always possible to independently modify and then distribute a free program under the same license. When doing so, one is creating a *fork*.
 
-When building new programs, programmers almost never start from scratch. A *library* is a collection of software modules which can be reused as components of larger programs. When programming, using libraries made by others is the norm, not the exception.
+When building new programs, programmers almost never start from scratch. A *library* is a collection of software modules which can be reused as components of larger programs.
 
-Free programs are often developed cooperatively. Maintainers of a project can publish its source code online. Independent programmers can then contribute by sending *patches* (suggested modifications), which maintainers can choose to *merge* (apply) or not. By default, individual contributors continue to hold the copyright on their own portions of code, but license them publicly (including to maintainers) under the same license as that of the project.
+Free programs are often developed cooperatively. Maintainers of a project can publish its source code online. Independent programmers can then contribute by sending *patches* (suggested modifications), which maintainers can choose to *merge* (apply) or not.
 
-As a result of mutual cooperation and exercise of software freedom, one program can have hundreds of authors and copyright holders. Each one licenses one's own rights (to the respective portions of the program) to the user. In the simplest case, everyone is using the exact same license document. Usually it's more complex, but, as long as all licenses are cross-compatible, software freedom is preserved. Typically there is only one license (the main and most restrictive one) the end-user actually has reason to care about. Maintainers may have to deal with a bit more complexity in order to ensure compliance.
+As a result of mutual cooperation and exercise of software freedom, one program can have hundreds of authors and copyright holders. Each licenses one's own rights (to the respective portions of the program) to the user. In the simplest case, everyone is using the exact same license document. Usually it's more complex, but, as long as all licenses are cross-compatible, software freedom is preserved. Typically there is only one license (the main and most restrictive one) the end-user actually has reason to care about. Maintainers may have to deal with a bit more complexity in order to ensure compliance.
 
 ## Motivations
 
@@ -157,14 +171,16 @@ As for free cultural content, [Wikipedia](https://www.wikipedia.org/) is a free 
 - *[The Open Source Definition](https://opensource.org/osd/)* by the Open Source Initiative
 - *[Debian Free Software Guidelines](https://wiki.debian.org/DebianFreeSoftwareGuidelines)* by Debian
 - *[Definition of Free Cultural Works](https://freedomdefined.org/Definition)* by Definition of Free Cultural Works
-- *[Permissible restrictions](https://freedomdefined.org/Permissible_restrictions)* by Definition of Free Cultural Works
 - *[The Open Definition](https://opendefinition.org/)* by the Open Knowledge Foundation
-- *[Introduction to Free Software and the Liberation of Cyberspace](https://www.youtube.com/watch?v=Ag1AKIl_2GM)* by Richard Stallman
+- *[Permissible restrictions](https://freedomdefined.org/Permissible_restrictions)* by Definition of Free Cultural Works
+- *[Introduction to Free Software and the Liberation of Cyberspace](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society/)* by Richard Stallman
 - *[Categories of Free and Nonfree Software](https://www.gnu.org/philosophy/categories.html)* by the GNU Project
 - *[Goodbye, "free software"; hello, "open source"](http://www.catb.org/~esr/open-source.html)* by Eric Raymond
-- *[Happy birthday to GNU](https://www.gnu.org/fry/)* by Stephen Fry
+- *[The Revenge of the Hackers](http://catb.org/~esr/faqs/hacker-revenge.html)* by Eric Raymond
+- *[On Usage of The Phrase "Open Source"](https://web.archive.org/web/20230506135235/https://perens.com/2017/09/26/on-usage-of-the-phrase-open-source/) by Bruce Perens
 - *[Why Software Should Not Have Owners](https://www.gnu.org/philosophy/why-free.html)* by Richard Stallman
 - *[Selling Free Software](https://www.gnu.org/philosophy/selling.html)* by the GNU Project
+- *[Happy birthday to GNU](https://www.gnu.org/fry/)* by Stephen Fry
 - *[What Is The Spirit of Open Source?](https://haacked.com/archive/2012/02/22/spirit-of-open-source.aspx/)* by Phil Haack
 - *[Let's Talk About Open Source](https://blog.sentry.io/lets-talk-about-open-source/)* by David Cramer
 - *[Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)* by Rich Hickey
