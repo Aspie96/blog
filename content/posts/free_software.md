@@ -39,15 +39,17 @@ The [Debian](https://www.debian.org/index.it.html) project, announced by [Ian Mu
 
 *Open source* is the same as free software. The reason for the double name is historical.
 
-Eric Raymond and Bruce Perens started the Open Source Initiative in 1998, as president and vice-president respectively. The idea was to promote free software under a different name, leveraging a more pragmatic approach. The open source movement has been very successful at doing so, making open source software widespread.
+Eric Raymond and Bruce Perens started the Open Source Initiative in 1998, as president and vice-president respectively. The idea was to promote free software under a different name, leveraging a more pragmatic approach
 
-Open source is not to be confused with software which is merely *source available*. Whenever source code is provided, the program is indeed source available, but, in order for it to be open source, an appropriate software license, one which grants software freedom, is necessary.
+The *open source movement*, based on utilitarianism rather than moral dogma (like the free software movement), and focusing heavily on cooperation and software quality, has been very successful in its goals, making open source software widespread.
 
 The Open Source Definition, maintained by OSI, is based on the Debian Free Software Guidelines (also written by Perens). It is equivalent, in substance, to the Free Software Definition by the Free Software Foundation, expressing the same concepts with different words and a different structure.
 
-The free software movement and the open source movement are different: they support the same class of software, but do so for different motives, with different tactics and using different names. Regardless, people from both can happily work together on the same programs. It is possible to promote software freedom without belonging neatly to either camp.
+The free software movement and the *open source movement* both support the same class of software, but they are different. The free software movement is older and stands on its moral doctrine, while the open source movement is more utilitarian, focusing on cooperation and software quality. The newer movement has received some [criticism](https://www.gnu.org/philosophy/open-source-misses-the-point.html) by the older one, but people from both can happily work together on the same programs. Indeed, it is possible to promote software freedom without belonging neatly to either camp.
 
-Debian currently uses "free software" and "open source" synonymously and interchangeably.
+Sometimes the phrase "free and open source software" is used to remain neutral between the two alternatives. It can also be shortened as "FOSS" or "[FLOSS](https://www.gnu.org/philosophy/floss-and-foss.html)" (the L stands for "libre"). "Free software" and "open source" can be used interchangeably to refer to the same class of programs, as the Debian debian community currently does.
+
+Open source is not to be confused with software which is merely *source available*. Whenever source code is provided, the program is indeed source available, but, in order for it to be open source, an appropriate software license, one which grants software freedom, is necessary.
 
 ## Licenses
 
