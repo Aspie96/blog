@@ -41,11 +41,9 @@ The [Debian](https://www.debian.org/index.it.html) project, announced by [Ian Mu
 
 Eric Raymond and Bruce Perens started the Open Source Initiative in 1998, as president and vice-president respectively. The idea was to promote free software under a different name, leveraging a more pragmatic approach. The open source movement has been very successful at doing so, making open source software widespread.
 
-The Open Source Definition, maintained by OSI, is based on the Debian Free Software Guidelines (also written by Perens) and it is equivalent, in substance, to the FSD by the FSF.
+Open source is not to be confused with software which is merely *source available*. Whenever source code is provided, the program is indeed source available, but, in order for it to be open source, an appropriate software license, one which grants software freedom, is necessary.
 
-In essence, the open source movement promotes free software under a different name, leveraging a more pragmatic approach. This has been very successful, making open source software widespread.
-
-Software is *source available* when, merely, its source code is provided. Source available software is not (necessarily) open source: for that, an open source license, which grants software freedom, is needed.
+The Open Source Definition, maintained by OSI, is based on the Debian Free Software Guidelines (also written by Perens). It is equivalent, in substance, to the Free Software Definition by the Free Software Foundation, expressing the same concepts with different words and a different structure.
 
 The difference between the free software movement and the open source movement is big, but people from both can happily work together on the same programs. It is possible to promote software freedom without belonging neatly to either camp.
 
@@ -104,13 +102,13 @@ Companies and individuals alike can also contribute to programs they themselves 
 Software freedom leads to many advantages for the user, such as:
 
 - *Cost*: While free software doesn't have to be available at no charge, it typically is. Even when it isn't, multiple people can buy one copy and reproduce it among themselves, perfectly legally and morally.
-- *Customization*: Because free software can be modified, it can be customized to one's own needs.
+- *Malleability*: Because free software can be modified, it can be customized to one's own needs.
 - *Security*: While this may be counter-intuitive to some, the fact that source code is readily available to be studied by anyone is good from a security perspective. It's well understood that computer security should not be addressed trough obscurity (Kerckhoffs's principle). If the source code is public, anyone can verify the absence of backdoors and any accidental vulnerability can be reported and corrected (Linus's law).
 - *Cooperation*: When working cooperatively on a project, free software is ideal because users care share it among themselves and use it without being encumbered by a proprietary license.
 - *Privacy*: Free software can be obtained independently from the author and used without a subscription. Any telemetry functionality or spyware can be removed. Therefore, unless the very functionalities of the program require that it communicates trough the network, free software can be privately used in secrecy. Privacy is control of one's data, and free software gives more control to the user.
-- *Forkability*: Free software can be forked, allowing the existence of different variants and flavors of the same program. When the maintainers of a given project abandon it, independent forks can be created, continuing to provide users with updates.
+- *Forkability*: Free software can be forked, allowing for different variants of the same program. When the maintainers of a given project abandon it, independent forks can be created, continuing to provide users with updates.
 - *Dependability*: A free program never ceases to exist, because any user is allowed to retain copies for any length of time.
-- *Applicability*: One can learn how to use a free program, become good at it, and then use it, years later, in unforeseen scenarios (such as when a hobby becomes a commercial endeavor), thanks to the unrestricted freedom to run it.
+- *Versatility*: One can learn how to use a free program and later use it in unforeseen scenarios (such as when a hobby becomes a commercial endeavor), thanks to the unrestricted freedom to run it.
 - *Interoperability*: Free program use free file formats, which allows communication between different programs.
 
 You can use free software the way it suits you, share it with others and, with the right tools, tweak it to your needs. You can use it privately, for any purpose, without yielding control to someone else. You can cooperate with others who don't want to be restricted either. A free program won't suddenly stop existing, nor will it force you to make an update you don't want. It won't make your files, your digital life, accessible only at the erratic whim of someone else, nor will it lock them behind the gate of a file format which can only be opened with the approval of some company.
