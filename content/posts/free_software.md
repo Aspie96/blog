@@ -45,7 +45,7 @@ Open source is not to be confused with software which is merely *source availabl
 
 The Open Source Definition, maintained by OSI, is based on the Debian Free Software Guidelines (also written by Perens). It is equivalent, in substance, to the Free Software Definition by the Free Software Foundation, expressing the same concepts with different words and a different structure.
 
-The difference between the free software movement and the open source movement is big, but people from both can happily work together on the same programs. It is possible to promote software freedom without belonging neatly to either camp.
+The free software movement and the open source movement are different: they support the same class of software, but do so for different motives, with different tactics and using different names. Regardless, people from both can happily work together on the same programs. It is possible to promote software freedom without belonging neatly to either camp.
 
 Debian currently uses "free software" and "open source" synonymously and interchangeably.
 
