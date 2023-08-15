@@ -15,23 +15,23 @@ If the topic seems complex, don't let this dissuade you from using free and open
 
 ## Basic ideas
 
-Programmers typically create software by writing *source code* in a *programming language*. Source code is primarily text. It's a detailed description of the program which trained humans and computers alike can understand. It can be converted, trough *compilation*, into other forms that can only be read by computers: *object code*. The result is still the same program, just represented in a different way, which is usually more efficient. The reverse operation (going from object code to human-readable source code) is often hard, if not nearly impossible.
+Programmers typically create software by writing *source code*, as text, in a *programming language*. It's a detailed description of the program which trained humans and computers alike can understand. It can be converted, trough *compilation*, into other forms that can only be read by computers: *object code*. The result is still the same program, just represented in a different way, which is usually more efficient. The reverse operation (going from object code to human-readable source code) is often hard, if not nearly impossible.
 
 Legally, original literary and artistic works of authorship, such as poems and paintings, are covered by *copyright* (or "author's rights"). Copyright is automatic and it exists from the moment the work is first fixed in a material medium. In general, preparing derivatives based on an existing work, reproducing it in copies or conveying it to the public requires an authorization from the copyright holder and are illegal if unauthorized. Software programs are covered by [copyright](https://en.wikipedia.org/wiki/Software_copyright) as literary works.
 
-Suppose you receive a program, made by someone else, in object form. You cannot study it and know what it does and how it works in detail, because you don't have the corresponding source code to read. You could technically distribute copies (computers can always copy data), but you aren't legally allowed to do so without authorization. You may be unable to modify the program to your liking for both legal and technical reasons.
+Suppose you receive a program in object form. You cannot study its internal functioning in detail, because you don't have the corresponding source code to read. You could technically distribute copies (computers can always copy data), but you aren't legally allowed to do. You may be unable to modify the program to your liking for both legal and technical reasons.
 
-Legal and technical restrictions on software exist beyond just copyright and withholding source code. In an ever more digitalized world, restrictions on software give a lot of power to its rightholders, and a lot of control on those that become dependent on the programs they use.
+Restrictions on software exist beyond just copyright and withholding source code. In an ever more digitalized world, they give rightholders a lot of power and substantial control on users.
 
 ## Free software
 
-*Free software* is software which any user, in any field of endeavor, is free to run, copy, distribute, study and modify. This means that it is provided alongside with equal access to its source code, as well as an authorization to perform these actions.
+*Free software* is software which any user, in any field of endeavor, is free to run, copy, distribute, study and modify. This means that it is provided alongside with access to its source code, as well as an authorization to perform these actions.
 
 In the '80s, the [GNU](https://www.gnu.org/) project, aimed at creating a free operating system, was [announced](https://www.gnu.org/gnu/initial-announcement.html) by [Richard Stallman](https://stallman.org/). Stallman then founded the [Free Software Foundation](https://www.fsf.org/), a non-profit organization, which supports GNU and other initiatives. The FSF also maintains the [free software definition](https://www.gnu.org/philosophy/free-sw.html), which is based on four *[essential freedoms](https://www.gnu.org/philosophy/free-sw.html#four-freedoms)*.
 
-In "free software", the word "free" refers to freedom (as in "free speech"), not to price (as in "free beer"). This ambiguity is specific to the English language, which is why sometimes the Spanish and French word "libre" is used, instead of "free", to avoid confusion. In practice, free software typically happens to be distributed at no charge (partly because anyone that receives can also distribute it), but a lot of software available at no charge is not free software.
+In "free software", the word "free" refers to freedom (as in "free speech"), not to price (as in "free beer"). This ambiguity is specific to the English language, which is why sometimes the Spanish and French word "libre" is used, instead of "free", to avoid confusion. In practice, free software typically happens to be distributed at no charge (partly because anyone that receives can also pass it on), but a lot of software available at no charge is not free software.
 
-The *free software movement* supports software freedom on moral grounds, based on the idea that non-free software is controlled by its owner rather than the user and that this constitutes an instrument of unjust power over users' computing. It is, however, possible to use and endorse free software because of its numerous advantages, even without agreeing with this philosophy.
+The *free software movement* supports software freedom on moral grounds, based on the idea that non-free software is controlled by its owner rather than the user and that this constitutes an instrument of unjust power over users' computing. It is, however, possible to use and endorse free software for more pragmatic reasons, even without agreeing with this philosophy.
 
 ## Open Source
 
@@ -39,7 +39,7 @@ The *free software movement* supports software freedom on moral grounds, based o
 
 [Eric Raymond](http://www.catb.org/~esr/) and [Bruce Perens](http://perens.com/) (leader, at the time, of the [Debian](https://www.debian.org/index.it.html) project, a free operating system, as successor of its founder [Ian Murdock](https://ianmurdock.com/)) started the [Open Source Initiative](https://opensource.org/) in 1998, as president and vice-president respectively. The idea was to promote free software under a different name, leveraging a more pragmatic approach.
 
-The *open source movement*, based on utilitarianism, rather than moral dogma (like the free software movement), and focusing heavily on cooperation and software quality, has been very successful in its goals, making open source software widespread.
+The *open source movement*, based on utilitarianism, rather than moral dogma (like the free software movement), and often focused on cooperation and software quality, has been very successful in its goals, making open source software widespread.
 
 The [Open Source Definition](https://opensource.org/definition-annotated/), maintained by OSI, is based on the [Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines) (also written by Perens). It is equivalent, in substance, to the FSD by the FSF, expressing the same concepts with different words and a different structure.
 
@@ -53,7 +53,7 @@ In order to exercise software freedom, a user needs to be allowed, by the righth
 
 Free software licenses are *public licenses* (granted to anyone who receives a copy of the program) written as reusable documents. In principle, anyone could write one's own, but it's strongly recommended against, in order to prevent [proliferation](https://en.wikipedia.org/wiki/License_proliferation).
 
-Most licenses come at certain *conditions* (only applying as long as long as they are met). Certain conditions or restrictions are considered compatible with software freedom.
+Most licenses come under some *conditions* (only applying as long as long as they are met). Certain restrictions are considered compatible with software freedom.
 
 Conditions such as that of retaining attribution notices when distributing the program are permissible and widespread in free software licenses, as are disclaimers of warranty and liability. On the other hand, restrictions against commercial use or uses which the author abhors for moral or political reasons can never be part of a free software license, especially when they limit the [freedom to run the program](https://www.gnu.org/philosophy/programs-must-not-limit-freedom-to-run.html).
 
@@ -71,7 +71,7 @@ Copyleft can be used strategically as a way to promote the release of free softw
 
 ## Remixing software
 
-There are several ways in which software can be "remixed". These include, among others, *forks*, *libraries* and *patches*.
+There are several ways in which software can be "remixed". These include, amongst others, *forks*, *libraries* and *patches*.
 
 It's always possible to independently modify and then distribute a free program under the same license. When doing so, one is creating a *fork*.
 
@@ -85,13 +85,13 @@ As a result of mutual cooperation and exercise of software freedom, one program 
 
 At this point in the article, you might be wondering why anyone would actually develop free software. There are plenty of motivations and this section will mention a few.
 
-Software freedom is not anti-business and it's not anti-money. Indeed, the only business models incompatible with it are the ones that require restricting the user. Many business models are perfectly consistent with releasing free software, which also happens to be good publicity for the company and, often, a way to get contributions from the community. In some cases, companies that want to release a program can only do so as free software because of copyleft.
+Software freedom is not anti-business and it's not anti-money. Indeed, the only business models it precludes are those that require restricting the user. Many business models are perfectly consistent with releasing free software, which also happens to be good publicity for the company and, often, a way to get contributions from the community. In some cases, companies that want to release a program can only do so as free software because of copyleft.
 
-While making money by developing free software is possible, for-profit companies are not the only ones doing so. For non-profit organizations seeking to make the world a better place and governments serving the interests of their citizens, software freedom is the obvious choice.
+Whilst making money by developing free software is possible, for-profit companies are not the only ones doing so. For non-profit organizations seeking to make the world a better place and governments serving the interests of their citizens, software freedom is the obvious choice.
 
-Individuals can earn by making free software, but many chose to do so for entirely different reasons. For many, writing code is fun, just like many other activities are fun to other people, and this is a strong motivator on its own. It can also be a learning experience. People can also choose to share the programs they write out of altruism, to help others, or for ideological reasons, in order to support software freedom.
+Individuals can earn by writing free software, but it's common to do it for entirely different reasons. For many, writing code is fun and this is a strong motivator on its own. It can be a good learning experience, too. People can also choose to share code out of altruism, to help others, or for ideological reasons.
 
-Companies and individuals alike can also contribute to programs they themselves use. Making improvements available upstream, so that they can be included in future versions of the software, can be much more efficient than having to patch it each time. Indeed, shared development is cheaper and many people enjoy cooperation.
+Companies and individuals alike often contribute to programs they themselves use. Making improvements available upstream, so that they can be included in future versions of the software, can be much more efficient than having to patch it each time. Indeed, cooperative development is cheaper because efforts aren't duplicated.
 
 ## Advantages
 
@@ -108,13 +108,39 @@ Software freedom leads to many advantages for the user, such as:
 - *Versatility*: One can learn how to use a free program and later use it in unforeseen scenarios (such as when a hobby becomes a commercial endeavor), thanks to the unrestricted freedom to run it.
 - *Interoperability*: Free program use free file formats, which allows communication between different programs.
 
-You can use free software the way you see fit, share it with others and, with the right tools, tweak it to your needs. You can use it privately, for any purpose, without yielding control to someone else. You can cooperate with others who don't want to be restricted either. A free program won't suddenly stop existing, nor will it force you to make an update you don't want. It won't make your files, your digital life, accessible only at the erratic whim of someone else, nor will it lock them behind the gate of a file format which can only be opened with the approval of some company.
+You can use free software the way you see fit, share it with others and, with the right tools, tweak it to your needs. You can run it privately, for any purpose, without yielding control to someone else. You can cooperate with others who don't want to be restricted either. A free program won't suddenly stop existing, nor will it force you to make an update you don't want. It won't make your files, your digital life, accessible only at the erratic whim of someone else, nor will it lock them behind the gate of a file format which can only be opened with the approval of some company.
 
-When a piece of proprietary software is made available, this is only a step forward for its own rightsholders, because it's only "available" to those that accept their conditions. When a piece of free software is made available, when it is publicly shared of the world, this is a step forward for everyone.
+When a piece of proprietary software is made available, this is only a step forward for its own rightsholders, because it's only "available" to those that accept their conditions. When a piece of free software is shared, however, when it is publicly shared of the world, this is a step forward for everyone.
 
 The advantages of free software are relevant for individual users and also, possibly much more, for companies and enterprise users. They are, however, even greater for government-run institutions.
 
 ## Governments and free software
+
+Software freedom is especially important when it comes to government entities.
+
+Transparency and security are critical. Furthermore, a free license allows public institutions to act according to laws and internal policies, rather than bending to the interests of software authors.
+
+The way in which the government operates should be decided trough the democratic process, not limited by proprietary software licenses which would shift power in the hands of rightholders.
+
+It is in the interest of legislators and authorities to keep the sovreingnty of the State.
+
+Countires do not need software authors to restrict certain actions, such as those which they abhor for moral or political reasons (a clause incompatible with software freedom). They already have the power to legislate in their own jurisdiction. Anything they aren't allowed to prohibit (for example, for constitutional reasons), they shouldn't forbid trough some kind of back door.
+
+Whether the government should perform any given action should be decided trough the democratic process
+
+Often citizens need to run software on their own devices for bureaucratic reasons. Forcing them to accept the terms of a proprietary license would be an injustice.
+
+Software freedom is healthy for democracy in a free society.
+
+https://opensource.org/authority/
+
+The European Union has an [Open Source Software Strategy](https://commission.europa.eu/select-language?destination=/node/117).
+
+https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-07;124!vig=2020-02-05
+https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217!vig=
+
+Italian law mentions free and open source software. [Agenzia per l'Italia Digitale](https://www.agid.gov.it/), an Italian public agency, has [guidelines](https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa).
+
 
 Thanks to software freedom, governments can uphold copyright and still exercise their sovereignty in determining the policies that need to be followed, and exactly what can and cannot be done within the borders of their jurisdictions, without giving excessive control or de-facto authority to software authors.
 
@@ -124,15 +150,13 @@ Software programs aren't the only digital assets that can be distributed under a
 
 The [Definition of Free Cultural Works](https://freedomdefined.org/Definition) and the [Open Definition](https://opendefinition.org/) (by the [Open Knowledge Foundation](https://okfn.org/)) independently provide definitions that can be used to establish which licenses are "free" or "open". The relevant freedoms are the same as those for free and open source software, just translated out of the software domain.
 
-[Creative Commons](https://creativecommons.org/) is a nonprofit organization which publishes public licenses which can be used by many. Different licenses written by the Creative Commons organization are widely different between each other. Many of them are proprietary because they include non-free restrictions (such as those against commercial use or sharing derivative works), but some are free.
+[Creative Commons](https://creativecommons.org/) is a nonprofit organization which writes public licenses. Some of them are proprietary because they include non-free restrictions (such as those against commercial use or sharing derivative works), some are free.
 
-Creative Commons [clarifies](https://creativecommons.org/2008/02/20/approved-for-free-cultural-works/) which, among its several different licenses, are suitable for free cultural works. [CC0](https://creativecommons.org/publicdomain/zero/1.0/) is a public domain declaration: it waives all copyright on the work, which then can be used without conditions. [CC BY](https://creativecommons.org/licenses/by/4.0/) and [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) are free public licenses which require attribution and prohibit any additional technical or legal restriction on the work. CC BY-SA is a *ShareAlike* license (effectively the same mechanism as copyleft).
+Creative Commons [clarifies](https://creativecommons.org/2008/02/20/approved-for-free-cultural-works/) which, among its legal tools, are are suitable for free cultural works. These include [CC0](https://creativecommons.org/publicdomain/zero/1.0/) (a public domain declaration), [CC BY](https://creativecommons.org/licenses/by/4.0/) and [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). Free licenses for non-software works published by other organizations also exist, such as the [Free Art License](https://artlibre.org/licence/lal/en/) and the [GNU GPL](https://www.gnu.org/licenses/licenses.html) (which, while mainly designed for software, can also be used for other works).
 
-While Creative Commons licenses are widely used because of their simplicity, other free licenses suitable for non-software works also exist, such as the [Free Art License](https://artlibre.org/licence/lal/en/) and the [GNU GPL](https://www.gnu.org/licenses/licenses.html), which, while mainly designed for software, can be used for other works as well.
+The concept of "source code" exists for non-software assets too and it has the same meaning: the preferred form of the work for making modifications. It's arguably less fundamental than for software, though, since books and art pieces are intelligible to humans (and, with some effort, also modifiable) even when stored in other formats. Some copyleft free licenses (such as the GNU GPL) require that access to source code is given when distributing a derivative, while others (such as CC BY-SA and the Free Art License) do not.
 
-The concept of "source code" exists for non-software works too, and it has the same meaning: the preferred form of the work for making modifications to it. It's arguably less important than for software, though, since books and art pieces are intelligible to humans (and, with some effort, also modifiable) even when stored in other formats. Some copyleft free licenses (such as the GNU GPL) require that access to source code is given when distributing a derivative, while others (such as CC BY-SA and the Free Art License) do not.
-
-The same digital asset (for example, an image) can be stored in a computer file in many different *formats* that represent the same information differently. Some file formats can only be read using proprietary software (due to secrets or legal restrictions), constraining the user, while others can be dealt with using free and open source software. When distributing free cultural works, it's important to use a free format for doing so, in order to avoid these restrictions.
+The same digital asset (for example, an image) can be stored in a computer file in many different *formats* that represent the same information differently. Some file formats can only be read using proprietary software (due to secrets or legal restrictions), constraining the user, while others can be dealt with using free and open source software. When distributing free cultural works, it's important to use a free format, so as to avoid these restrictions.
 
 The distinction between software and non-software items in the world of free and open content does matter to some extent, but is not crucial and is blurred for some assets. The same freedoms and, often, the same terminologies and even the same licenses apply across different domains.
 
