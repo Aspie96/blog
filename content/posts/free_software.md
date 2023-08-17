@@ -134,7 +134,15 @@ Software freedom is healthy for democracy in a free society.
 
 https://opensource.org/authority/
 
-The European Union has an [Open Source Software Strategy](https://commission.europa.eu/select-language?destination=/node/117).
+The European Union has an [Open Source Software Strategy](https://commission.europa.eu/select-language?destination=/node/117) to leverage the trasformative, innovative and collaborative power of free and open source software. The strategy encourages sharing and reusing, to enrich society with better services while lowering costs.
+
+The European Union recognizes the role that free and open source software has in
+
+
+invigorating its social market economy, promoting
+competition and encouraging small and medium-sized enterprises. We want to bring Europe’s
+people together in an inclusive, open approach, to find new opportunities and transition to an inclusive,
+better digital environment that is ready for the realities of today’s global economy.
 
 https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-07;124!vig=2020-02-05
 https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217!vig=
