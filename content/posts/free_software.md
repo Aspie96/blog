@@ -136,19 +136,22 @@ https://opensource.org/authority/
 
 The European Union has an [Open Source Software Strategy](https://commission.europa.eu/select-language?destination=/node/117) to leverage the trasformative, innovative and collaborative power of free and open source software. The strategy encourages sharing and reusing, to enrich society with better services while lowering costs.
 
-The European Union recognizes the role that free and open source software has in
-
-
-invigorating its social market economy, promoting
-competition and encouraging small and medium-sized enterprises. We want to bring Europe’s
-people together in an inclusive, open approach, to find new opportunities and transition to an inclusive,
-better digital environment that is ready for the realities of today’s global economy.
-
 https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-07;124!vig=2020-02-05
 https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217!vig=
 
+Open code makes algorithms transparent and allows for independent audits and reproducible builds. By
+extension, the strategy helps the Commission stay in control of its processes, data, information and
+technology.
 
-Italian law mentions free and open source software multiple times. It [requires](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art68) that public administrations favor free software solutions. It also [mandates](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art69) that they publish custom-built software as open source. [Agenzia per l'Italia Digitale](https://www.agid.gov.it/), an Italian public agency, has [guidelines](https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa) on software acquisition and reuse by public administrations, which reference the free software definition and the Open Source Initiative.
+‘... it is not too late to achieve technological sovereignty in some critical technology areas.’
+
+Governments
+across Europe and in the worlds’ leading nations have adopted policies on open source.
+
+
+Italian law [requires](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art68) that public administrations consider free software solutions. It also [mandates](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art69) that they publish custom-built software as open source. [Agenzia per l'Italia Digitale](https://www.agid.gov.it/), an Italian public agency, has [guidelines](https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa) on the matter, which reference the free software definition and the Open Source Initiative.
+
+The Italian region of Piedmont has a [law](http://arianna.cr.piemonte.it/iterlegcoordweb/dettaglioLegge.do?urnLegge=urn:nir:regione.piemonte:legge:2009;9) on the adoption and diffusion of free software and portability of digital documents.
 
 
 Thanks to software freedom, governments can uphold copyright and still exercise their sovereignty in determining the policies that need to be followed, and exactly what can and cannot be done within the borders of their jurisdictions, without giving excessive control or de-facto authority to software authors.
