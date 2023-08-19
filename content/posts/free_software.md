@@ -116,7 +116,17 @@ The advantages of free software are relevant for individual users and also, poss
 
 ## Governments and free software
 
-Software freedom is especially important when it comes to government entities.
+Software freedom is especially important when it comes to government entities. It makes algorithms transparent and allows for independent audits. It helps governments achieve technological sovereignty and stay in control of their processes and data.
+
+While proprietary software moves power in the hands of its authors,
+
+In an increasingly digitalized world, free software is crucial for a free society. It allows public entities to adhere to policies decided trough the democratic process, rather than constraining their behavior to the terms of software authors. It also saves money when programs are reused and put it to good use when new ones are developed and released for the public benefit.
+
+Citizens often need to run software on their own devices for bureaucratic reasons. Forcing them to accept the terms of a proprietary license would be an injustice.
+
+Multiple governments have adopted policies on free and open source software.
+
+‘... it is not too late to achieve technological sovereignty in some critical technology areas.’
 
 Transparency and security are critical. Furthermore, a free license allows public institutions to act according to laws and internal policies, rather than bending to the interests of software authors.
 
@@ -134,7 +144,7 @@ Software freedom is healthy for democracy in a free society.
 
 https://opensource.org/authority/
 
-The European Union has an [Open Source Software Strategy](https://commission.europa.eu/select-language?destination=/node/117) to leverage the trasformative, innovative and collaborative power of free and open source software. The strategy encourages sharing and reusing, to enrich society with better services while lowering costs.
+The European Union has an [Open Source Software Strategy](https://commission.europa.eu/select-language?destination=/node/117) to leverage the trasformative, innovative and collaborative power of open source. The strategy encourages sharing and reusing, to enrich society with better services while lowering costs.
 
 https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-07;124!vig=2020-02-05
 https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217!vig=
