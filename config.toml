@@ -1,4 +1,4 @@
 baseURL = "https://www.functorfault.net/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "en"
+title = "Functor Fault"
 theme = "PaperMod"
