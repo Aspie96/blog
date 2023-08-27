@@ -127,7 +127,7 @@ The federal government of the United States runs an online [platform](https://ww
 
 The *[Public Money? Public Code!](https://publiccode.eu/)* campaign, in Europe, asks for legislation requiring that publicly financed software developed for the public sector be published as free software.
 
-The European Union has an [Open Source Software Strategy](https://commission.europa.eu/select-language?destination=/node/117) to leverage the transformative, innovative and collaborative power of open source. The strategy encourages sharing and reusing, to enrich society with better services while lowering costs.
+The European Union has an [Open Source Software Strategy](https://commission.europa.eu/select-language?destination=/node/117) to leverage the transformative, innovative and collaborative power of open source. The strategy encourages sharing and reusing, to enrich society with better services while lowering costs. The EU has also written its own free and open source license: the [EUPL](https://eupl.eu/).
 
 Italian law [requires](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art68) that public administrations consider free software solutions. It also [mandates](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art69) that they publish custom-built software as open source. [Agenzia per l'Italia Digitale](https://www.agid.gov.it/), an Italian public agency, has [guidelines](https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa) on the matter, which reference the free software definition and the Open Source Initiative.
 
