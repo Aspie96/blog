@@ -1,5 +1,5 @@
 ---
-title: "Free and open source software"
+title: "Free and Open Source Software"
 date: 2023-08-20T06:21:41+02:00
 draft: false
 ---
@@ -8,23 +8,23 @@ In this article, I will describe the concept of free and open source software.
 
 This is not an article written just for tech-savvy people. On the contrary, it's for everyone, because the topic at hand is important for society as a whole.
 
-The article doesn't assume too much prior knowledge. However, it's not crucial to understand every tiny detail and it is my hope that the most important points will get across, regardless of how tech-minded you are.
+I will not assume too much prior knowledge. However, understanding every tiny detail is not crucial and it is my hope that the most relevant points will get across, regardless of how tech-minded you are.
 
-If the topic seems complex, don't let this dissuade you from using free and open source software. For end users, it's simpler in practice than it may seem.
+If the topic seems complex at first, don't let this dissuade you from using free and open source software. For end users, it's simpler in practice than it may seem.
 
-In this article, I will first talk about existing restrictions on software. Then, I will introduce the idea of free and open source software. I will follow with the topic of licensing. I will mention a few ways software can be "remixed". After that, I will discuss the motivations that lead people to develop free and open source software. I will list several advantages of software freedom. Then I will write about its relationship with government policies. I will describe how similar ideas apply to non-software digital assets. Finally, I will give some examples of free and open source software which you may already be familiar with.
+In this article, I will first talk about existing restrictions on software. Then, I will introduce the idea of free and open source software. I will follow with the topic of licensing. I will mention a few ways software can be "remixed". After that, I will discuss the motivations that lead people to develop free and open source software. I will list several advantages of software freedom. Then, I will write about its relationship with government policies. I will describe how similar ideas apply to non-software digital assets. Finally, I will give some examples of free and open source software which you may already be familiar with.
 
 ## Restrictions on software
 
-Programmers typically create software by writing *source code*, as text, in a *programming language*. It's a detailed description of the program which trained humans and computers alike can understand. It can be converted, through *compilation*, into other forms that can only be read by computers: *object code*. The result is still the same program, just represented in a different way, which is usually more efficient. The reverse operation (going from object code to human-readable source code) is often hard, if not nearly impossible.
+Programmers typically create software by writing *source code*, as text, in a *programming language*. Source code is a detailed description of the program which trained humans and computers alike can understand. It can be converted, through *compilation*, into other forms that can only be read by computers: *object code*. The result is still the same program, just represented in a different way, which is usually more efficient. The reverse operation (going from object code to human-readable source code) is often hard, if not nearly impossible.
 
-Legally, original literary and artistic works of authorship, such as poems and paintings, are covered by *copyright* (or "author's rights"). Copyright is automatic and it exists from the moment the work is first fixed in a material medium. In general, preparing derivatives based on an existing work, reproducing it in copies or conveying it to the public requires an authorization from the copyright holder and are illegal if unauthorized. Software programs are covered by [copyright](https://en.wikipedia.org/wiki/Software_copyright) as literary works.
+Legally, original literary and artistic works of authorship, such as poems and paintings, are covered by *copyright* (or "author's rights"). Copyright is automatic and it exists from the moment the work is first fixed in a material medium. In general, preparing derivatives based on an existing work, reproducing it in copies and conveying it to the public are actions that require an authorization from the copyright holder and are illegal if unauthorized. Software programs are covered by [copyright](https://en.wikipedia.org/wiki/Software_copyright) as literary works.
 
 Suppose you receive a program in object form. You cannot study its internal functioning in detail, because you don't have the corresponding source code to read. You could technically distribute copies (computers can always copy data), but you aren't legally allowed to do. You may be unable to modify the program to your liking for both legal and technical reasons.
 
 Restrictions on software exist beyond just copyright and withholding source code. In an ever more digitalized world, they give rightholders a lot of power and substantial control on users.
 
-## Free software
+## Free Software
 
 *Free software* is software which any user, in any field of endeavour, is free to run, copy, distribute, study and modify. This means that it is provided alongside with access to its source code, as well as an appropriate software licence.
 
@@ -40,9 +40,9 @@ The *free software movement* supports software freedom on moral grounds, based o
 
 [Eric Raymond](http://www.catb.org/~esr/) and [Bruce Perens](http://perens.com/) (leader, at the time, of the [Debian](https://www.debian.org/index.it.html) project, a free operating system, as successor of its founder [Ian Murdock](https://ianmurdock.com/)) started the [Open Source Initiative](https://opensource.org/) in 1998, as president and vice-president respectively. The idea was to promote free software under a different name, leveraging a more pragmatic approach.
 
-The *open source movement*, based on utilitarianism, rather than moral dogma (like the free software movement), and often focused on cooperation and software quality, has been very successful in its goals, making open source software widespread.
+The *open source movement*, more utilitarian, rather than based on moral dogma (like the free software movement), and often focused on cooperation and software quality, has been very successful in its goals, making open source software widespread.
 
-The [Open Source Definition](https://opensource.org/definition-annotated/), maintained by OSI, is based on the [Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines) (also written by Perens). It is equivalent, in substance, to the free software definition by the FSF, expressing the same concepts with different words and a different structure.
+The [Open Source Definition](https://opensource.org/definition-annotated/), maintained by OSI, is based on the [Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines) (written by Perens). It is equivalent, in substance, to the free software definition by the FSF, expressing the same concepts with different words and a different structure.
 
 Sometimes the phrase "free and open source software" is used to remain neutral between the two alternatives. It can also be shortened as "FOSS" or "[FLOSS](https://www.gnu.org/philosophy/floss-and-foss.html)" (where the L stands for "libre"). It's possible to use "free software" and "open source" interchangeably, to refer to the same class of programs, as the Debian community currently does.
 
@@ -52,7 +52,7 @@ Open source is not to be confused with software which is merely *source availabl
 
 Because of legal restrictions on software, such as copyright, a user needs a *licence* (synonym of "authorization" and of "permission") in order to exercise software freedom.
 
-Free software licences are *public licences* (granted to anyone who receives a copy of the program) written as reusable documents. In principle, anyone could write one's own, but it's strongly recommended against, in order to prevent [proliferation](https://en.wikipedia.org/wiki/License_proliferation).
+Free software licences are *public licences* (granted to anyone who receives a copy of the program) written as reusable documents. In principle, anyone could write one's own, but it's best avoided so as to prevent [proliferation](https://en.wikipedia.org/wiki/License_proliferation).
 
 Most licences come under some *conditions* (only applying as long they are met), some of which are considered compatible with software freedom.
 
@@ -84,7 +84,7 @@ As a result of mutual cooperation and exercise of software freedom, one program 
 
 ## Motivations
 
-At this point in the article, you might be wondering why anyone would actually develop free software. There are plenty of motivations and this section will mention a few.
+At this point in the article, you might be wondering why anyone would even write free software. There are plenty of motivations and this section will mention a few.
 
 Software freedom is not anti-business and it's not anti-money. Indeed, the only business models it precludes are those that require restricting the user. Many business models are perfectly consistent with releasing free software, which also happens to be good publicity for the company and, often, a way to get contributions from the community. In some cases, companies that want to release a program can only do so as free software because of copyleft.
 
@@ -102,16 +102,16 @@ Software freedom leads to many advantages for the user, such as:
 - **Malleability**: Because free software can be modified, it can be customized to one's own needs.
 - **Transparency**: Free software can be studied and its inner workings are no secret.
 - **Security**: Computer security is not done through obscurity. When the source code is available, the absence of backdoors can be verified and accidental vulnerabilities can be reported and fixed.
-- **Cooperation**: When working cooperatively on a project, free software is ideal because users can share it among themselves and use it without being encumbered by a proprietary licence.
+- **Cooperation**: When working cooperatively on a project, free software is ideal because users can share it among themselves and use it without all having to accept a proprietary licence.
 - **Privacy**: Unless the very functionalities of the program require that it communicates through the network, free software can be privately used in secrecy. Privacy is control of one's data, and free software gives more control to the user.
 - **Forkability**: Free software can be forked, allowing for different variants of the same program. When the maintainers of a given project abandon it, independent forks can be created, continuing to provide users with updates.
 - **Dependability**: A free program never ceases to exist, because any user is allowed to retain copies for any length of time.
 - **Versatility**: One can learn how to use a free program and later use it in unforeseen scenarios (such as when a hobby becomes a commercial endeavour), thanks to the unrestricted freedom to run it.
-- **Interoperability**: Free program use free file formats, which allows communication between different programs.
+- **Interoperability**: Free programs use free file formats, which allows communication between different programs.
 
 You can use free software the way you see fit, share it with others and, with the right tools, tweak it to your needs. You can run it privately, for any purpose, without yielding control to someone else. You can cooperate with others who don't want to be restricted either. A free program won't suddenly stop existing, nor will it force you to make an update you don't want. It won't make your files, your digital life, accessible only at the erratic whim of someone else, nor will it lock them behind the gate of a file format which can only be opened with the approval of some company.
 
-When a piece of proprietary software is made available, this is only a step forward for its own rightsholders, because it's only "available" to those that accept their conditions. When a piece of free software is shared, however, when it is publicly shared of the world, this is a step forward for everyone.
+When a piece of proprietary software is made available, it's only a step forward for its own rightsholders, because it's only "available" to those that accept their conditions. When a piece of free software is shared, however, when it is publicly shared of the world, it's a step forward for everyone.
 
 The advantages of free software are relevant for individual users and also, possibly much more, for companies and enterprise users. They are, however, even greater for government-run institutions.
 
@@ -123,7 +123,7 @@ Free software is cheaper and, when new programs need to be developed, releasing 
 
 Multiple [governments](https://opensource.org/authority/) have adopted policies on free and open source software.
 
-The government of the United States. The Department of Defense has a [FAQ](https://dodcio.defense.gov/open-source-software-faq/) document on open source and policies on the matter, as well as a dedicated [website](https://code.mil/) on its open source projects. Code published by DoD is also available on a larger, more general, [platform](https://www.code.gov/) which the government runs in line, which the [Federal Source Code Policy](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2016/m_16_21.pdf).
+The federal government of the United States runs an online [platform](https://www.code.gov/) where it shares open source software, in line with the [Federal Source Code Policy](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2016/m_16_21.pdf). This includes programs by the Department of Defense, which has a [FAQ](https://dodcio.defense.gov/open-source-software-faq/) document on open source and policies on the matter.
 
 The *[Public Money? Public Code!](https://publiccode.eu/)* campaign, in Europe, asks for legislation requiring that publicly financed software developed for the public sector be published as free software.
 
@@ -145,7 +145,7 @@ Creative Commons [clarifies](https://creativecommons.org/2008/02/20/approved-for
 
 The concept of "source code" exists for non-software assets too and it has the same meaning: the preferred form of the work for making modifications. It's arguably less fundamental than for software, though, since books and art pieces are intelligible to humans (and, with some effort, also modifiable) even when stored in other formats. Some copyleft free licences (such as the GNU GPL) require that access to source code is given when distributing a derivative, while others (such as CC BY-SA and the Free Art License) do not.
 
-The same digital asset (for example, an image) can be stored in a computer file in many different *formats* that represent the same information differently. Some file formats can only be read using proprietary software (due to secrets or legal restrictions), constraining the user, while others can be dealt with using free and open source software. When distributing free cultural works, it's important to use a free format, so as to avoid these restrictions.
+The same digital asset (for example, an image) can be stored in a computer file in many different *formats* that represent the same information differently. Some file formats can only be read using proprietary software (due to secrets or legal restrictions), constraining the user, while others can be dealt with using free and open source software. When distributing free cultural works, a free format should be preferred so as to avoid these restrictions.
 
 ## Examples
 
@@ -174,10 +174,12 @@ As for free cultural content, [Wikipedia](https://www.wikipedia.org/) is a free 
 - *[The Open Definition](https://opendefinition.org/)* by the Open Knowledge Foundation
 - *[Permissible restrictions](https://freedomdefined.org/Permissible_restrictions)* by Definition of Free Cultural Works
 - *[Copyheart](https://copyheart.org/)* by Nina Paley
-- *[Selling Free Software](https://www.gnu.org/philosophy/selling.html)* by the GNU Project
 - *[Introduction to Free Software and the Liberation of Cyberspace](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society/)* by Richard Stallman
 - *[Why Software Should Not Have Owners](https://www.gnu.org/philosophy/why-free.html)* by Richard Stallman
+- *[Why programs must not limit the freedom to run them
+](https://www.gnu.org/philosophy/programs-must-not-limit-freedom-to-run.html)* by Richard Stallman
 - *[Categories of Free and Nonfree Software](https://www.gnu.org/philosophy/categories.html)* by the GNU Project
+- *[Selling Free Software](https://www.gnu.org/philosophy/selling.html)* by the GNU Project
 - *[Goodbye, "free software"; hello, "open source"](http://www.catb.org/~esr/open-source.html)* by Eric Raymond
 - *[The Revenge of the Hackers](http://catb.org/~esr/faqs/hacker-revenge.html)* by Eric Raymond
 - *[On Usage of The Phrase "Open Source"](https://web.archive.org/web/20230506135235/https://perens.com/2017/09/26/on-usage-of-the-phrase-open-source/)* by Bruce Perens
