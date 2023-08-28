@@ -1,6 +1,6 @@
 ---
 title: "Free and Open Source Software"
-date: 2023-08-20T06:21:41+02:00
+date: 2023-08-28T03:52:25+02:00
 draft: false
 ---
 
