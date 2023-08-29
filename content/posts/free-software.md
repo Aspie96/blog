@@ -1,6 +1,6 @@
 ---
 title: "Free and Open Source Software"
-date: 2023-08-28T03:52:25+02:00
+lastmod: 2023-08-28T03:52:25+02:00
 draft: false
 author: "Valentino Giudice"
 ---
@@ -86,7 +86,7 @@ Programmers almost never start from scratch. A *library* is a collection of soft
 
 Software is often developed cooperatively. Maintainers of a project can publish its source code online. Independent programmers can then contribute by sending *patches* (suggested modifications), which maintainers can choose to *merge* (apply) or not.
 
-As a result of mutual cooperation and exercise of software freedom, each licences one's own rights to the user. Those that decide to work together on the same software may each do so for widely different motives.
+As a result of mutual cooperation and exercise of software freedom, one program can have hundreds of authors and copyright holders, each licencing one's own rights to the user. Those that decide to work together on the same software may each do so for widely different motives.
 
 ## Motivations
 
