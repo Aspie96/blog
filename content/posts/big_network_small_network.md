@@ -1,8 +1,8 @@
 ---
-title: "Big network and small network"
 date: 2023-01-04T19:54:01+01:00
 draft: false
 lastmod: 2023-01-07T19:54:01+01:00
+title: "Big network and small network"
 ---
 
 Training of neural networks trough variants of gradient descent using backpropagation often requires large datasets and a lot of computational power to get good results.
