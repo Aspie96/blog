@@ -1,8 +1,8 @@
 ---
-title: "Free and Open Source Software"
-lastmod: 2023-08-28T03:52:25+02:00
-draft: false
 author: "Valentino Giudice"
+date: 2023-08-30T01:23:32+02:00
+draft: false
+title: "Free and Open Source Software"
 ---
 
 In this article, I will describe the concept of free and open source software.
