@@ -1,8 +1,9 @@
 ---
-title: "Privacy"
-menu: main
 date: 2023-08-28T03:52:25+02:00
 draft: false
+linkTitle: "Privacy"
+menu: main
+title: "Privacy policy"
 ---
 
 The controller of this website is Valentino Giudice, who can be reached by email at valentino.giudice96@gmail.com.
