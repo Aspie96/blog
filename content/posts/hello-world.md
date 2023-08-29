@@ -6,9 +6,7 @@ draft: false
 
 Hello, world!
 
-I am Valentino Giudice, an Italian guy born in 1996, and you are reading the first article on my personal blog.
-
-I have an interest in computering and I like candies. I have plenty of cells and I travel slower than light.
+I am Valentino Giudice, an Italian guy with an interest in computering born in 1996. You are reading the first article on my personal blog.
 
 This website is a tool at my complete disposal for me to exercise my freedom of speech. Here, I write and do as I please.
 
