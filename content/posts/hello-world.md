@@ -1,7 +1,8 @@
 ---
-title: "Hello, World!"
-date: 2023-08-29T23:44:45+02:00
+author: "Valentino Giudice"
+date: 2023-08-30T01:20:20+02:00
 draft: false
+title: "Hello, World!"
 ---
 
 Hello, world!
