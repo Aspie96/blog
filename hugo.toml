@@ -1,5 +1,6 @@
 baseURL = "https://www.functorfault.net/"
+defaultContentLanguage = "en"
 languageCode = "en"
+sectionPagesMenu = "main"
 title = "Functor Fault"
 theme = "PaperMod"
-sectionPagesMenu = "main"
