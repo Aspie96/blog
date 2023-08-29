@@ -1,5 +1,5 @@
 ---
-date: 2023-08-28T03:52:25+02:00
+publishDate: 2023-08-30T01:20:20+02:00
 draft: false
 linkTitle: "Privacy"
 menu: main
