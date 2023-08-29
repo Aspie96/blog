@@ -1,6 +1,6 @@
 ---
 title: "Privacy"
-menu: footer
+menu: main
 date: 2023-08-28T03:52:25+02:00
 draft: false
 ---
