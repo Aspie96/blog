@@ -17,11 +17,11 @@ In this article, I will first talk about existing restrictions on computer progr
 
 ## Restrictions on software
 
-Programmers typically create software by writing *source code*, as text, in a *programming language*. Source code is a detailed description of the program which trained humans and computers alike can understand. It can be converted, through *compilation*, into other forms that can only be read by computers: *object code*. The result is still the same program, just represented in a different way, which is usually more efficient. The reverse operation (going from object code to human-readable source code) is often hard, if not nearly impossible.
+Programmers typically create software by writing *source code*, as text, in a *programming language*. This may then need to be automatically converted (or "compiled") into *object code*. The result is still the same program, just represented in a different way, which is no longer human-readable and can't easily be turned back to source code.
 
-Legally, original literary and artistic works of authorship, such as poems and paintings, are covered by *copyright* (or "author's rights"). Copyright is automatic and it exists from the moment the work is first fixed in a material medium. In general, preparing derivatives based on an existing work, reproducing it in copies and conveying it to the public are actions that require an authorization from the copyright holder and are illegal if unauthorized. Software programs are covered by [copyright](https://en.wikipedia.org/wiki/Software_copyright) as literary works.
+Legally, original literary and artistic works of authorship, such as poems and paintings, are automatically covered by *copyright* (or "author's rights") as soon as they exist in a material medium. In general, making copies of a work, preparing derivatives and conveying it to the public are actions that require an authorization from the copyright holder. Software programs are covered by [copyright](https://en.wikipedia.org/wiki/Software_copyright) as literary works.
 
-Suppose you receive a program in object form. You cannot study its internal functioning in detail, because you don't have the corresponding source code to read. You could technically distribute copies (computers can always copy data), but you aren't legally allowed to do. You may be unable to modify the program to your liking for both legal and technical reasons.
+Suppose you receive a program as object code. You cannot study its internal functioning in detail, because you don't have the corresponding source code to read. You could technically distribute copies (computers can always copy data), but you aren't legally allowed to do. You may be unable to modify the program to your liking for both legal and technical reasons.
 
 Restrictions on software, legal or technical, exist beyond just copyright and withholding source code. In an ever more digitalized world, they give rightholders a lot of power and substantial control on users.
 
@@ -29,16 +29,16 @@ Restrictions on software, legal or technical, exist beyond just copyright and wi
 
 *Free software* is software which any user, in any field of endeavour, is free to run, copy, distribute, study and modify. This means that it is provided alongside with access to its source code, as well as an appropriate software licence.
 
-In the '80s, the [GNU](https://www.gnu.org/) project, aimed at creating a free operating system, was [announced](https://www.gnu.org/gnu/initial-announcement.html) by [Richard Stallman](https://stallman.org/). Stallman then founded the [Free Software Foundation](https://www.fsf.org/), a non-profit organization which supports GNU and other initiatives. The FSF also maintains the [free software definition](https://www.gnu.org/philosophy/free-sw.html), which is based on four *[essential freedoms](https://www.gnu.org/philosophy/free-sw.html#four-freedoms)*:
+In the '80s, the [GNU](https://www.gnu.org/) project, aimed at creating a free operating system, was [announced](https://www.gnu.org/gnu/initial-announcement.html) by [Richard Stallman](https://stallman.org/). Stallman then founded the [Free Software Foundation](https://www.fsf.org/), a non-profit organization which supports GNU and other initiatives. The FSF also maintains the [Free Software Definition](https://www.gnu.org/philosophy/free-sw.html), which is based on four *[essential freedoms](https://www.gnu.org/philosophy/free-sw.html#four-freedoms)*:
 
 - *Freedom 0*: To run the program as one wishes, for any purpose.
-- *Freedom 1*: To study how the program works, and change it so it does one's computing as one wishes (requires access to source code).
+- *Freedom 1*: To study how the program works, and change it so it does as one wishes (requires access to source code).
 - *Freedom 2*: To redistribute copies.
 - *Freedom 3*: To distribute copies of one's modifications to others (requires access to source code).
 
-In "free software", the word "free" refers to freedom (as in "free speech"), not to price (as in "free beer"). This ambiguity is specific to the English language, which is why sometimes the Spanish and French word "libre" is used, instead of "free", to avoid confusion. In practice, free software typically happens to be distributed at no charge (partly because anyone that receives can also pass it on), but a lot of software available at no charge is not free software.
+In "free software", the word "free" refers to freedom (as in "free speech"), not to price (as in "free beer"). This ambiguity is specific to the English language. Sometimes the Spanish and French word "libre" is used, instead of "free", to avoid confusion. In practice, free software typically happens to be distributed at no charge (partly because anyone that receives can also pass it on), but a lot of software available at no charge is not free software.
 
-The *free software movement* supports software freedom on moral grounds, based on the idea that non-free ("proprietary") software is controlled by its owner rather than the user and that this constitutes an instrument of unjust power over users' computing. It is, however, possible to use and endorse free software for more pragmatic reasons, even without agreeing with this philosophy.
+The *free software movement* supports *software freedom* on moral grounds, based on the idea that non-free ("proprietary") software is controlled by its owner rather than the user and that this constitutes an instrument of unjust power over users' computing. It is, however, possible to use and endorse free software for more pragmatic reasons, even without agreeing with this philosophy.
 
 ## Open Source
 
@@ -94,7 +94,7 @@ At this point in the article, you might be wondering why anyone would even write
 
 Software freedom is not anti-business and it's not anti-money. Indeed, the only business models it precludes are those that require restricting the user. Many business models are perfectly consistent with releasing free software, which also happens to be good publicity for the company and, often, a way to get contributions from the community. In some cases, companies that want to release a program can only do so as free software because of copyleft.
 
-While making money by developing free software is possible, for-profit companies are not the only ones doing so. In the case of non-profit organizations seeking to make the world a better place and governments serving the interests of their citizens, software freedom is the obvious choice.
+While making money by developing free software is possible, it's not always the goal. In the case of non-profit organizations seeking to make the world a better place and governments serving the interests of their citizens, software freedom is the obvious choice.
 
 Individuals can earn by writing free software, but it's common to do it for entirely different reasons. For many, writing code is fun and this is a strong motivator on its own. It can be a good learning experience, too. People can also choose to share code out of altruism, to help others, or for ideological reasons.
 
