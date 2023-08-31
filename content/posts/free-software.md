@@ -1,11 +1,11 @@
 ---
 author: "Valentino Giudice"
 date: 2023-08-30T01:23:32+02:00
-draft: true
+draft: false
 title: "Free and Open Source Software"
 ---
 
-In this article, I will describe the concept of free and open source software.
+In this article, I will overview the concept of free and open source software.
 
 This is not an article written just for tech-savvy people. On the contrary, it's for everyone, because the topic at hand is important for society as a whole.
 
@@ -46,19 +46,19 @@ The *free software movement* supports *software freedom* on moral grounds, based
 
 [Eric Raymond](http://www.catb.org/~esr/) and [Bruce Perens](http://perens.com/) (leader, at the time, of the [Debian](https://www.debian.org/index.it.html) project, a free operating system, as successor of its founder [Ian Murdock](https://ianmurdock.com/)) started the [Open Source Initiative](https://opensource.org/) in 1998, as president and vice-president respectively. The idea was to promote free software under a different name, leveraging a more pragmatic approach.
 
-The *open source movement*, more utilitarian, rather than based on moral dogma (like the free software movement), and often focused on cooperation and software quality, has been very successful in its goals, making open source software widespread.
+The *open source movement*, more utilitarian, rather than based on moral dogma (like the free software movement), and often focused on cooperation and software quality, has been very successful at making open source software widespread.
 
-The [Open Source Definition](https://opensource.org/definition-annotated/), maintained by OSI, is based on the [Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines) (written by Perens). It is equivalent, in substance, to the free software definition by the FSF, expressing the same concepts with different words and a different structure.
+The [Open Source Definition](https://opensource.org/definition-annotated/), maintained by OSI, is based on the [Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines) (written by Perens). It is equivalent, in substance, to the Free Software Definition by the FSF, expressing the same concepts with different words and a different structure.
 
-Sometimes the phrase "free and open source software" is used to remain neutral between the two alternatives. It can also be shortened as "FOSS" or "[FLOSS](https://www.gnu.org/philosophy/floss-and-foss.html)" (where the L stands for "libre"). It's possible to use "free software" and "open source" interchangeably, to refer to the same class of programs, as the Debian community currently does.
+Sometimes the phrase "free and open source software" is used to remain neutral between the two alternatives. It can also be shortened as "FOSS" or "[FLOSS](https://www.gnu.org/philosophy/floss-and-foss.html)" (where the L stands for "libre"). It's also possible to use "free software" and "open source" interchangeably, to refer to the same class of programs, as the Debian community currently does.
 
 Open source is not to be confused with software which is merely *source available*. Whenever source code is provided, the program is indeed source available, but, in order for it to be open source, an appropriate licence, one which grants software freedom, is necessary.
 
 ## Licences
 
-Because of legal restrictions, such as copyright, a user needs a *licence* (synonym of "authorization" and of "permission") in order to exercise software freedom.
+Because of legal restrictions, such as copyright, an appropriate *licence* (synonym of "authorization" and of "permission") is necessary for software freedom.
 
-Free software licences are *public licences* (granted to anybody who receives a copy of the program) written as reusable documents. In principle, anyone could write one's own, but it's best avoided so as to prevent [proliferation](https://en.wikipedia.org/wiki/License_proliferation).
+Free software licences are *public* (granted to anybody who receives a copy of the program) and written as reusable documents. In principle, anyone could write one's own, but it's best avoided so as to prevent [proliferation](https://en.wikipedia.org/wiki/License_proliferation).
 
 Most licences come under some *conditions* (only applying as long they are met), some of which are considered compatible with software freedom.
 
