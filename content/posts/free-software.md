@@ -92,11 +92,11 @@ As a result of mutual cooperation and exercise of software freedom, one program 
 
 At this point in the article, you might be wondering why anyone would even write free software. There are plenty of motivations and this section will mention a few.
 
-Software freedom is not anti-business and it's not anti-money. Indeed, the only business models it precludes are those that require restricting the user. Many business models are perfectly consistent with releasing free software, which also happens to be good publicity for the company and, often, a way to get contributions from the community. In some cases, companies that want to release a program can only do so as free software because of copyleft.
+Software freedom is not anti-money. Indeed, the only business models it precludes are those that require restricting the user. Companies and individuals alike often have strategies that allow them to earn by releasing free software. This also happens to be good publicity (for a company) and, often, a way to get contributions from the community.
 
-While making money by developing free software is possible, it's not always the goal. In the case of non-profit organizations seeking to make the world a better place and governments serving the interests of their citizens, software freedom is the obvious choice.
+In the case of non-profit organizations seeking to make the world a better place and governments serving the interests of their citizens, software freedom is the obvious choice.
 
-Individuals can earn by writing free software, but it's common to do it for entirely different reasons. For many, writing code is fun and this is a strong motivator on its own. It can be a good learning experience, too. People can also choose to share code out of altruism, to help others, or for ideological reasons.
+Individuals have all sorts of non-monetary reasons to write free software. For many, writing code is fun and this is a strong motivator on its own. It can be a good learning experience, too. People can also choose to share code out of altruism, to help others, or for ideological reasons.
 
 Companies and individuals alike often contribute to programs they themselves use. Making improvements available upstream, so that they can be included in future versions of the software, can be much more efficient than having to patch it each time. Indeed, cooperative development is cheaper because efforts aren't duplicated.
 
