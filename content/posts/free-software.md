@@ -58,7 +58,7 @@ Open source is not to be confused with software which is merely *source availabl
 
 Because of legal restrictions, such as copyright, an appropriate *licence* (synonym of "authorization" and of "permission") is necessary for software freedom.
 
-Free software licences are *public* (granted to anybody who receives a copy of the program) and written as reusable documents. In principle, anyone could write one's own, but it's best avoided so as to prevent [proliferation](https://en.wikipedia.org/wiki/License_proliferation).
+Free software licences are *public* (granted to anybody who receives a copy of the program). They are typically written as reusable documents, so as to prevent [proliferation](https://en.wikipedia.org/wiki/License_proliferation).
 
 Most licences come under some *conditions* (only applying as long they are met), some of which are considered compatible with software freedom.
 
@@ -68,7 +68,7 @@ The [FSF](https://www.gnu.org/licences/license-list.html) and [OSI](https://open
 
 ## Copyleft
 
-Of all restrictions that are permissible in a free software licence, [copyleft](https://www.gnu.org/licences/copyleft.html) (a mechanism pioneered by Stallman) is arguably the most restrictive, interesting and discussed one.
+Of all conditions that are permissible in a free software licence, [copyleft](https://www.gnu.org/licences/copyleft.html) (a mechanism pioneered by Stallman) is arguably the most restrictive, interesting and discussed one.
 
 A copyleft licence allows distributing one's own modifications to the program only as free software, without additional restrictions. In essence, it ensures that software freedom is preserved when modified versions of the program are passed on.
 
@@ -92,13 +92,15 @@ As a result of mutual cooperation and exercise of software freedom, one program 
 
 At this point in the article, you might be wondering why anyone would even write free software. There are plenty of motivations and this section will mention a few.
 
-Software freedom is not anti-money. Indeed, the only business models it precludes are those that require restricting the user. Companies and individuals alike often have strategies that allow them to earn by releasing free software. This also happens to be good publicity (for a company) and, often, a way to get contributions from the community.
+Software freedom is not anti-money. Indeed, the only business models it precludes are those that require restricting the user. Mant strategies exist to earn by releasing free software, which also happens to be good publicity (for a company) and, often, a way to get contributions from the community.
 
-In the case of non-profit organizations seeking to make the world a better place and governments serving the interests of their citizens, software freedom is the obvious choice.
+In the case of non-profit organizations seeking to make the world a better place and governments serving the interests of their citizens, software freedom is the obvious choice, as it maximizes utility.
 
-Individuals have all sorts of non-monetary reasons to write free software. For many, writing code is fun and this is a strong motivator on its own. It can be a good learning experience, too. People can also choose to share code out of altruism, to help others, or for ideological reasons.
+Individuals have all sorts of non-monetary reasons to develop free software. The fun of coding is a strong motivator on its own. It can be a good learning experience, too. People can also choose to share programs out of altruism, to help others, or for ideological reasons.
 
-Companies and individuals alike often contribute to programs they themselves use. Making improvements available upstream, so that they can be included in future versions of the software, can be much more efficient than having to patch it each time. Indeed, cooperative development is cheaper because efforts aren't duplicated.
+People and organizations often contribute back to programs they themselves use, to their own benefit.
+
+Software, like knowledge in any other form, can be shared infinitely without degrading or loosing it oneself.
 
 Users don't need to concern themselves with the reasons any particular program was developed. As long as it is free, anyone can enjoy the benefits of software freedom.
 
