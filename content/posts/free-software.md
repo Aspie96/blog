@@ -5,15 +5,15 @@ draft: false
 title: "Free and Open Source Software"
 ---
 
-In this article, I will overview the concept of free and open source software.
+You have probably heard of free and open source software before.
 
-This is not an article written just for tech-savvy people. On the contrary, it's for everyone, because the topic at hand is important for society as a whole.
+Software plays an increasingly crucial role in our lives. We delegate important task to computers. We store our memories, along with critical personal information, as well as assets we've worked for tens of hours on, on our digital devices. We use them to communicate, to trade, to work, to stay informed and to entertain ourselves. Ensuring that the programs we use are actually serving us, rather than someone else, is critical.
 
-I will not assume too much prior knowledge. However, understanding every tiny detail is not crucial and it is my hope that the most relevant points will get across, regardless of how tech-minded you are.
+In principle, software, like all of written knowledge and all sorts of digital assets, could be reproduced and shared infinitely, without deteriorating, at virtually no cost, so that the same programming problem never has to be solved twice, furthering innovation. It's also flexible enough that skilled users could tweak it to their needs.
 
-If the topic seems complex at first, don't let this dissuade you from using free and open source software. For end users, it's simpler in practice than it may seem.
+Because of legal and technical restrictions, what you can actually do with the programs you use is usually very limited. In this article, I provide an overview of the scope of those limitations and how they can be lifted by *software freedom*.
 
-In this article, I will first talk about existing restrictions on computer programs. Then, I will introduce the idea of free and open source software. I will follow with the topic of licensing. I will mention a few ways software can be "remixed". After that, I will discuss the motivations that lead people to develop free and open source software. I will list several advantages of software freedom. Then, I will write about its relationship with government policies. I will describe how similar ideas apply to non-software digital assets. Finally, I will give some examples of free and open source software which you may already be familiar with.
+I will first talk about existing restrictions on computer programs. Then, I will introduce the idea of free and open source software. I will follow with the topic of licensing. I will mention a few ways software can be "remixed". After that, I will discuss the motivations that lead people to develop free and open source software. I will list several advantages of software freedom. Then, I will write about its relationship with government policies. I will describe how similar ideas apply to non-software digital assets. Finally, I will give some examples of free and open source software which you may already be familiar with.
 
 ## Restrictions on software
 
