@@ -7,7 +7,7 @@ title: "Free and Open Source Software"
 
 You have probably heard of free and open source software before.
 
-Software plays an increasingly crucial role in our lives. We delegate important task to computers. We store our memories, along with critical personal information, as well as assets we've worked for tens of hours on, on our digital devices. We use them to communicate, to trade, to work, to stay informed and to entertain ourselves. Ensuring that the programs we use are actually serving us, rather than someone else, is critical.
+Software plays an increasingly relevant role in our lives. We delegate important task to computers. We store our memories, along with critical personal information, as well as assets we've worked for tens of hours on, on our digital devices. We use them to communicate, to trade, to work, to stay informed and to entertain ourselves. Ensuring that the programs we use are actually serving us, rather than someone else, is critical.
 
 In principle, software, like all of written knowledge and all sorts of digital assets, could be reproduced and shared infinitely, without deteriorating, at virtually no cost, so that the same programming problem never has to be solved twice, furthering innovation. It's also flexible enough that skilled users could tweak it to their needs.
 
