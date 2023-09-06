@@ -13,8 +13,6 @@ In principle, software, like all of written knowledge and all sorts of digital a
 
 Because of legal and technical restrictions, what you can actually do with the programs you use is usually very limited. In this article, I provide an overview of the scope of those limitations and how they can be lifted by *software freedom*.
 
-I will first talk about existing restrictions on computer programs. Then, I will introduce the idea of free and open source software. I will follow with the topic of licensing. I will mention a few ways software can be "remixed". After that, I will discuss the motivations that lead people to develop free and open source software. I will list several advantages of software freedom. Then, I will write about its relationship with government policies. I will describe how similar ideas apply to non-software digital assets. Finally, I will give some examples of free and open source software which you may already be familiar with.
-
 ## Restrictions on software
 
 Programmers typically create software by writing *source code*, as text, in a *programming language*. This may then need to be converted (or "compiled") into *object code*. The result is still the same program, just represented in a different way, which is not human-readable.
