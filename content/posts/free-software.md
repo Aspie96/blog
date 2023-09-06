@@ -147,6 +147,8 @@ The [Definition of Free Cultural Works](https://freedomdefined.org/Definition) a
 
 [Creative Commons](https://creativecommons.org/) is a non-profit organization which writes public licences, [some](https://creativecommons.org/2008/02/20/approved-for-free-cultural-works/) of which are free. These include [CC0](https://creativecommons.org/publicdomain/zero/1.0/) (a public domain declaration), [CC BY](https://creativecommons.org/licenses/by/4.0/) and [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). Other organizations have written the [Free Art License](https://artlibre.org/license/lal/en/) and the [GNU GPL](https://www.gnu.org/licenses/licenses.html) (which, while mainly designed for software, can also be used for other works).
 
+It should be noted that digital files can be stored in multiple *formats*, which encode the same information in different ways. Some file formats are secret or have legal restrictions and can only be used trough proprietary software. Free file formats give control back to the user.
+
 ## Examples
 
 There are several well-known cross-platform free and open source programs, publicly available at no charge, which you may be familiar with. Here are just a few:
