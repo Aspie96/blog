@@ -139,6 +139,8 @@ Italian law [requires](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decr
 
 The Italian region of Piedmont has got a [law](http://arianna.cr.piemonte.it/iterlegcoordweb/dettaglioLegge.do?urnLegge=urn:nir:regione.piemonte:legge:2009;9) on the adoption and diffusion of free software and portability of digital documents.
 
+[Sometimes](https://creativecommons.org/2019/04/02/european-commission-adopts-cc-by-and-cc0-for-sharing-information/) public entities use licences that provide a similar level of freedom for non-osftware works as well, such as digital documents.
+
 ## Non-software assets
 
 Software programs aren't the only digital assets that can be distributed under a free licence. Artworks, books, music and all sorts of other works are also subject to copyright.
