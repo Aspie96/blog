@@ -96,7 +96,7 @@ Software freedom is not anti-money. Indeed, the only business models it preclude
 
 In the case of non-profit organizations seeking to make the world a better place and governments serving the interests of their citizens, software freedom is the obvious choice, as it maximizes utility.
 
-When money isn't part of the picture, individuals often code simply for fun or as a learning experience. People can also choose to share programs out of altruism, to help others, or for ideological reasons.
+Besides money, individuals often code simply for fun or as a learning experience. People can also choose to share programs out of altruism, to help others, or for ideological reasons.
 
 Individuals and organizations alike often contribute back to programs they themselves use, to their own benefit. Also, those that develop software for their own use often share them free, which costs nothing to do.
 
