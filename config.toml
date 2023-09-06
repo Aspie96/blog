@@ -1,5 +1,6 @@
 baseURL = "https://www.functorfault.net/"
 defaultContentLanguage = "en"
+enableRobotsTXT = true
 languageCode = "en"
 sectionPagesMenu = "main"
 title = "Functor Fault"
