@@ -19,7 +19,7 @@ I will first talk about existing restrictions on computer programs. Then, I will
 
 Programmers typically create software by writing *source code*, as text, in a *programming language*. This may then need to be converted (or "compiled") into *object code*. The result is still the same program, just represented in a different way, which is not human-readable.
 
-Legally, original literary and artistic works of authorship, such as poems and paintings, are automatically covered by *copyright* (or "author's rights") as soon as they exist. In general, making copies of a work, preparing derivatives and conveying it to the public are actions that require an authorization from the copyright holder. Software programs are covered by [copyright](https://en.wikipedia.org/wiki/Software_copyright) as literary works.
+Legally, original literary and artistic works of authorship, such as poems and paintings, are automatically covered by *copyright* (or "author's rights") as soon as they exist. In general, making copies of a work, preparing derivatives and conveying it to the public are actions that require an authorization from the copyright holder. Software programs are [protected](https://en.wikipedia.org/wiki/Software_copyright) as literary works.
 
 Suppose you receive a program as object code. You cannot study its internal functioning in detail, because you haven't got the corresponding source code to read. You aren't legally allowed to distribute copies. You may be unable to modify the program to your liking for both legal and technical reasons.
 
@@ -32,11 +32,11 @@ Restrictions on software, legal or technical, exist beyond just copyright and wi
 In the '80s, the [GNU](https://www.gnu.org/) project, aimed at creating a free operating system, was [announced](https://www.gnu.org/gnu/initial-announcement.html) by [Richard Stallman](https://stallman.org/). Stallman then founded the [Free Software Foundation](https://www.fsf.org/), a non-profit organization which supports GNU and other initiatives. The FSF also maintains the [Free Software Definition](https://www.gnu.org/philosophy/free-sw.html), based on four *[essential freedoms](https://www.gnu.org/philosophy/free-sw.html#four-freedoms)*:
 
 - *Freedom 0*: To run the program as one wishes, for any purpose.
-- *Freedom 1*: To study how the program works, and change it so it does as one wishes (requires access to source code).
+- *Freedom 1*: To study how the program works and change it so it does as one wishes (requires access to source code).
 - *Freedom 2*: To redistribute copies.
 - *Freedom 3*: To distribute copies of one's modifications to others (requires access to source code).
 
-In "free software", the word "free" refers to freedom (as in "free speech"), not to price (as in "free beer"). This ambiguity is specific to the English language. Sometimes the Spanish and French word "libre" is used, instead of "free", to avoid confusion. While free software is typically distributed at no cost (partly because anyone can pass it on), a lot of software available without charge is not free software.
+In "free software", the word "free" refers to freedom (as in "free speech"), not to price (as in "free beer"). This ambiguity is specific to the English language. Sometimes the Spanish and French word "libre" is used, instead of "free", so as to avoid confusion. While free software is typically distributed at no cost (partly because anyone can pass it on), a lot of software available without charge is not free software.
 
 The *free software movement* supports *software freedom* on moral grounds, based on the idea that non-free ("proprietary") software is controlled by its owner, rather than the user, and that this constitutes an instrument of unjust power over users' computing. It is, however, possible to use and endorse free software for more pragmatic reasons, even without agreeing with this philosophy.
 
@@ -46,21 +46,21 @@ The *free software movement* supports *software freedom* on moral grounds, based
 
 [Eric Raymond](http://www.catb.org/~esr/) and [Bruce Perens](http://perens.com/) (leader, at the time, of the [Debian](https://www.debian.org/index.it.html) project, a free operating system, as successor of its founder [Ian Murdock](https://ianmurdock.com/)) started the [Open Source Initiative](https://opensource.org/) in 1998, as president and vice-president respectively. The idea was to promote free software under a different name, leveraging a more pragmatic approach.
 
-The *open source movement*, more utilitarian, rather than based on moral dogma (like the free software movement), and often focused on cooperation and software quality, has been very successful at making open source software widespread.
+The *open source movement* differs from the free software movement in that it favors more utilitarian tactics over moral dogma and focuses heavily on the benefits of cooperation and software quality. It has been extraordinarily successful at making open source software widespread.
 
 The [Open Source Definition](https://opensource.org/definition-annotated/), maintained by OSI, is based on the [Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines) (written by Perens). It is equivalent, in substance, to the Free Software Definition by the FSF, expressing the same concepts with different words and a different structure.
 
 Sometimes the phrase "free and open source software" is used to remain neutral between the two alternatives. It can also be shortened as "FOSS" or "[FLOSS](https://www.gnu.org/philosophy/floss-and-foss.html)" (where the L stands for "libre"). It's also possible to use "free software" and "open source" interchangeably, to refer to the same class of programs, as the Debian community currently does.
 
-Open source is not to be confused with software which is merely *source available*. Whenever source code is provided, the program is indeed source available, but, in order for it to be open source, an appropriate licence, one which grants software freedom, is necessary.
+Open source is not to be confused with software which is merely *source available*. Whenever source code is provided, the program is indeed source available, but, in order for it to be open source, an appropriate licence, one which grants software freedom, is also necessary.
 
 ## Licences
 
 Because of legal restrictions, such as copyright, an appropriate *licence* (synonym of "authorization" and of "permission") is necessary for software freedom.
 
-Free software licences are *public* (granted to anybody who receives a copy of the program). They are typically written as reusable documents, which helps prevent [proliferation](https://en.wikipedia.org/wiki/License_proliferation).
+Free software licences are *public* (granted to anybody who receives a copy of the program). They are typically written as reusable documents, which helps to prevent [proliferation](https://en.wikipedia.org/wiki/License_proliferation).
 
-Most licences come under some *conditions* (only applying as long they are met), some of which are considered compatible with software freedom.
+Most licences come under some *conditions* (only applying as long they are met). What terms are compatible with software freedom is largely settled well understood.
 
 Requirements such as that of retaining attribution notices when distributing the program are permissible and ubiquitous in free software licences, as are disclaimers of warranty and liability. On the other hand, restrictions against commercial use or which limit the [freedom to run the program](https://www.gnu.org/philosophy/programs-must-not-limit-freedom-to-run.html) cannot be part of a free licence.
 
@@ -161,7 +161,7 @@ There are several well-known cross-platform free and open source programs, publi
 - [Telegram](https://telegram.org/): Messaging app. The Telegram *client* (the program actually running on users' device) is free and open source. The *server* software is not published in any form.
 - [calibre](https://calibre-ebook.com/): E-book manager.
 
-Besides high-level applications, you have probably heard of [Linux](https://www.kernel.org/): a free *kernel* (the core component of an operating system). Linux is used by Debian, by Android and by many more. It's an important part of the open source ecosystem.
+Besides high-level applications, you have probably heard of [Linux](https://www.kernel.org/): a free *kernel* (the core component of an operating system). Linux is used by Debian, Android and many more. It's an important part of the open source ecosystem.
 
 As for free cultural content, [Wikipedia](https://www.wikipedia.org/) is a free (libre) encyclopedia: its articles are available under the [CC BY-SA](https://creativecommons.org/licences/by-sa/4.0/) licence.
 
