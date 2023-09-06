@@ -31,10 +31,10 @@ Restrictions on software, legal or technical, exist beyond just copyright and wi
 
 In the '80s, the [GNU](https://www.gnu.org/) project, aimed at creating a free operating system, was [announced](https://www.gnu.org/gnu/initial-announcement.html) by [Richard Stallman](https://stallman.org/). Stallman then founded the [Free Software Foundation](https://www.fsf.org/), a non-profit organization which supports GNU and other initiatives. The FSF also maintains the [Free Software Definition](https://www.gnu.org/philosophy/free-sw.html), based on four *[essential freedoms](https://www.gnu.org/philosophy/free-sw.html#four-freedoms)*:
 
-- *Freedom 0*: To run the program as one wishes, for any purpose.
-- *Freedom 1*: To study how the program works and change it so it does as one wishes (requires access to source code).
+- *Freedom 0*: To run the program as you wish, for any purpose.
+- *Freedom 1*: To study how the program works and change it so it does as you wishes (requires access to source code).
 - *Freedom 2*: To redistribute copies.
-- *Freedom 3*: To distribute copies of one's modifications to others (requires access to source code).
+- *Freedom 3*: To distribute copies of your modified versions to others (requires access to source code).
 
 In "free software", the word "free" refers to freedom (as in "free speech"), not to price (as in "free beer"). This ambiguity is specific to the English language. Sometimes the Spanish and French word "libre" is used, instead of "free", so as to avoid confusion. While free software is typically distributed at no cost (partly because anyone can pass it on), a lot of software available without charge is not free software.
 
