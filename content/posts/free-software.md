@@ -64,17 +64,17 @@ Most licences come under some *conditions* (only applying as long they are met).
 
 Requirements such as that of retaining attribution notices when distributing the program are permissible and ubiquitous in free software licences, as are disclaimers of warranty and liability. On the other hand, restrictions against commercial use or which limit the [freedom to run the program](https://www.gnu.org/philosophy/programs-must-not-limit-freedom-to-run.html) cannot be part of a free licence.
 
-The [FSF](https://www.gnu.org/licences/license-list.html) and [OSI](https://opensource.org/licences/) each maintain a list of free and open source licences. In general, however, few of them, such as the [MIT](https://opensource.org/license/mit/) licence, the [Apache 2.0](https://www.apache.org/licences/LICENSE-2.0) licence and the [GNU GPL](https://www.gnu.org/licences/), dominate the free software licensing landscape.
+The [FSF](https://www.gnu.org/licenses/license-list.html) and [OSI](https://opensource.org/licenses/) each maintain a list of free and open source licences. In general, however, few of them, such as the [MIT](https://opensource.org/license/mit/) licence, the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) licence and the [GNU GPL](https://www.gnu.org/licenses/), dominate the free software licensing landscape.
 
 ## Copyleft
 
-Of all conditions that are permissible in a free software licence, [copyleft](https://www.gnu.org/licences/copyleft.html) (a mechanism pioneered by Stallman) is arguably the most restrictive, interesting and discussed one.
+Of all conditions that are permissible in a free software licence, [copyleft](https://www.gnu.org/licenses/copyleft.html) (a mechanism pioneered by Stallman) is arguably the most restrictive, interesting and discussed one.
 
 A copyleft licence allows distributing one's own modifications to the program only as free software, without additional restrictions. In essence, it ensures that software freedom is preserved when modified versions of the program are passed on.
 
 Most free and open source licences are not copyleft. When, if ever, to use a copyleft licence is, ultimately, a matter of subjective choice and priorities.
 
-Copyleft can be used strategically as a way to promote the release of free software by others. On the other hand, it can lead to licence [incompatibility](https://www.gnu.org/licences/license-compatibility.html), which may prevent mixing pieces of software under different licences.
+Copyleft can be used strategically as a way to promote the release of free software by others. On the other hand, it can lead to licence [incompatibility](https://www.gnu.org/licenses/license-compatibility.html), which may prevent mixing pieces of software under different licences.
 
 ## Remixing software
 
@@ -86,7 +86,7 @@ Programmers almost never start from scratch. A *library* is a collection of soft
 
 Software is often developed cooperatively. Maintainers of a project can publish its source code online. Independent programmers can then contribute by sending *patches* (suggested modifications), which maintainers can choose to *merge* (apply) or not.
 
-As a result of mutual cooperation and exercise of software freedom, one program can have hundreds of authors and copyright holders, each licencing one's own rights to the user. Those that decide to work together on the same software may each do so for widely different motives.
+As a result of mutual cooperation and exercise of software freedom, one program can have hundreds of authors and copyright holders, each licensing one's own rights to the user. Those that decide to work together on the same software may each do so for widely different motives.
 
 ## Motivations
 
@@ -133,7 +133,7 @@ The federal government of the United States runs an online [platform](https://ww
 
 The *[Public Money? Public Code!](https://publiccode.eu/)* campaign, in Europe, asks for legislation requiring that publicly financed software developed for the public sector be published as free software.
 
-The European Union has adopted an [Open Source Software Strategy](https://commission.europa.eu/select-language?destination=/node/117) to leverage the power of open source, which has resulted in a [platform](https://code.europa.eu/) for open source development. The EU has also written its own free license: the [EUPL](https://eupl.eu/) and runs [Joinup](https://joinup.ec.europa.eu/), which also provides [resources](https://joinup.ec.europa.eu/topic/ict/open-source-software) on open source software.
+The European Union has adopted an [Open Source Software Strategy](https://commission.europa.eu/select-language?destination=/node/117) to leverage the power of open source, which has resulted in a [platform](https://code.europa.eu/) for open source development. The EU has also written its own free licence: the [EUPL](https://eupl.eu/) and runs [Joinup](https://joinup.ec.europa.eu/), which also provides [resources](https://joinup.ec.europa.eu/topic/ict/open-source-software) on open source software.
 
 Italian law [requires](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art68) that public administrations consider free software solutions. It also [mandates](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art69) that they publish custom-built software as open source. [Agenzia per l'Italia Digitale](https://www.agid.gov.it/), an Italian public agency, has [guidelines](https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa) on the matter. The government also maintains a [platform](https://developers.italia.it/) to share and develop open source software for public administrations.
 
@@ -145,9 +145,9 @@ The Italian region of Piedmont has got a [law](http://arianna.cr.piemonte.it/ite
 
 Software programs aren't the only digital assets that can be distributed under a free licence. Artworks, books, music and all sorts of other works are also subject to copyright.
 
-The [Definition of Free Cultural Works](https://freedomdefined.org/Definition) and the [Open Definition](https://opendefinition.org/) (by the [Open Knowledge Foundation](https://okfn.org/)) independently provide definitions that can be used to establish which licences are "free" or "open". The relevant freedoms are the same as those for free and open source software, just translated out of the software domain.
+The [Definition of Free Cultural Works](https://freedomdefined.org/Definition) and the [Open Definition](https://opendefinition.org/) (by the [Open Knowledge Foundation](https://okfn.org/)) independently provide definitions that can be used to establish if any given licence is "free" or "open". The relevant freedoms are the same as those for free and open source software, just translated out of the software domain.
 
-[Creative Commons](https://creativecommons.org/) is a non-profit organization which writes public licences, [some](https://creativecommons.org/2008/02/20/approved-for-free-cultural-works/) of which are free. These include [CC0](https://creativecommons.org/publicdomain/zero/1.0/) (a public domain declaration), [CC BY](https://creativecommons.org/licences/by/4.0/) and [CC BY-SA](https://creativecommons.org/licences/by-sa/4.0/). Other organizations have written the [Free Art License](https://artlibre.org/license/lal/en/) and the [GNU GPL](https://www.gnu.org/licenses/licenses.html) (which, while mainly designed for software, can also be used for other works).
+[Creative Commons](https://creativecommons.org/) is a non-profit organization which writes public licences, [some](https://creativecommons.org/2008/02/20/approved-for-free-cultural-works/) of which are free. These include [CC0](https://creativecommons.org/publicdomain/zero/1.0/) (a public domain declaration), [CC BY](https://creativecommons.org/licenses/by/4.0/) and [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). Other organizations have written the [Free Art License](https://artlibre.org/license/lal/en/) and the [GNU GPL](https://www.gnu.org/licenses/licenses.html) (which, while mainly designed for software, can also be used for other works).
 
 ## Examples
 
@@ -165,7 +165,7 @@ There are several well-known cross-platform free and open source programs, publi
 
 Besides high-level applications, you have probably heard of [Linux](https://www.kernel.org/): a free *kernel* (the core component of an operating system). Linux is used by Debian, Android and many more. It's an important part of the open source ecosystem.
 
-As for free cultural content, [Wikipedia](https://www.wikipedia.org/) is a free (libre) encyclopedia: its articles are available under the [CC BY-SA](https://creativecommons.org/licences/by-sa/4.0/) licence.
+As for free cultural content, [Wikipedia](https://www.wikipedia.org/) is a free (libre) encyclopedia: its articles are available under the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) licence.
 
 ## Additional resources
 
