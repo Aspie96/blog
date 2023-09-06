@@ -42,7 +42,7 @@ The *free software movement* supports *software freedom* on moral grounds, based
 
 ## Open Source
 
-*Open source* is the same as free software. The reason for the double name is historical.
+*Open source* is the same category of programs (and licences) as free software. The reason for the double name is historical.
 
 [Eric Raymond](http://www.catb.org/~esr/) and [Bruce Perens](http://perens.com/) (leader, at the time, of the [Debian](https://www.debian.org/index.it.html) project, a free operating system, as successor of its founder [Ian Murdock](https://ianmurdock.com/)) started the [Open Source Initiative](https://opensource.org/) in 1998, as president and vice-president respectively. The idea was to promote free software under a different name, leveraging a more pragmatic approach.
 
