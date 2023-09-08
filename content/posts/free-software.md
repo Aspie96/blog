@@ -21,7 +21,7 @@ Programmers typically create software by writing *source code*, as text, in a *p
 
 Legally, original literary and artistic works of authorship, such as poems and paintings, are automatically covered by *copyright* (or "author's rights") as soon as they exist. In general, making copies of a work, preparing derivatives and conveying it to the public are actions that require an authorization from the copyright holder. Software programs are [protected](https://en.wikipedia.org/wiki/Software_copyright) as literary works.
 
-Suppose you receive a program as object code. You cannot study its internal functioning in detail, because you haven't got the corresponding source code to read. You aren't legally allowed to distribute copies. You may be unable to modify the program to your liking for both legal and technical reasons.
+Suppose you receive a program as object code. You cannot study its internal functioning in detail, because you don't have the corresponding source code to read. You aren't legally allowed to distribute copies. You may be unable to modify the program to your liking for both legal and technical reasons.
 
 Restrictions on software, legal or technical, exist beyond just copyright and withholding source code. In an ever more digitalized world, they give rightholders a lot of power and substantial control on users.
 
@@ -137,7 +137,7 @@ The European Union has adopted an [Open Source Software Strategy](https://commis
 
 Italian law [requires](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art68) that public administrations consider free software solutions. It also [mandates](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art69) that they publish custom-built software as open source. [Agenzia per l'Italia Digitale](https://www.agid.gov.it/), an Italian public agency, has [guidelines](https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa) on the matter. The government also maintains a [platform](https://developers.italia.it/) to share and develop open source software for public administrations.
 
-The Italian region of Piedmont has got a [law](http://arianna.cr.piemonte.it/iterlegcoordweb/dettaglioLegge.do?urnLegge=urn:nir:regione.piemonte:legge:2009;9) on the adoption and diffusion of free software and portability of digital documents.
+The Italian region of Piedmont has a [law](http://arianna.cr.piemonte.it/iterlegcoordweb/dettaglioLegge.do?urnLegge=urn:nir:regione.piemonte:legge:2009;9) on the adoption and diffusion of free software and portability of digital documents.
 
 [Sometimes](https://creativecommons.org/2019/04/02/european-commission-adopts-cc-by-and-cc0-for-sharing-information/) public entities use licences that provide a similar level of freedom for non-software works as well, such as digital documents.
 
