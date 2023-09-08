@@ -13,7 +13,7 @@ Software plays an increasingly relevant role in our lives. We delegate important
 
 In principle, software, like all written knowledge and all sorts of digital assets, could be reproduced and shared infinitely, without deteriorating, at virtually no cost, so that the same programming problem never has to be solved twice, furthering innovation. It's also flexible enough that skilled users could tweak it to their needs.
 
-Because of legal and technical restrictions, what you can actually do with the programs you use is usually very limited. In this article, I provide an overview of the scope of those limitations and how they can be lifted by *software freedom*.
+In practice, because of legal and technical restrictions, what you can actually do with the programs you use is usually very limited. In this article, I provide an overview of the scope of those limitations and how they can be lifted by *software freedom*.
 
 ## Restrictions on software
 
@@ -32,7 +32,7 @@ Restrictions on software, legal or technical, exist beyond just copyright and wi
 In the '80s, the [GNU](https://www.gnu.org/) project, aimed at creating a free operating system, was [announced](https://www.gnu.org/gnu/initial-announcement.html) by [Richard Stallman](https://stallman.org/). Stallman then founded the [Free Software Foundation](https://www.fsf.org/), a non-profit organization which supports GNU and other initiatives. The FSF also maintains the [Free Software Definition](https://www.gnu.org/philosophy/free-sw.html), based on four *[essential freedoms](https://www.gnu.org/philosophy/free-sw.html#four-freedoms)*:
 
 - *Freedom 0*: To run the program as you wish, for any purpose.
-- *Freedom 1*: To study how the program works and change it so it does as you wishes (requires access to source code).
+- *Freedom 1*: To study how the program works and change it so it does as you wish (requires access to source code).
 - *Freedom 2*: To redistribute copies.
 - *Freedom 3*: To distribute copies of your modified versions to others (requires access to source code).
 
@@ -48,9 +48,9 @@ The *free software movement* supports *software freedom* on moral grounds, based
 
 The *open source movement* differs from the free software movement in that it favors more utilitarian tactics over moral dogma and focusses heavily on the benefits of cooperation and software quality. It has been extraordinarily successful at making open source software widespread.
 
-The [Open Source Definition](https://opensource.org/definition-annotated/), maintained by OSI, is based on the [Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines) (written by Perens). It is equivalent, in substance, to the Free Software Definition by the FSF, expressing the same concepts with different words and a different structure.
+The [Open Source Definition](https://opensource.org/definition-annotated/), maintained by OSI, is based on the [Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines) (written by Perens). It is equivalent, in substance, to the Free Software Definition by the FSF, expressing the same concepts with different words.
 
-Sometimes the phrase "free and open source software" is used to remain neutral between the two alternatives. It can also be shortened to "FOSS" or "[FLOSS](https://www.gnu.org/philosophy/floss-and-foss.html)" (where the L stands for "libre"). It's also possible to use "free software" and "open source" interchangeably, to refer to the same class of programs, as the Debian community currently does.
+Sometimes the phrase "free and open source software" is used to remain neutral between the two alternatives. It can also be shortened to "FOSS" or "[FLOSS](https://www.gnu.org/philosophy/floss-and-foss.html)" (where the L stands for "libre"). It's possible to use "free software" and "open source" interchangeably, to refer to the same class of programs, as the Debian community currently does.
 
 Open source is not to be confused with software which is merely *source available*. Whenever source code is provided, the program is indeed source available, but, in order for it to be open source, an appropriate licence, one which grants software freedom, is also necessary.
 
@@ -74,7 +74,7 @@ A copyleft licence allows distributing one's own modifications to the program on
 
 Most free and open source licences are not copyleft. When, if ever, to use a copyleft licence is, ultimately, a matter of subjective choice and priorities.
 
-Copyleft can be used strategically as a way to promote the release of free software by others. On the other hand, it can lead to licence [incompatibility](https://www.gnu.org/licenses/license-compatibility.html), which may prevent mixing pieces of software under different licences.
+Copyleft can be used strategically as a way to promote the release of free software by others. On the other hand, it can lead to licence [incompatibility](https://joinup.ec.europa.eu/collection/eupl/licence-compatibility-permissivity-reciprocity-and-interoperability), which may prevent mixing pieces of software under different licences.
 
 ## Remixing software
 
