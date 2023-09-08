@@ -175,7 +175,6 @@ As for free cultural content, [Wikipedia](https://www.wikipedia.org/) is a free 
 - *[Definition of Free Cultural Works](https://freedomdefined.org/Definition)* by Definition of Free Cultural Works
 - *[The Open Definition](https://opendefinition.org/)* by the Open Knowledge Foundation
 - *[Permissible restrictions](https://freedomdefined.org/Permissible_restrictions)* by Definition of Free Cultural Works
-- *[Copyheart](https://copyheart.org/)* by Nina Paley
 - *[Introduction to Free Software and the Liberation of Cyberspace](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society/)* by Richard Stallman
 - *[Why Software Should Not Have Owners](https://www.gnu.org/philosophy/why-free.html)* by Richard Stallman
 - *[Why programs must not limit the freedom to run them
@@ -185,6 +184,7 @@ As for free cultural content, [Wikipedia](https://www.wikipedia.org/) is a free 
 - *[Goodbye, "free software"; hello, "open source"](http://www.catb.org/~esr/open-source.html)* by Eric Raymond
 - *[The Revenge of the Hackers](http://catb.org/~esr/faqs/hacker-revenge.html)* by Eric Raymond
 - *[On Usage of The Phrase "Open Source"](https://web.archive.org/web/20230506135235/https://perens.com/2017/09/26/on-usage-of-the-phrase-open-source/)* by Bruce Perens
+- *[Copyheart](https://copyheart.org/)* by Nina Paley
 - *[Blender is Free Software](https://code.blender.org/2019/06/blender-is-free-software/)* by Ton Roosendaal
 - *[Happy birthday to GNU](https://www.gnu.org/fry/)* by Stephen Fry
 - *[It's legal but unethical](https://justintadlock.com/archives/2013/08/19/its-legal-but-unethical)* by Justin Tadlock
