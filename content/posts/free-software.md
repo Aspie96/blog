@@ -187,6 +187,7 @@ As for free cultural content, [Wikipedia](https://www.wikipedia.org/) is a free 
 - *[The Revenge of the Hackers](http://catb.org/~esr/faqs/hacker-revenge.html)* by Eric Raymond
 - *[On Usage of The Phrase "Open Source"](https://web.archive.org/web/20230506135235/https://perens.com/2017/09/26/on-usage-of-the-phrase-open-source/)* by Bruce Perens
 - *[Copyheart](https://copyheart.org/)* by Nina Paley
+- *[Escape to Freedom](https://www.fsf.org/blogs/community/help-others-find-free-software-watch-and-share-escape-to-freedom)* by the Free Software Foundation
 - *[Blender is Free Software](https://code.blender.org/2019/06/blender-is-free-software/)* by Ton Roosendaal
 - *[Happy birthday to GNU](https://www.gnu.org/fry/)* by Stephen Fry
 - *[It's legal but unethical](https://justintadlock.com/archives/2013/08/19/its-legal-but-unethical)* by Justin Tadlock
