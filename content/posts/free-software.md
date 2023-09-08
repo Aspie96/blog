@@ -17,7 +17,7 @@ Because of legal and technical restrictions, what you can actually do with the p
 
 Programmers typically create software by writing *source code*, as text, in a *programming language*. This may then need to be converted (or "compiled") into *object code*. The result is still the same program, just represented in a different way, which is not human-readable.
 
-Legally, original literary and artistic works of authorship, such as poems and paintings, are automatically covered by *copyright* (or "author's rights") as soon as they exist. In general, making copies of a work, preparing derivatives and conveying it to the public are actions that require an authorisation from the copyright holder. Software programs are [protected](https://en.wikipedia.org/wiki/Software_copyright) as literary works.
+Legally, original literary and artistic works of authorship, such as poems and paintings, are automatically covered by *copyright* (or "author's rights") as soon as they exist. In general, making copies of a work, preparing derivatives and conveying it to the public are actions that require an authorization from the copyright holder. Software programs are [protected](https://en.wikipedia.org/wiki/Software_copyright) as literary works.
 
 Suppose you receive a program as object code. You cannot study its internal functioning in detail, because you haven't got the corresponding source code to read. You aren't legally allowed to distribute copies. You may be unable to modify the program to your liking for both legal and technical reasons.
 
@@ -27,7 +27,7 @@ Restrictions on software, legal or technical, exist beyond just copyright and wi
 
 *Free software* is software which any user, in any field of endeavour, is free to run, copy, distribute, study and modify. This means that it is provided alongside with its source code, as well as an appropriate licence.
 
-In the '80s, the [GNU](https://www.gnu.org/) project, aimed at creating a free operating system, was [announced](https://www.gnu.org/gnu/initial-announcement.html) by [Richard Stallman](https://stallman.org/). Stallman then founded the [Free Software Foundation](https://www.fsf.org/), a non-profit organisation which supports GNU and other initiatives. The FSF also maintains the [Free Software Definition](https://www.gnu.org/philosophy/free-sw.html), based on four *[essential freedoms](https://www.gnu.org/philosophy/free-sw.html#four-freedoms)*:
+In the '80s, the [GNU](https://www.gnu.org/) project, aimed at creating a free operating system, was [announced](https://www.gnu.org/gnu/initial-announcement.html) by [Richard Stallman](https://stallman.org/). Stallman then founded the [Free Software Foundation](https://www.fsf.org/), a non-profit organization which supports GNU and other initiatives. The FSF also maintains the [Free Software Definition](https://www.gnu.org/philosophy/free-sw.html), based on four *[essential freedoms](https://www.gnu.org/philosophy/free-sw.html#four-freedoms)*:
 
 - *Freedom 0*: To run the program as you wish, for any purpose.
 - *Freedom 1*: To study how the program works and change it so it does as you wishes (requires access to source code).
@@ -54,7 +54,7 @@ Open source is not to be confused with software which is merely *source availabl
 
 ## Licences
 
-Because of legal restrictions, such as copyright, an appropriate *licence* (synonym of "authorisation" and of "permission") is necessary for software freedom.
+Because of legal restrictions, such as copyright, an appropriate *licence* (synonym of "authorization" and of "permission") is necessary for software freedom.
 
 Free software licences are *public* (granted to anybody who receives a copy of the program). They are typically written as reusable documents, which helps to prevent [proliferation](https://en.wikipedia.org/wiki/License_proliferation).
 
@@ -92,11 +92,11 @@ At this point in the article, you might be wondering why anyone would even write
 
 Software freedom is not anti-money. Indeed, the only business models it precludes are those that require restricting the user. Many strategies exist to earn by releasing free software, which also happens to be good publicity (for a company) and, often, a way to get contributions from the community.
 
-In the case of non-profit organisations seeking to make the world a better place and governments serving the interests of their citizens, software freedom is the obvious choice, as it maximises utility.
+In the case of non-profit organizations seeking to make the world a better place and governments serving the interests of their citizens, software freedom is the obvious choice, as it maximizes utility.
 
 Besides money, individuals often code simply for fun or as a learning experience. People can also choose to share programs out of altruism, to help others, or for ideological reasons.
 
-Individuals and organisations alike often contribute back to programs they themselves use, to their own benefit. Also, those that develop software for their own use often share it free, which costs nothing to do.
+Individuals and organizations alike often contribute back to programs they themselves use, to their own benefit. Also, those that develop software for their own use often share it free, which costs nothing to do.
 
 Users don't need to concern themselves with the reasons any particular program was developed. As long as it is free, anyone can enjoy the benefits of software freedom.
 
@@ -105,7 +105,7 @@ Users don't need to concern themselves with the reasons any particular program w
 Software freedom leads to many advantages for the user, such as:
 
 - **Cost**: While free software doesn't have to be available at no charge, it typically is. Even when it isn't, multiple people can buy one copy and reproduce it among themselves.
-- **Malleability**: Because free software can be modified, it can be customised to one's own needs.
+- **Malleability**: Because free software can be modified, it can be customized to one's own needs.
 - **Transparency**: Free software can be studied and its inner workings are no secret.
 - **Security**: Computer security is not done through obscurity. When the source code is available, the absence of backdoors can be verified and accidental vulnerabilities can be reported and fixed.
 - **Cooperation**: When working cooperatively on a project, free software is ideal because users can share it among themselves and don't all have to accept a proprietary licence.
@@ -145,7 +145,7 @@ Software programs aren't the only digital assets that can be distributed under a
 
 The [Definition of Free Cultural Works](https://freedomdefined.org/Definition) and the [Open Definition](https://opendefinition.org/) (by the [Open Knowledge Foundation](https://okfn.org/)) independently provide definitions that can be used to establish if any given licence is "free" or "open". The relevant freedoms are the same as those for free and open source software, just translated out of the software domain.
 
-[Creative Commons](https://creativecommons.org/) is a non-profit organisation which writes public licences, [some](https://creativecommons.org/2008/02/20/approved-for-free-cultural-works/) of which are free. These include [CC0](https://creativecommons.org/publicdomain/zero/1.0/) (a public domain declaration), [CC BY](https://creativecommons.org/licenses/by/4.0/) and [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). Other organisations have written the [Free Art License](https://artlibre.org/licence/lal/en/) and the [GNU GPL](https://www.gnu.org/licenses/licenses.html) (which, while mainly designed for software, can also be used for other works).
+[Creative Commons](https://creativecommons.org/) is a non-profit organization which writes public licences, [some](https://creativecommons.org/2008/02/20/approved-for-free-cultural-works/) of which are free. These include [CC0](https://creativecommons.org/publicdomain/zero/1.0/) (a public domain declaration), [CC BY](https://creativecommons.org/licenses/by/4.0/) and [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). Other organizations have written the [Free Art License](https://artlibre.org/licence/lal/en/) and the [GNU GPL](https://www.gnu.org/licenses/licenses.html) (which, while mainly designed for software, can also be used for other works).
 
 It should be noted that digital files can be stored in multiple *formats*, which encode the same information in different ways. Some file formats are secret or have legal restrictions and can only be used through proprietary software. Free file formats give control back to the user.
 
