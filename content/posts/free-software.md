@@ -5,6 +5,8 @@ draft: false
 title: "Free and Open Source Software"
 ---
 
+*I am not a lawyer and this is not legal advice.*
+
 You have probably heard of free and open source software before.
 
 Software plays an increasingly relevant role in our lives. We delegate important tasks to computers. We store our memories, along with critical personal information, as well as assets we've worked for tens of hours on, on our digital devices. We use them to communicate, to trade, to work, to stay informed and to entertain ourselves. Ensuring that the programs we use are actually serving us, rather than someone else, is critical.
