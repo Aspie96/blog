@@ -1,6 +1,6 @@
 ---
 author: "Valentino Giudice"
-date: 2023-08-30T01:23:32+02:00
+date: 2023-09-08T03:39:15+02:00
 draft: false
 title: "Free and Open Source Software"
 ---
