@@ -1,7 +1,7 @@
 ---
-title: "My take on freedom of expression"
+title: "On freedom of expression"
 date: 2023-01-04T19:54:01+01:00
-draft: true
+draft: false
 lastmod: 2023-01-07T19:54:01+01:00
 ---
 
@@ -23,7 +23,7 @@ Artistic and literary (including software) works of authorship are covered by co
 
 ### In the United States
 
-The [First Amendment to the United States Constitution](https://constitution.congress.gov/constitution/amendment-1/) protects freedom of religion, freedom of speech, freedom of the press and freedom of assembly from government suppression. This protection is, however, not absolute.
+The [First Amendment to the United States Constitution](https://constitution.congress.gov/constitution/amendment-1/) protects freedom of religion, freedom of speech, freedom of the press and freedom of assembly from government suppression. This protection is, however, not absolute and restrictions go beyond the aforementioned ones.
 
 Hate speech is legal in the country, as it is [protected](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/05/07/no-theres-no-hate-speech-exception-to-the-first-amendment/) under the First Amendment. Sexual [obscenity](https://www.justice.gov/criminal-ceos/obscenity), on the other hand, is [unprotected](https://www.justice.gov/criminal-ceos/obscenity), resulting in [censorship](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1462&num=0&edition=prelim) of obscene hard-core pornography.
 
