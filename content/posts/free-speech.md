@@ -61,9 +61,9 @@ The legal protection of freedom of speech in Italy extends beyond limitations on
 
 Governments aren't the only ones taking actions to prevent public communications, thereby engaging in censorship.
 
-Social media platforms are used by many as one of the primary tools for public self-expression. The companies running these platform, however, have the ability to remove anything which gets published, as well as to ban accounts altogether. This gives them a lot of power to influence public discourse, not necessarily in the public interest.
+Social-media platforms are used by many as one of the primary tools for public self-expression. The companies running them, however, can remove anything they wish and even ban accounts altogether. This gives them a lot of power to influence public discourse, not necessarily for the common good.
 
-Content-neutral free-speech platforms that only remove that which would otherwise hamper the functionality, the utility or the existence of the platform itself (such as spam or illegal material) do exist. Censorship-resistant platforms based on open source software and decentralized communication protocols also exist.
+Content-neutral free-speech platforms that only remove that which would otherwise threten their functionality, utility or existence (such as spam or illegal material) do exist. Censorship-resistant platforms based on open source software and decentralized communication protocols are also available.
 
 Some online platforms make it easier than others to speak anonymously. This allows users to express themselves without fear of social repercussions or their personal or professional life being degraded. Several people may need this protection. Consider, for example, those living in oppressive religious environments: an apostate in an Islamic theocracy or a gay boy in a family of Christian fundamentalists. Anonymity can shield them while they publish their personal experiences and interact with others like them.
 
@@ -71,9 +71,9 @@ Some online platforms make it easier than others to speak anonymously. This allo
 
 Governments aren't alone in violating human rights.
 
-If, when speaking a certain idea, one risks being arrested and jailed by employees of the state, one isn't really free to express that idea. If expression is legal, but upon speaking publicly one risks being beaten up, killed, or otherwise harmed by the mafia or by some gang, one is equally unfree to express those ideas. Whether those expected to carry out the punishment are government-sponsored or mafia-sponsored really doesn't make a lot of difference for the victim: either way the right to freedom of expression is infringed.
+If, when speaking a certain idea, one risks being arrested and jailed by employees of the state, one isn't free to express it. If expression is legal, but at the risk of being beaten up, killed or harmed by some gang, one is equally unfree. Whether those expected to carry out the punishment are government-sponsored or mafia-sponsored really doesn't make a lot of difference for the victim. Either way, the right to freedom of expression is infringed.
 
-Non-government authorities can also take it upon themselves to limit the free expression of individuals under their control. For example, parents with underage children who have nowhere else to go and no way to escape their submission may force them to say certain things and prevent them from saying others, far exceeding the amount of control needed to protect the children's own interests. This is also an act of censorship, just like the others.
+Non-government authorities can also take it upon themselves to limit the expression of individuals under their control. For example, parents of underage children may force them to say certain things and prohibit them from saying others, far exceeding the amount of control needed to protect the children's own interests. This is also an act of censorship.
 
 ## Tools of expression
 
