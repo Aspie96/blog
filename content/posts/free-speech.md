@@ -17,9 +17,9 @@ Freedom of opinion and expression is a human right according to the [Universal D
 
 Behaviours such as fraud, dealing in [child pornography](https://www.justice.gov/criminal-ceos/citizens-guide-us-federal-law-child-pornography), credible threats of illegal violence and defamation do not fall within the scope of free speech.
 
-Artistic and literary works of authorship, including software, are covered by copyright according to the [Berne Convention](https://www.wipo.int/treaties/en/ip/berne/). However, this only applies to the works themselves and [does not extend to ideas](https://www.copyright.gov/title17/92chap1.html#102). Limitations to exclusive rights exist in the [US](https://www.copyright.gov/title17/92chap1.html#107) and the [EU](http://data.europa.eu/eli/dir/2019/790/oj) and they help to preserve freedom of speech.
+Artistic and literary works of authorship, including software, are covered by copyright (or "author's rights") according to the [Berne Convention](https://www.wipo.int/treaties/en/ip/berne/). However, this only applies to the works themselves and [does not extend to ideas](https://www.copyright.gov/title17/92chap1.html#102). Limitations to exclusive rights exist in the [US](https://www.copyright.gov/title17/92chap1.html#107) and the [EU](http://data.europa.eu/eli/dir/2019/790/oj) and they help to preserve freedom of speech.
 
-[Digital rights management](https://www.eff.org/issues/drm) is the employment of technology to restrict the use of copyrighted digital assets. With some exceptions, circumventing DRM technology is illegal, although technically possible. Distributing technology, including software, intended to circumvent DRM is also illegal, thereby restricting freedom of expression through computer code.
+[Digital rights management](https://www.eff.org/issues/drm) is the employment of technology to restrict the use of copyrighted digital assets. With some exceptions, circumventing DRM systems is illegal, although technically possible. Distributing technology, including software, intended to circumvent DRM is also illegal, thereby restricting freedom of expression through computer code.
 
 ### In the United States
 
@@ -65,7 +65,7 @@ Social-media platforms are used by many as one of the primary tools for public s
 
 Content-neutral free-speech platforms that only remove that which would otherwise threten their functionality, utility or existence (such as spam or illegal material) do exist. Censorship-resistant platforms based on open source software and decentralized communication protocols are also available.
 
-Some online platforms make it easier than others to speak anonymously. This allows users to express themselves without fear of social repercussions or their personal or professional life being degraded. Several people may need this protection. Consider, for example, those living in oppressive religious environments: an apostate in an Islamic theocracy or a gay boy in a family of Christian fundamentalists. Anonymity can shield them while they publish their personal experiences and interact with others like them.
+Some online platforms make it easier than others to speak anonymously. This allows users to express themselves without fear of social repercussions or their personal or professional life being degraded. Several people may need this protection. Consider, for example, those living in oppressive religious environments: an apostate in an Islamic theocracy or a gay boy in a family of Christian fundamentalists. Anonymity can shield them while they share their personal experiences and interact with others like them.
 
 ## Censorship by thugs
 
@@ -73,7 +73,7 @@ Governments aren't alone in violating human rights.
 
 If, when speaking a certain idea, one risks being arrested and jailed by employees of the state, one isn't free to express it. If expression is legal, but at the risk of being beaten up, killed or harmed by some gang, one is equally unfree. Whether those expected to carry out the punishment are government-sponsored or mafia-sponsored really doesn't make a lot of difference for the victim. Either way, the right to freedom of expression is infringed.
 
-Non-government authorities can also take it upon themselves to limit the expression of individuals under their control. For example, parents of underage children may force them to say certain things and prohibit them from saying others, far exceeding the amount of control needed to protect the children's own interests. This is also an act of censorship.
+Non-government authorities can also take it upon themselves to limit the expression of individuals under their lead. For example, parents of underage children may force them to say certain things and prohibit them from saying others, far exceeding the amount of control needed for their own sake. This is also an act of censorship.
 
 ## Tools of expression
 
