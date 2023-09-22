@@ -25,6 +25,8 @@ Artistic and literary works of authorship, including software, are covered by co
 
 The [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) to the US Constitution protects freedom of religion, of speech, of the press and of assembly from government suppression. This protection is, however, not absolute and restrictions go beyond the aforementioned ones.
 
+Software patents [restrict](https://wiki.endsoftwarepatents.org/wiki/Freedom_of_expression) freedom of speech in a way that copyright could not.
+
 Hate speech is allowed in the country, as it is [protected](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/05/07/no-theres-no-hate-speech-exception-to-the-first-amendment/) by the First Amendment. Sexual [obscenity](https://www.justice.gov/criminal-ceos/obscenity), on the other hand, is [unprotected](https://www.justice.gov/criminal-ceos/obscenity), resulting in [censorship](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1462&num=0&edition=prelim) of obscene hard-core pornography.
 
 The US have a history of restricting export of encryption software, which used to be included in the [Munitions List](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-121). While this is no longer the case, [regulations](https://www.bis.doc.gov/index.php/policy-guidance/encryption) on the export of encryption software from the country still exist to this day. Programs on application stores (such as by [Microsoft](https://learn.microsoft.com/en-us/windows/uwp/security/export-restrictions-on-cryptography) and [Apple](https://developer.apple.com/documentation/security/complying_with_encryption_export_regulations)) have to comply with these restrictions.
@@ -85,7 +87,7 @@ In the world of software, tools useful for freedom of expression include editors
 
 Freedom of expression is not a law. It is an idea, a principle and a human right. Some laws simply happen to implement some specific aspects of it.
 
-I consider myself to be a free speech maximalist. Lack of abuse through government censorship is not sufficient. Instead, actual and effective access to the exercise of freedom of speech is needed, along with a culture which encourages self-expression.
+I consider myself to be a free speech maximalist. Lack of abuse through government censorship is not sufficient. Instead, actual and effective access to freedom of speech is needed, along with a culture which encourages self-expression.
 
 Rather than try to condense too much of my opinion on the subject in one paragraph, I will list simple individual points, each of which is one of its aspects:
 
