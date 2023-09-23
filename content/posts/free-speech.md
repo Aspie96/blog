@@ -105,7 +105,7 @@ Rather than try to condense too much of my opinion on the subject in one paragra
 - Individuals should have the option of privately communicating in a secure and confidential way, including through strong cryptography. It should also be possible to express oneself publicly and yet anonymously.
 - Access to neutral tools which can facilitate the actual exercise of freedom of expression should be maximized. This includes high-quality free and open source software for writers, artists and coders.
 - Privacy-preserving free-speech or censorship-resistant online social media platforms should be made mainstream.
-- A culture of open, rational and honest discourse and critical thinking should be fostered. The social cost of disagreements should be reduced.
+- A culture of open, rational and honest discourse and analytical thinking should be fostered. The social cost of disagreements should be reduced.
 - People have the right not to take a public stance on issues about which they do not wish to do so.
 - Defending others' right to free expression should not be misunderstood as endorsing, approving or liking what they say.
 - Individually, it's important to take actions to protect, preserve and enhance one's ability to exercise one's own freedom of expression effectively.
