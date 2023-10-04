@@ -33,6 +33,8 @@ Hate speech is allowed in the country, as it is [protected](https://www.washingt
 
 The US have a history of restricting export of encryption software, which used to be included in the [Munitions List](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-121). While this is no longer the case, [regulations](https://www.bis.doc.gov/index.php/policy-guidance/encryption) on the export of encryption software from the country still exist to this day. Programs on application stores (such as by [Microsoft](https://learn.microsoft.com/en-us/windows/uwp/security/export-restrictions-on-cryptography) and [Apple](https://developer.apple.com/documentation/security/complying_with_encryption_export_regulations)) have to comply with these restrictions.
 
+The [free speech flag](https://web.archive.org/web/20070504012547/http://www.badmouth.net/free-speech-flag/), a symbol of personal freedoms, was created as a response to attempts of censorship in the US based on DRM law.
+
 Besides all recognized exceptions, several violations of the First Amendment happen in the US. Organizations like the Foundation for Individual Rights and Expression fight against these violations.
 
 According to the [Press Freedom Index](https://rsf.org/index), freedom of the press in the United States is inferior to that of several other countries.
