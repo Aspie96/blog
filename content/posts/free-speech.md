@@ -51,6 +51,8 @@ The EU [censored](https://www.consilium.europa.eu/en/press/press-releases/2022/0
 
 Personal data receives a strong protection through the [GDPR](https://commission.europa.eu/node/1300). Member states are required to reconcile the right to privacy, to which exceptions can exist, with freedom of expression and information.
 
+DSA
+
 #### In Italy
 
 The freedom to express thoughts and of the press are [protected](https://www.senato.it/istituzione/la-costituzione/parte-i/titolo-i/articolo-21) by the Italian Constitution, but the same article also prohibits exhibits offensive to public morality. Limits to freedom of expression and of the press exist in the country.
@@ -137,8 +139,12 @@ As for the idea that the right to free speech should be understood to include th
 
 - *[In full: Rowan Atkinson on free speech](https://www.youtube.com/watch?v=BiqDZlAZygU)* by Rowan Atkinson
 - *[Remarks to the United Nations General Assembly in New York City](https://www.presidency.ucsb.edu/documents/remarks-the-united-nations-general-assembly-new-york-city-12#docmedia)* by Barack Obama
+- *[The Censorship Effect](https://cdn-assets.minds.com/The_Censorship_Effect.pdf)* by Minds
 - *[Defending the Right to Offend](https://www.huffpost.com/entry/defending-the-right-to-offend_b_7104960)* by Ayaan Hirsi Ali
+- *[Why Even Hate Speech Needs to Be Protected](https://www.rd.com/article/freedom-speech-most-important-first-amendment-right/)* by Christopher Hitchens
+- *[On the Freedom of Speech and Expression: Interview with Noam Chomsky](https://ejop.psychopen.eu/index.php/ejop/article/view/574/574.html)* by Noam Chomsky
 - *[Free Speech: Because We Can](http://www.aaronsw.com/weblog/becausewecan)* by Aaron Swartz
 - *[Daryl Davis addresses the 2017 FIRE Student Network Conference](https://www.youtube.com/watch?v=ndPmdL7XqxQ)* by Daryl Davis
+- *[The EU regulation of speech. A critical view](https://www.astrid-online.it/static/upload/zeno/zeno-zencovich_medialaws_14_06_2023.pdf)* by Vincenzo Zeno-Zencovich
 - *[Another Point of View at WMAQ](https://youtu.be/BtVqIYEsbrg?t=791)* by Jerry Springer
 - *[Free Speech Lets Me Know My Enemy](https://www.youtube.com/watch?v=OBuXYtmQ8mw)* by Killer Mike
