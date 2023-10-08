@@ -13,29 +13,29 @@ First, I will discuss my understanding of the relationship between this freedom 
 
 *I am not a lawyer and this is not legal advice.*
 
-Freedom of opinion and expression is a human right according to the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The UDHR is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders). The [International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) commits countries to respect certain rights, including freedom of thought and of expression, but has limitations. In practice, countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in their level of freedom of speech. People in Western democracies enjoy freedom of speech, of the press and of assembly, but these freedoms are nowhere absolute.
+Freedom of opinion and expression is a human right according to the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The UDHR is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders). The [International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) commits countries to respect certain rights, including freedom of thought and of expression, but it has limitations. In practice, countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in their level of freedom of speech. People in Western democracies enjoy freedom of speech, of the press and of assembly, but these freedoms are nowhere absolute.
 
-This section will focus on the United States and the European Union. The topic is much vaster than this article. An exhaustive illustration of all relevant restrictions (and protections) could not fit herein, but some clues about the subject will.
+This section will focus on the United States and the European Union. The topic is much vaster than this article. An exhaustive illustration of all relevant restrictions (and protections) could not fit herein, but some sprinkles of information will will.
 
 Behaviours such as fraud, dealing in [child pornography](https://www.justice.gov/criminal-ceos/citizens-guide-us-federal-law-child-pornography), credible threats of illegal violence and defamation do not fall within the scope of free speech.
 
 Artistic and literary works of authorship, including software, are covered by copyright (or "author's rights") according to the [Berne Convention](https://www.wipo.int/treaties/en/ip/berne/). However, this only applies to the works themselves and [does not extend to ideas](https://www.copyright.gov/title17/92chap1.html#102). Limitations to exclusive rights exist in the [US](https://www.copyright.gov/title17/92chap1.html#107) and the [EU](http://data.europa.eu/eli/dir/2019/790/oj) and they help to preserve freedom of speech.
 
-[Digital rights management](https://www.eff.org/issues/drm) is the employment of technology to restrict the use of copyrighted digital assets. With some exceptions, circumventing DRM systems is illegal, although technically possible. Distributing technology, including software, intended to circumvent DRM is also illegal, thereby restricting freedom of expression through computer code.
+[Digital rights management](https://www.eff.org/issues/drm) is the employment of technology to restrict the use of copyrighted digital assets. With some exceptions, circumventing DRM systems is illegal, although technically possible, even if done without infringing copyright. Distributing technology, including software, intended to circumvent DRM is also illegal, thereby restricting freedom of expression through computer code.
 
 ### In the United States
 
 The [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) to the US Constitution protects freedom of religion, of speech, of the press and of assembly from government suppression. This protection is, however, not absolute and restrictions go beyond the aforementioned ones.
 
-Software patents [restrict](https://wiki.endsoftwarepatents.org/wiki/Freedom_of_expression) freedom of speech in a way that copyright could not.
+Software patents [restrict](https://wiki.endsoftwarepatents.org/wiki/Freedom_of_expression) freedom of expression in a way that copyright could not.
 
-Hate speech is allowed in the country, as it is [protected](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/05/07/no-theres-no-hate-speech-exception-to-the-first-amendment/) by the First Amendment. Sexual [obscenity](https://www.justice.gov/criminal-ceos/obscenity), on the other hand, is [unprotected](https://www.justice.gov/criminal-ceos/obscenity), resulting in [censorship](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1462&num=0&edition=prelim) of obscene hard-core pornography.
+Hate speech is allowed in the country, as it is [protected](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/05/07/no-theres-no-hate-speech-exception-to-the-first-amendment/) by the First Amendment. Sexual [obscenity](https://www.justice.gov/criminal-ceos/obscenity), on the other hand, is [unprotected](https://www.justice.gov/criminal-ceos/obscenity) and can therefore be censored.
 
-The US have a history of restricting export of encryption software, which used to be included in the [Munitions List](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-121). While this is no longer the case, [regulations](https://www.bis.doc.gov/index.php/policy-guidance/encryption) on the export of encryption software from the country still exist to this day. Programs on application stores (such as by [Microsoft](https://learn.microsoft.com/en-us/windows/uwp/security/export-restrictions-on-cryptography) and [Apple](https://developer.apple.com/documentation/security/complying_with_encryption_export_regulations)) have to comply with these restrictions.
+The US have a history of restricting export of encryption software. It even used to be included in the [Munitions List](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-121) and [regulations](https://www.bis.doc.gov/index.php/policy-guidance/encryption) on the matter still exist to this day. Programs on application stores (such as by [Microsoft](https://learn.microsoft.com/en-us/windows/uwp/security/export-restrictions-on-cryptography) and [Apple](https://developer.apple.com/documentation/security/complying_with_encryption_export_regulations)) have to comply with them.
 
 The [free speech flag](https://web.archive.org/web/20070504012547/http://www.badmouth.net/free-speech-flag/), a symbol of personal freedoms, was created as a response to attempts of censorship in the US based on DRM law.
 
-Besides all recognized exceptions, several violations of the First Amendment happen in the US. Organizations like the Foundation for Individual Rights and Expression fight against these violations.
+Besides all recognized exceptions to it, several violations First Amendment rights happen in the US. Organizations like the [Foundation for Individual Rights and Expression](https://www.thefire.org/) fight against these abuses.
 
 According to the [Press Freedom Index](https://rsf.org/index), freedom of the press in the United States is inferior to that of several other countries.
 
@@ -43,13 +43,13 @@ According to the [Press Freedom Index](https://rsf.org/index), freedom of the pr
 
 Different countries in the European Union have significantly different laws and legal systems.
 
-Freedom of expression is protected by the [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) and by the [Charter of Fundamental Rights of the European Union](https://fra.europa.eu/eu-charter/article/11-freedom-expression-and-information). The ECHR, however, allows for licencing requirements for certain enterprises and for limitations on freedom of expression deemed necessary for several stated purposes.
+Freedom of expression is protected by the [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) and by the [Charter of Fundamental Rights of the European Union](https://fra.europa.eu/eu-charter/article/11-freedom-expression-and-information). The ECHR, however, allows for limitations on freedom of expression deemed necessary for any of several stated purposes.
 
 Racist or xenophobic [hate speech](https://commission.europa.eu/node/721) is illegal, but member states [differ](https://en.wikipedia.org/wiki/Hate_speech_laws_by_country) in how they address it. Many of them also have [blasphemy laws](https://end-blasphemy-laws.org/countries/europe/). Hard-core pornography is regulated by individual countries, but most [allow](https://en.wikipedia.org/wiki/Pornography_laws_by_region#Europe) its possession, production and sale to adults.
 
 The EU [censored](https://www.consilium.europa.eu/en/press/press-releases/2022/03/02/eu-imposes-sanctions-on-state-owned-outlets-rt-russia-today-and-sputnik-s-broadcasting-in-the-eu/) the [RT](https://www.rt.com/) and [Sputnik](https://sputniknews.com/) Russian news outlets following the 2022 Russian invasion of Ukraine, citing the need to counter disinformation. The decision was criticised by [European Digital Rights](https://edri.org/our-work/edri-statement-the-fundamental-rights-consequences-of-the-eu-media-ban/) and the [European Federation of Journalists](https://europeanjournalists.org/blog/2022/03/01/fighting-disinformation-with-censorship-is-a-mistake/), but [upheld](https://curia.europa.eu/jcms/jcms/p1_3832079) by the Court of Justice.
 
-Personal data receives a strong protection through the [GDPR](https://commission.europa.eu/node/1300). Member states are required to reconcile the right to privacy, to which exceptions can exist, with freedom of expression and information.
+Personal data receives a strong protection through the [GDPR](https://commission.europa.eu/node/1300). Member states are required to reconcile the right to privacy, to which some exceptions can exist, with freedom of expression and information.
 
 DSA
 
@@ -57,7 +57,7 @@ DSA
 
 The freedom to express thoughts and of the press are [protected](https://www.senato.it/istituzione/la-costituzione/parte-i/titolo-i/articolo-21) by the Italian Constitution, but the same article also prohibits exhibits offensive to public morality. Limits to freedom of expression and of the press exist in the country.
 
-Vilification of the [nation](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/291_1_1), of its [constitutional institutions or armed forces](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/290_1_1) or of its [flag](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/292_1_1) and offence to the honor or prestige of the [president](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/278_1_1) are illegal. Propagating ideas based on racial or ethnic superiority or hatred is also [prohibited](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/604_1_2) as are organisations aimed at discrimination on certain grounds. Public [blasphemy](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/724_1_1) against God is illegal, as is publicly [offending](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/404_1_1) a religion by vilifying objects of worship.
+Vilification of the [nation](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/291_1_1), of its [constitutional institutions or armed forces](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/290_1_1) or of its [flag](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/292_1_1) and offence to the honor or prestige of the [president](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/278_1_1) are illegal. Propagating ideas based on racial or ethnic superiority or hatred is also [prohibited](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/604_1_2) as are organisations aimed at discrimination on certain grounds. Public [blasphemy](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/724_1_1) (*bestemmia*) against God is illegal, as is publicly [offending](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/404_1_1) a religion by vilifying objects of worship.
 
 In order to sell devices containing copyrighted music, videos or computer programs, one must apply a [sticker](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633~art181bis) by [SIAE](https://www.siae.it/). This even includes self-produced works, but the stickers are very [cheap](https://www.gazzettaufficiale.it/eli/id/2002/01/21/02A00483/sg) and this is essentially just bureaucracy.
 
@@ -71,9 +71,9 @@ The legal protection of freedom of speech in Italy extends beyond limitations on
 
 Governments aren't the only ones taking actions to prevent public communications, thereby engaging in censorship.
 
-Social-media platforms are used by many as one of the primary tools for public self-expression. The companies running them, however, can remove anything they wish and even ban accounts altogether. This gives them a lot of power to influence public discourse, not necessarily for the common good.
+Social-media platforms are used by many as one of the primary tools for public self-expression. The companies running them, however, can remove anything they wish and even ban accounts altogether. This gives them a lot of power to influence public discourse.
 
-Content-neutral free-speech platforms that only remove that which would otherwise threten their functionality, utility or existence (such as spam or illegal material) do exist. Censorship-resistant platforms based on open source software and decentralized communication protocols are also available.
+Content-neutral free-speech platforms that only remove that which would otherwise threten their functionality, utility or existence (such as spam and illegal material) do exist. Censorship-resistant platforms based on [open source](/posts/free-software) software and decentralized communication protocols are also available.
 
 Some online platforms make it easier than others to speak anonymously. This allows users to express themselves without fear of social repercussions or their personal or professional life being degraded. Several people may need this protection. Consider, for example, those living in oppressive religious environments: an apostate in an Islamic theocracy or a gay boy in a family of Christian fundamentalists. Anonymity can shield them while they share their personal experiences and interact with others like them.
 
@@ -81,7 +81,7 @@ Some online platforms make it easier than others to speak anonymously. This allo
 
 Governments aren't alone in violating human rights.
 
-If, when speaking a certain idea, one risks being arrested and jailed by employees of the state, one isn't free to express it. If expression is legal, but at the risk of being beaten up, killed or harmed by some gang, one is equally unfree. Whether those expected to carry out the punishment are government-sponsored or mafia-sponsored really doesn't make a lot of difference for the victim. Either way, the right to freedom of expression is infringed.
+If, when speaking a certain idea, one risks being arrested and jailed by employees of the state, one isn't free to express it. If speech is legal, but at the risk of being beaten up, killed or harmed by some gang, one is equally unfree. Whether those expected to carry out the punishment are government-sponsored or mafia-sponsored really doesn't make a lot of difference for the victim. Either way, the right to freedom of expression is infringed.
 
 Non-government authorities can also take it upon themselves to limit the expression of individuals under their lead. For example, parents of underage children may force them to say certain things and prohibit them from saying others, far exceeding the amount of control needed for their own sake. This is also an act of censorship.
 
@@ -89,7 +89,7 @@ Non-government authorities can also take it upon themselves to limit the express
 
 Beside lack of censorship, public access to tools that facilitate expression can also be empowering.
 
-In the world of software, tools useful for freedom of expression include editors for text, images, videos, audio and 3D models, as well as automatic translators and tools that can improve accessibility for disabled people. These programs should be widely available as free and open source software, as software freedom can enhance other kinds of freedom.
+In the world of software, tools useful for freedom of expression include editors for text, images, videos, audio and 3D models, as well as automatic translators and tools that can improve accessibility for disabled people. These programs should be widely available as [free and open source software](/posts/free-software), as *software freedom* can enhance other kinds of freedom.
 
 ## My take
 
@@ -111,15 +111,15 @@ Rather than try to condense too much of my opinion on the subject in one paragra
 - Sexual obscenity and hard-core pornography should be allowed and not restricted beyond the extent necessary to protect children and unwilling recipients.
 - Circumventing DRM technology should be allowed, as should be distributing software intended to do so. Customers should be clearly informed of the presence of DRM-based restrictions in any device they buy.
 - Individuals should have the option of privately communicating in a secure and confidential way, including through strong cryptography. It should also be possible to express oneself publicly and yet anonymously.
-- Access to neutral tools which can facilitate the actual exercise of freedom of expression should be maximized. This includes high-quality free and open source software for writers, artists and coders.
+- Access to neutral tools which can facilitate the actual exercise of freedom of expression should be maximized. This includes high-quality [free and open source software](/posts/free-software) for writers, artists and coders.
 - Privacy-preserving free-speech or censorship-resistant online social media platforms should be made mainstream.
 - A culture of open, rational and honest discourse and analytical thinking should be fostered. The social cost of disagreements should be reduced.
 - People have the right not to take a public stance on issues about which they do not wish to do so.
-- Defending others' right to free expression should not be misunderstood as endorsing, approving or liking what they say.
+- Defending others' right to free expression should never be misunderstood as endorsing, approving or liking what they say.
 - Individually, it's important to take actions to protect, preserve and enhance one's ability to exercise one's own freedom of expression effectively.
 - The right to free speech includes the right to openly endorse censorship.
 
-The current level of freedom of expression is not sufficient and, while some of the much-needed progress lies in the context of politics and of the law, most of it is cultural and societal. Free software controlled by users may be part of what's needed, but it would be unwise to treat as a technical problem that which mostly isn't.
+The current level of freedom of expression is not sufficient and, while some of the much-needed progress lies in the context of politics and of the law, most of it is cultural and societal. [Free software](/posts/free-software) controlled by users may be part of what's needed, but it would be unwise to treat as a technical problem that which mostly isn't.
 
 There are multiple reasons for my highly permissive stance on freedom of expression.
 
@@ -139,7 +139,7 @@ As for the idea that the right to free speech should be understood to include th
 
 - *[In full: Rowan Atkinson on free speech](https://www.youtube.com/watch?v=BiqDZlAZygU)* by Rowan Atkinson
 - *[Remarks to the United Nations General Assembly in New York City](https://www.presidency.ucsb.edu/documents/remarks-the-united-nations-general-assembly-new-york-city-12#docmedia)* by Barack Obama
-- *[The Censorship Effect](https://cdn-assets.minds.com/The_Censorship_Effect.pdf)* by Minds
+- *[The Censorship Effect](https://cdn-assets.minds.com/The_Censorship_Effect.pdf)* by Bill Ottman, Daryl Davis, Jack Ottman, Jesse Morton, Justin E. Lane and F. LeRon Shults
 - *[Defending the Right to Offend](https://www.huffpost.com/entry/defending-the-right-to-offend_b_7104960)* by Ayaan Hirsi Ali
 - *[Why Even Hate Speech Needs to Be Protected](https://www.rd.com/article/freedom-speech-most-important-first-amendment-right/)* by Christopher Hitchens
 - *[On the Freedom of Speech and Expression: Interview with Noam Chomsky](https://ejop.psychopen.eu/index.php/ejop/article/view/574/574.html)* by Noam Chomsky
