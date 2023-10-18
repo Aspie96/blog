@@ -13,7 +13,7 @@ First, I will discuss my understanding of the relationship between this freedom 
 
 *I am not a lawyer and this is not legal advice.*
 
-Freedom of opinion and expression is a human right according to the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The UDHR is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders). The [International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) commits countries to respect certain rights, including freedom of thought and of expression, but it has limitations. In practice, countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in their level of freedom of speech. People in Western democracies enjoy freedom of speech, of the press and of assembly, but these freedoms are nowhere absolute.
+Freedom of opinion and expression is a human right according to the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The UDHR is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders). The [International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) commits countries to respect certain rights, including freedom of thought and of expression, but it has limitations. In practice, countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in this regard. People in Western democracies enjoy freedom of speech, of the press and of assembly, but these liberties are nowhere absolute.
 
 This section will focus on the United States and the European Union. The topic is much vaster than this article. An exhaustive illustration of all relevant restrictions (and protections) could not fit herein, but some sprinkles of information will will.
 
@@ -73,7 +73,7 @@ Governments aren't the only ones taking actions to prevent public communications
 
 Social-media platforms are used by many as one of the primary tools for public self-expression. The companies running them, however, can remove anything they wish and even ban accounts altogether. This gives them a lot of power to influence public discourse.
 
-Content-neutral free-speech platforms that only remove that which would otherwise threten their functionality, utility or existence (such as spam and illegal material) do exist. Censorship-resistant platforms based on [open source]({{< ref "free-software" >}}) software and decentralized communication protocols are also available.
+Content-neutral free-speech platforms that only remove that which would otherwise threaten their functionality, utility or existence (such as spam and illegal material) do exist. Censorship-resistant platforms based on [open source]({{< ref "free-software" >}}) software and decentralized communication protocols are also available.
 
 Some online platforms make it easier than others to speak anonymously. This allows users to express themselves without fear of social repercussions or their personal or professional life being degraded. Several people may need this protection. Consider, for example, those living in oppressive religious environments: an apostate in an Islamic theocracy or a gay boy in a family of Christian fundamentalists. Anonymity can shield them while they share their personal experiences and interact with others like them.
 
@@ -142,8 +142,9 @@ As for the idea that the right to free speech should be understood to include th
 - *[The Censorship Effect](https://cdn-assets.minds.com/The_Censorship_Effect.pdf)* by Bill Ottman, Daryl Davis, Jack Ottman, Jesse Morton, Justin E. Lane and F. LeRon Shults
 - *[Defending the Right to Offend](https://www.huffpost.com/entry/defending-the-right-to-offend_b_7104960)* by Ayaan Hirsi Ali
 - *[Why Even Hate Speech Needs to Be Protected](https://www.rd.com/article/freedom-speech-most-important-first-amendment-right/)* by Christopher Hitchens
-- *[On the Freedom of Speech and Expression: Interview with Noam Chomsky](https://ejop.psychopen.eu/index.php/ejop/article/view/574/574.html)* by Noam Chomsky
+- *[On the Freedom of Speech and Expression: Interview with Noam Chomsky](https://ejop.psychopen.eu/index.php/ejop/article/view/574/574.html)* by Noam Chomsky and Beatrice Popescu
 - *[Free Speech: Because We Can](http://www.aaronsw.com/weblog/becausewecan)* by Aaron Swartz
+- *[Glenn Greenwald on "Defending My Enemy"](https://www.thefire.org/news/so-speak-free-speech-podcast-glenn-greenwald-defending-my-enemy)* by Glenn Greenwald and Nico Perrino
 - *[Daryl Davis addresses the 2017 FIRE Student Network Conference](https://www.youtube.com/watch?v=ndPmdL7XqxQ)* by Daryl Davis
 - *[The EU regulation of speech. A critical view](https://www.astrid-online.it/static/upload/zeno/zeno-zencovich_medialaws_14_06_2023.pdf)* by Vincenzo Zeno-Zencovich
 - *[Another Point of View at WMAQ](https://youtu.be/BtVqIYEsbrg?t=791)* by Jerry Springer
