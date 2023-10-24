@@ -13,7 +13,7 @@ First, I will discuss my understanding of the relationship between this freedom 
 
 *I am not a lawyer and this is not legal advice.*
 
-Freedom of opinion and expression is a human right according to the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The UDHR is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders). The [International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) commits countries to respect certain rights, including freedom of thought and of expression, but it has limitations. In practice, countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in this regard. People in Western democracies enjoy freedom of speech, of the press and of assembly, but these liberties are nowhere absolute.
+Freedom of opinion and expression is a human right according to the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The UDHR is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders). The [International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) commits states to respect certain rights, including freedom of thought and of expression, but it has limitations. In practice, countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in this regard. People in Western democracies enjoy freedom of speech, of the press and of assembly, but these liberties are nowhere absolute.
 
 This section will focus on the United States and the European Union. The topic is much vaster than this article. An exhaustive illustration of all relevant restrictions (and protections) could not fit herein, but some sprinkles of information will will.
 
@@ -35,9 +35,9 @@ The US have a history of restricting export of encryption software. It even used
 
 The [free speech flag](https://web.archive.org/web/20070504012547/http://www.badmouth.net/free-speech-flag/), a symbol of personal freedoms, was created as a response to attempts of censorship in the US based on DRM law.
 
-Besides all recognized exceptions to it, several violations First Amendment rights happen in the US. Organizations like the [Foundation for Individual Rights and Expression](https://www.thefire.org/) fight against these abuses.
+Besides all recognized exceptions to it, several blunt violations of First Amendment rights happen in the US. Organizations like the [Foundation for Individual Rights and Expression](https://www.thefire.org/) fight against these abuses.
 
-According to the [Press Freedom Index](https://rsf.org/index), freedom of the press in the United States is inferior to that of several other countries.
+In the [World Press Freedom Index](https://rsf.org/index), compiled by [Reporters Without Borders](https://rsf.org/), the United States rank below several other countries.
 
 ### In the European Union
 
@@ -49,13 +49,13 @@ Racist or xenophobic [hate speech](https://commission.europa.eu/node/721) is ill
 
 The EU [censored](https://www.consilium.europa.eu/en/press/press-releases/2022/03/02/eu-imposes-sanctions-on-state-owned-outlets-rt-russia-today-and-sputnik-s-broadcasting-in-the-eu/) the [RT](https://www.rt.com/) and [Sputnik](https://sputniknews.com/) Russian news outlets following the 2022 Russian invasion of Ukraine, citing the need to counter disinformation. The decision was criticized by [European Digital Rights](https://edri.org/our-work/edri-statement-the-fundamental-rights-consequences-of-the-eu-media-ban/) and the [European Federation of Journalists](https://europeanjournalists.org/blog/2022/03/01/fighting-disinformation-with-censorship-is-a-mistake/), but [upheld](https://curia.europa.eu/jcms/jcms/p1_3832079) by the Court of Justice.
 
-Personal data receives a strong protection through the [GDPR](https://commission.europa.eu/node/1300). Member states are required to reconcile the right to privacy, to which some exceptions can exist, with freedom of expression and information.
+Personal data receives a strong protection under the [GDPR](https://commission.europa.eu/node/1300). Member states are required to reconcile the right to privacy with freedom of expression and information.
 
 DSA
 
 #### In Italy
 
-The freedom to express thoughts and of the press are [protected](https://www.senato.it/istituzione/la-costituzione/parte-i/titolo-i/articolo-21) by the Italian Constitution, but the same article also prohibits exhibits offensive to public morality. Limits to freedom of expression and of the press exist in the country.
+The freedom to express thoughts and of the press are [protected](https://www.senato.it/istituzione/la-costituzione/parte-i/titolo-i/articolo-21) by the Italian Constitution, but the same article also prohibits exhibits offensive to public morality. Several restrictions exist in the country.
 
 Vilification of the [nation](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/291_1_1), of its [constitutional institutions or armed forces](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/290_1_1) or of its [flag](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/292_1_1) and offence to the honor or prestige of the [president](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/278_1_1) are illegal. Propagating ideas based on racial or ethnic superiority or hatred is also [prohibited](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/604_1_2) as are organisations aimed at discrimination on certain grounds. Public [blasphemy](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/724_1_1) (*bestemmia*) against God is illegal, as is publicly [offending](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/404_1_1) a religion by vilifying objects of worship.
 
