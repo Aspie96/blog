@@ -73,7 +73,7 @@ Governments aren't the only ones taking actions to prevent public communications
 
 Social-media platforms are used by many as one of the primary tools for public self-expression. The companies running them, however, can remove anything they wish and even ban accounts altogether. This gives them a lot of power to influence public discourse.
 
-Content-neutral free-speech platforms that only remove that which would otherwise threaten their functionality, utility or existence (such as spam and illegal material) do exist. Censorship-resistant platforms based on [open source]({{< ref "free-software" >}}) software and decentralized communication protocols are also available.
+Content-neutral free-speech platforms that only remove that which would otherwise threaten their functionality, utility or existence (such as spam and illegal material) do exist. Censorship-resistant options based on [open source]({{< ref "free-software" >}}) software and decentralized communication protocols are also available.
 
 Some online platforms make it easier than others to speak anonymously. This allows users to express themselves without fear of social repercussions or their personal or professional life being degraded. Several people may need this protection. Consider, for example, those living in oppressive religious environments: an apostate in an Islamic theocracy or a gay boy in a family of Christian fundamentalists. Anonymity can shield them while they share their personal experiences and interact with others like them.
 
@@ -89,7 +89,7 @@ Non-government authorities can also take it upon themselves to limit the express
 
 Beside lack of censorship, public access to tools that facilitate expression can also be empowering.
 
-In the world of software, tools useful for freedom of expression include editors for text, images, videos, audio and 3D models, as well as automatic translators and tools that can improve accessibility for disabled people. These programs should be widely available as [free and open source software]({{< ref "free-software" >}}), as *software freedom* can enhance other kinds of freedom.
+In the world of software, instruments useful for freedom of expression include editors for text, images, videos, audio and 3D models, as well as automatic translators and tools that can improve accessibility for disabled people. These programs should be widely available as [free and open source software]({{< ref "free-software" >}}), as *software freedom* can enhance other kinds of freedom.
 
 ## My take
 
