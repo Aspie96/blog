@@ -13,7 +13,7 @@ First, I will discuss my understanding of the relationship between this freedom 
 
 *I am not a lawyer and this is not legal advice.*
 
-Freedom of opinion and expression is a human right according to the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The UDHR is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders). The [International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) commits states to respect certain rights, including freedom of thought and of expression, but it has limitations. In practice, countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in this regard. People in Western democracies enjoy freedom of speech, of the press and of assembly, but these liberties are nowhere absolute.
+Freedom of opinion and expression is a human right according to the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The UDHR is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders). The [International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) commits states to respect certain rights, including freedom of thought and of expression, but it has limitations. In practice, countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in this regard. People in western democracies enjoy freedom of speech, of the press and of assembly, but these liberties are nowhere absolute.
 
 This section will focus on the United States and the European Union. The topic is much vaster than this article. An exhaustive illustration of all relevant restrictions (and protections) could not fit herein, but some sprinkles of information will will.
 
@@ -21,11 +21,11 @@ Behaviours such as fraud, dealing in [child pornography](https://www.justice.gov
 
 Artistic and literary works of authorship, including software, are covered by copyright (or "author's rights") according to the [Berne Convention](https://www.wipo.int/treaties/en/ip/berne/). However, this only applies to the works themselves and [does not extend to ideas](https://www.copyright.gov/title17/92chap1.html#102). Limitations to exclusive rights exist in the [US](https://www.copyright.gov/title17/92chap1.html#107) and the [EU](http://data.europa.eu/eli/dir/2019/790/oj) and they help to preserve freedom of speech.
 
-[Digital rights management](https://www.eff.org/issues/drm) is the employment of technology to restrict the use of copyrighted digital assets. With some exceptions, circumventing DRM systems is illegal, although technically possible, even if done without infringing copyright. Distributing technology, including software, intended to circumvent DRM is also prohibited, thereby restricting freedom of expression through computer code.
+[Digital rights management](https://www.eff.org/issues/drm) is the employment of technology to restrict the use of copyrighted digital assets. With some exceptions, circumventing DRM systems is illegal, although technically possible, even if done without infringing copyright. Distributing technology, including software, intended to bypass DRM is also prohibited, restricting expression through computer code.
 
 ### In the United States
 
-The [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) to the US Constitution protects freedom of religion, of speech, of the press and of assembly from government suppression. This protection is, however, not absolute and restrictions go beyond the aforementioned ones.
+The [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) to the US Constitution protects freedom of religion, of speech, of the press and of assembly and the [right to petition](https://en.wikipedia.org/wiki/Right_to_petition_in_the_United_States) from government suppression. This protection is, however, not absolute and restrictions go beyond the aforementioned ones.
 
 Software patents [restrict](https://wiki.endsoftwarepatents.org/wiki/Freedom_of_expression) freedom of expression in a way that copyright could not.
 
