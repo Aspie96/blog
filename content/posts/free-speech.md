@@ -25,15 +25,15 @@ Artistic and literary works of authorship, including software, are covered by co
 
 ### In the United States
 
-The [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) to the US Constitution protects freedom of religion, of speech, of the press and of assembly and the [right to petition](https://en.wikipedia.org/wiki/Right_to_petition_in_the_United_States) from government suppression. This protection is, however, not absolute and restrictions go beyond the aforementioned ones.
-
-Software patents [restrict](https://wiki.endsoftwarepatents.org/wiki/Freedom_of_expression) freedom of expression in a way that copyright could not.
+The [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) to the US Constitution protects freedom of religion, of speech, of the press and of assembly and the [right to petition](https://en.wikipedia.org/wiki/Right_to_petition_in_the_United_States) from government suppression. This protection, however, has exceptions.
 
 Hate speech is allowed in the country, as it is [protected](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/05/07/no-theres-no-hate-speech-exception-to-the-first-amendment/) by the First Amendment. Sexual obscenity, on the other hand, is [unprotected](https://www.justice.gov/criminal-ceos/obscenity) and can therefore be censored.
 
 The US have a history of restricting export of encryption software. It even used to be included in the [Munitions List](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-121) and [regulations](https://www.bis.doc.gov/index.php/policy-guidance/encryption) on the matter still exist to this day. Programs on application stores (such as by [Microsoft](https://learn.microsoft.com/en-us/windows/uwp/security/export-restrictions-on-cryptography) and [Apple](https://developer.apple.com/documentation/security/complying_with_encryption_export_regulations)) have to comply with them.
 
 The [free speech flag](https://web.archive.org/web/20070504012547/http://www.badmouth.net/free-speech-flag/), a symbol of personal freedoms, was created as a response to attempts of censorship in the US based on DRM law.
+
+Software patents [restrict](https://wiki.endsoftwarepatents.org/wiki/Freedom_of_expression) freedom of expression in a way that copyright could not.
 
 Besides all recognized exceptions to it, several blunt violations of First Amendment rights happen in the US. Organizations like the [Foundation for Individual Rights and Expression](https://www.thefire.org/) fight against these abuses.
 
