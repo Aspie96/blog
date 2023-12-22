@@ -9,6 +9,10 @@ In this article I will outline my take on freedom of speech and of expression. I
 
 First, I will discuss my understanding of the relationship between this freedom and the law, although, as will be apparent, the legal aspect of this topic is not the only one that interests me. Secondly, I will briefly consider some specific subjects that relate to freedom of expression. Finally, I will cover my general opinion on the matter, which is a highly liberal and permissive one.
 
+## Censorship
+
+Censorship is the act of removing or suppressing, in whole or in part, the content of books, artworks, documents, correspondence or other forms of communication because it is deemed to be objectionable, offensive or harmful.
+
 ## Freedom of expression and the law
 
 *I am not a lawyer and this is not legal advice.*
