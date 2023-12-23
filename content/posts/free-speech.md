@@ -85,7 +85,7 @@ Some online platforms make it easier than others to speak anonymously. This allo
 
 Governments aren't alone in violating human rights.
 
-If, when speaking a certain idea, one risks being arrested and jailed by employees of the state, one isn't free to express it. If speech is legal, but at the risk of being beaten up, killed or harmed by some gang, one is equally unfree. Whether those expected to carry out the punishment are government-sponsored or mafia-sponsored really doesn't make a lot of difference for the victim. Either way, the right to freedom of expression is infringed.
+If, when speaking a certain idea, one risks being arrested and jailed by employees of the state, one isn't free to express it. If speech is legal, but at the risk of being beaten up, killed or harmed by some gang, one is equally unfree. Whether those expected to carry out the punishment are government-sponsored or mafia-sponsored really doesn't make a lot of difference for the victim. Either way, the right to free expression is infringed.
 
 Non-government authorities can also take it upon themselves to limit the expression of individuals under their lead. For example, parents of underage children may force them to say certain things and prohibit them from saying others, far exceeding the amount of control needed for their own sake. This too is an act of censorship.
 
