@@ -47,7 +47,7 @@ In the [World Press Freedom Index](https://rsf.org/index), compiled by [Reporter
 
 Different countries in the European Union have significantly different laws and legal systems.
 
-Freedom of expression is protected by the [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) and by the [Charter of Fundamental Rights of the European Union](https://fra.europa.eu/eu-charter/article/11-freedom-expression-and-information). The ECHR, however, allows for limitations on freedom of expression deemed necessary for any of several stated purposes.
+Freedom of expression is protected by the [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) and by the [Charter of Fundamental Rights of the European Union](https://fra.europa.eu/eu-charter/article/11-freedom-expression-and-information). These documents, however, allow for limitations for certain stated purposes.
 
 Racist or xenophobic [hate speech](https://commission.europa.eu/node/721) is forbidden, but member states [differ](https://en.wikipedia.org/wiki/Hate_speech_laws_by_country) in how they address it. Many of them also have [blasphemy laws](https://end-blasphemy-laws.org/countries/europe/). Hard-core pornography is regulated by individual countries, but most [allow](https://en.wikipedia.org/wiki/Pornography_laws_by_region#Europe) its possession, production and sale to adults.
 
@@ -83,19 +83,19 @@ Social-media platforms are used by many as one of the primary tools for public s
 
 Content-neutral free-speech platforms that only remove that which would otherwise threaten their functionality, utility or existence (such as spam and illegal material) do exist. Censorship-resistant options based on [open source]({{< ref "free-software" >}}) software and decentralized communication protocols are also available.
 
-Some online platforms make it easier than others to speak anonymously. This allows users to express themselves without fear of social or professional repercussions. Several people may need this protection. Consider, for example, those living in oppressive religious environments: an apostate in an Islamic theocracy or a gay boy in a family of Christian fundamentalists. Anonymity can shield them while they share their personal experiences and interact with others like them.
+Some online platforms make it easier than others to speak anonymously. This allows users to express themselves without fear of social or professional repercussions. Many people may need this protection. Consider, for example, those living in oppressive religious environments: an apostate in an Islamic theocracy or a gay boy in a family of Christian fundamentalists. Anonymity can shield them while they share their personal experiences and interact with others like them.
 
 ## Censorship by thugs
 
 Governments aren't alone in violating human rights.
 
-If, when speaking a certain idea, one risks being arrested and jailed by employees of the state, one isn't free to express it. If speech is legal, but at the risk of being beaten up, killed or harmed by some gang, one is equally unfree. Whether those expected to carry out the punishment are government-sponsored or mafia-sponsored really doesn't make a lot of difference for the victim. Either way, the right to free expression is infringed.
+If, when speaking a certain idea, one risks being arrested and jailed by employees of the state, one isn't free to express it. If speech is legal, but at the risk of being beaten up or killed by some gang, one is equally unfree. Whether those expected to carry out the punishment are government-sponsored or mafia-sponsored really doesn't make a lot of difference for the victim. Either way, the right to free expression is infringed.
 
-Non-government authorities can also take it upon themselves to limit the expression of individuals under their lead. For example, parents of underage children may force them to say certain things and prohibit them from saying others, far exceeding the amount of control needed for their own sake. This too is an act of censorship.
+Non-governmental authorities may also take it upon themselves to limit the expression of individuals under their lead. For instance, parents of underage children may force them to say certain things and not to say others, far exceeding the amount of control needed for the children's own sake. This too is an act of censorship.
 
 ## Tools of expression
 
-Beside lack of censorship, public access to tools that facilitate expression can also be empowering.
+Public access to tools which facilitate expression can be empowering.
 
 In the world of software, instruments useful for freedom of expression include editors for text, images, videos, audio and 3D models, as well as automatic translators and tools that can improve accessibility for disabled people. These programs should be widely available as [free and open source software]({{< ref "free-software" >}}), as *software freedom* can enhance other kinds of freedom.
 
