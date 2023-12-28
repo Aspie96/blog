@@ -25,7 +25,7 @@ Behaviours such as fraud, dealing in [child pornography](https://www.justice.gov
 
 Artistic and literary works of authorship, including software, are covered by copyright (or "author's rights") according to the [Berne Convention](https://www.wipo.int/treaties/en/ip/berne/). However, this only applies to the works themselves and [does not extend to ideas](https://www.copyright.gov/title17/92chap1.html#102). Limitations to exclusive rights exist in the [US](https://www.copyright.gov/title17/92chap1.html#107) and the [EU](http://data.europa.eu/eli/dir/2019/790/oj) and they help to preserve freedom of speech.
 
-[Digital rights management](https://www.eff.org/issues/drm) systems is the employment of technology to restrict the use of copyrighted digital assets. With some exceptions, circumventing DRM systems is illegal, although technically possible, even if done without infringing copyright. Distributing technology, including software, intended to bypass DRM is also prohibited, restricting expression through computer code.
+Laws concerning [digital rights management](https://www.eff.org/issues/drm) systems can hamper the use of exceptions to copyright. Together with [software patents](https://wiki.endsoftwarepatents.org/wiki/Freedom_of_expression), they also restrict freedom of expression trough computer code.
 
 ### In the United States
 
@@ -36,8 +36,6 @@ Hate speech is allowed in the country, as it is [protected](https://www.washingt
 The US have a history of restricting export of encryption software. It even used to be included in the [Munitions List](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-121) and [regulations](https://www.bis.doc.gov/index.php/policy-guidance/encryption) on the matter still exist to this day. Programs on application stores (such as by [Microsoft](https://learn.microsoft.com/en-us/windows/uwp/security/export-restrictions-on-cryptography) and [Apple](https://developer.apple.com/documentation/security/complying_with_encryption_export_regulations)) have to comply with them.
 
 The [free speech flag](https://web.archive.org/web/20070504012547/http://www.badmouth.net/free-speech-flag/), a symbol of personal freedoms, was created as a response to attempts of censorship in the US based on DRM law.
-
-Software patents [restrict](https://wiki.endsoftwarepatents.org/wiki/Freedom_of_expression) freedom of expression in a way that copyright could not.
 
 Besides all recognized exceptions to it, several blunt violations of First Amendment rights happen in the US. Organizations like the [Foundation for Individual Rights and Expression](https://www.thefire.org/) fight against these abuses.
 
@@ -65,15 +63,11 @@ Vilification of the [nation](https://www.gazzettaufficiale.it/dettaglio/codici/c
 
 In order to sell devices containing copyrighted music or videos, one must apply a [sticker](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633~art181bis) by the [Italian Society of Authors and Publishers](https://www.siae.it/). This even includes self-produced works, but the stickers are very [cheap](https://www.gazzettaufficiale.it/eli/id/2002/01/21/02A00483/sg) and this is essentially just bureaucracy.
 
-An Italian court [ruled](https://www.ansa.it/sito/notizie/cultura/arte/2023/05/15/tribunale-si-al-diritto-allimmagine-per-beni-culturali_2fa5a371-1732-4cc7-bc7c-398a7c7a1341.html) against a publisher for using, without authorization, an image of [David](https://en.wikipedia.org/wiki/David_(Michelangelo)) by Michelangelo. The plaintiff was [Galleria dell'Accademia](https://www.galleriaaccademiafirenze.it/), the museum which hosts the famous statue. The defendant had used the image commercially by displaying it together with an image of a model (using [lenticular printing](https://en.wikipedia.org/wiki/Lenticular_printing)) for advertisement purposes. According to the court, this humiliated the symbolic value of the famous work. The Italian constitution promotes and defends [culture and art](https://www.senato.it/istituzione/la-costituzione/principi-fondamentali/articolo-9), as well as inviolable [human rights](https://www.senato.it/istituzione/la-costituzione/principi-fondamentali/articolo-2). The court chose to defend the right not to have one's intellectual heritage altered and distorted as part of the [right to personal identity](https://www.altalex.com/documents/news/2018/03/22/prova-e-diritto-alla-identita-personale-estratto-le-prove-civili) and to uphold the collective right to citizens' identity, affirming a right to image for cultural heritage.
-
-https://communia-association.org/2023/06/20/something-the-public-domain-is-rotting-in-the-state-of-italy/
-
-In some bizarre cases, an Italian court has decided against the use of unauthorized uses of [David](https://en.wikipedia.org/wiki/David_(Michelangelo)) by Michelangelo, a public domain masterpiece from the XVI century.
+Italian courts have [enforced](https://communia-association.org/2016/02/22/fair-use-importance-flexible-copyright-exceptions/) restrictions on the use of art pieces in the public domain, with effects [comparable](https://www.wikimedia.it/news/unaltra-ordinanza-sulle-immagini-del-david-unoccasione-persa/) to copyright on the works.
 
 The press in Italy is regulated. All newspapers must be [registered](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-08;47~art5) on a [court registry](https://www.tribunale.belluno.giustizia.it/registrazione-di-giornali-o-periodici_114.html) in order to be legally published ([not necessary](https://www.mcreporter.info/LEGACY/giurisprudenza/cass12_23230.htm) for an online blog) and one needs to [join](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;69~art45) the [Order of Journalists](https://www.odg.it/) in order to practice the profession of journalism (a [controversial](https://www.ilfattoquotidiano.it/2010/07/27/einaudi-abolire-l%E2%80%99ordine-dei-giornalisti/44565/) norm, and which [doesn't exist](https://www.odg.it/la-storia) in the rest of Europe). In the [Press Freedom Index](https://rsf.org/index) Italy ranks below most other EU countries.
 
-The legal protection of freedom of speech in Italy extends beyond limitations on government censorship. The Workers' Statute grants workers the [right](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art1) to express their thoughts in the workplace and [forbids](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art8) employers from investigating their opinions on political, religious or social topics.
+The protection of freedom of speech in Italy extends beyond limitations on government censorship. The Workers' Statute grants workers the [right](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art1) to express their thoughts in the workplace and [forbids](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art8) employers from investigating their opinions on political, religious or social topics.
 
 ## Social-media censorship
 
@@ -83,7 +77,7 @@ Social-media platforms are used by many as one of the primary tools for public s
 
 Content-neutral free-speech platforms that only remove that which would otherwise threaten their functionality, utility or existence (such as spam and illegal material) do exist. Censorship-resistant options based on [open source]({{< ref "free-software" >}}) software and decentralized communication protocols are also available.
 
-Some online platforms make it easier than others to speak anonymously. This allows users to express themselves without fear of social or professional repercussions. Many people may need this protection. Consider, for example, those living in oppressive religious environments: an apostate in an Islamic theocracy or a gay boy in a family of Christian fundamentalists. Anonymity can shield them while they share their personal experiences and interact with others like them.
+Some platforms make it easier than others to speak anonymously. This allows users to express themselves without fear of social or professional repercussions. Many people may need this protection. Consider, for example, those living in oppressive religious environments: an apostate in an Islamic theocracy or a gay boy in a family of Christian fundamentalists. Anonymity can shield them while they share their personal experiences and interact with others like them.
 
 ## Censorship by thugs
 
