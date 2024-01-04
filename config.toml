@@ -4,4 +4,4 @@ enableRobotsTXT = true
 languageCode = "en"
 sectionPagesMenu = "main"
 title = "Functor Fault"
-theme = "PaperMod"
+theme = "FunctorDark"
