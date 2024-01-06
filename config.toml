@@ -5,3 +5,12 @@ languageCode = "en"
 sectionPagesMenu = "main"
 title = "Functor Fault"
 theme = "FunctorDark"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON", "Links"]
+
+[outputFormats]
+  [outputFormats.links]
+    baseName = "links"
+    isPlainText = true
+    mediaType = "text/plain"
