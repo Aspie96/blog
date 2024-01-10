@@ -155,7 +155,7 @@ It should be noted that digital files can be stored in multiple *formats*, which
 
 There are several well-known cross-platform free and open source programs, publicly available at no charge, which you may be familiar with. Here are just a few:
 
-- [Mozilla Firefox](https://www.mozilla.org/it/firefox/): Web browser.
+- [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/): Web browser.
 - [Blender](https://www.blender.org/): Program for 3D digital art.
 - [OpenOffice](https://www.openoffice.org/) and its fork [LibreOffice](https://www.libreoffice.org/): Office suite for text documents, spreadsheets, presentations and more.
 - [GIMP](https://www.gimp.org/): Image manipulation program, suitable for photo editing and art.

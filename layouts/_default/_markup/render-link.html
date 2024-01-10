@@ -1,0 +1,1 @@
+{{ .Page.Scratch.Add "links" (slice .Destination) }}{{ $data := getJSON "titles.json" }}{{ $title := or .Title (index $data .Destination) }}<a href="{{ .Destination | safeURL }}"{{ with $title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} class="external"{{ end }}>{{ .Text | safeHTML }}</a>
