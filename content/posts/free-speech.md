@@ -1,17 +1,17 @@
 ---
 title: "On freedom of expression"
 date: 2023-01-04T19:54:01+01:00
-draft: true
+draft: false
 lastmod: 2023-01-07T19:54:01+01:00
 ---
 
 In this article I will outline my take on freedom of speech and of expression. I will use the two phrases interchangeably, or closely to it, throughout the article, to refer to the right to engage in speech acts, in a rather broad sense, not limited to verbal language.
 
+Censorship is the act of removing or suppressing the content of any form of communication because it is deemed to be objectionable, offensive or harmful.
+
+Freedom of speech is the freedom to communicate without interference through any media and regardless of frontiers.
+
 First, I will discuss my understanding of the relationship between this freedom and the law, although, as will be apparent, the legal aspect of this topic is not the only one that interests me. Secondly, I will briefly consider some specific subjects that relate to freedom of expression. Finally, I will cover my general opinion on the matter, which is a highly liberal and permissive one.
-
-## Censorship
-
-Censorship is the act of removing or suppressing, in whole or in part, the content of books, artworks, documents, correspondence or other forms of communication because it is deemed to be objectionable, offensive or harmful.
 
 ## Freedom of expression and the law
 
@@ -52,8 +52,6 @@ Racist or xenophobic [hate speech](https://commission.europa.eu/node/721) is for
 Following the 2022 Russian invasion of Ukraine, The EU [censored](https://www.consilium.europa.eu/en/press/press-releases/2022/03/02/eu-imposes-sanctions-on-state-owned-outlets-rt-russia-today-and-sputnik-s-broadcasting-in-the-eu/) the [RT](https://www.rt.com/) and [Sputnik](https://sputniknews.com/) Russian news outlets, citing the need to counter disinformation. The decision was criticized by [European Digital Rights](https://edri.org/our-work/edri-statement-the-fundamental-rights-consequences-of-the-eu-media-ban/) and the [European Federation of Journalists](https://europeanjournalists.org/blog/2022/03/01/fighting-disinformation-with-censorship-is-a-mistake/), but [upheld](https://curia.europa.eu/jcms/jcms/p1_3832079) by the Court of Justice.
 
 Personal data receives a strong protection under the [GDPR](https://commission.europa.eu/node/1300). Member states are required to reconcile the right to privacy with freedom of expression and information.
-
-DSA
 
 #### In Italy
 
