@@ -29,7 +29,7 @@ Laws concerning [digital rights management](https://www.eff.org/issues/drm) syst
 
 ### In the United States
 
-The [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) to the US Constitution protects freedom of religion, of speech, of the press and of assembly and the [right to petition](https://en.wikipedia.org/wiki/Right_to_petition_in_the_United_States) from government suppression. This protection, however, has exceptions.
+The [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) to the US Constitution protects freedom of religion, of speech, of the press and of assembly and the [right to petition](https://en.wikipedia.org/wiki/Right_to_petition_in_the_United_States) from government suppression. This protection, however, has [exceptions](https://en.wikipedia.org/wiki/United_States_free_speech_exceptions).
 
 Hate speech is allowed in the country, as it is [protected](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/05/07/no-theres-no-hate-speech-exception-to-the-first-amendment/) by the First Amendment. Sexual obscenity, on the other hand, is [unprotected](https://www.justice.gov/criminal-ceos/obscenity) and can therefore be censored.
 
