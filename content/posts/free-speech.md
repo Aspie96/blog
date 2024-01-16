@@ -11,6 +11,8 @@ Censorship is the act of removing or suppressing the content of any form of comm
 
 Freedom of speech is the freedom to communicate without interference through any media and regardless of frontiers.
 
+Freedom of expression is the freedom to communicate information and ideas of all kinds, in any form, through any media of choice, regardless of frontiers.
+
 First, I will discuss my understanding of the relationship between this freedom and the law, although, as will be apparent, the legal aspect of this topic is not the only one that interests me. Secondly, I will briefly consider some specific subjects that relate to freedom of expression. Finally, I will cover my general opinion on the matter, which is a highly liberal and permissive one.
 
 ## Freedom of expression and the law
