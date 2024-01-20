@@ -4,4 +4,7 @@ draft: false
 title: "Home"
 ---
 
-I'm Valentino Giudice and this is my personal blog.
+I am Valentino Giudice, an Italian guy with an interest in computering born in 1996.
+
+This is my personal blog.
+
