@@ -21,7 +21,7 @@ First, I will discuss my understanding of the relationship between this freedom 
 
 The right to freedom of opinion and expression is recognized by the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The document is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders). The [International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) commits states to respect certain rights, including freedom of thought and of expression, but it has limitations. In practice, countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in this regard. People in western democracies enjoy freedom of speech, of the press and of assembly, but these liberties are nowhere absolute.
 
-This section will focus on the United States and the European Union. The topic is much vaster than this article. An exhaustive illustration of all relevant restrictions (and protections) could not fit herein, but some sprinkles of information will.
+This section will focus on the United States and the European Union. The topic at hand is much vaster than this article. An exhaustive illustration of all relevant restrictions (and protections) could not fit herein, but some sprinkles of information will.
 
 Behaviours such as fraud, dealing in [child pornography](https://www.justice.gov/criminal-ceos/citizens-guide-us-federal-law-child-pornography), credible threats of illegal violence and defamation do not fall within the scope of protected speech.
 
@@ -31,9 +31,9 @@ Laws concerning [digital rights management](https://www.eff.org/issues/drm) syst
 
 ### In the United States
 
-The [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) to the US Constitution protects freedom of religion, of speech, of the press and of assembly and the [right to petition](https://en.wikipedia.org/wiki/Right_to_petition_in_the_United_States) from government suppression. This protection, however, has [exceptions](https://en.wikipedia.org/wiki/United_States_free_speech_exceptions).
+The [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) to the US Constitution prevents the government from suppressing freedom of religion, of speech, of the press and of assembly and the [right to petition](https://en.wikipedia.org/wiki/Right_to_petition_in_the_United_States). This protection, however, has [exceptions](https://en.wikipedia.org/wiki/United_States_free_speech_exceptions).
 
-Hate speech is allowed in the country, as it is [protected](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/05/07/no-theres-no-hate-speech-exception-to-the-first-amendment/) by the First Amendment. Sexual obscenity, on the other hand, is [unprotected](https://www.justice.gov/criminal-ceos/obscenity) and can therefore be censored.
+Hate speech is allowed in the country, as it is [covered](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/05/07/no-theres-no-hate-speech-exception-to-the-first-amendment/) by the First Amendment. Sexual obscenity, on the other hand, is [unprotected](https://www.justice.gov/criminal-ceos/obscenity) and can therefore be censored.
 
 The US have a history of restricting export of encryption software. It even used to be included in the [Munitions List](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-121) and [regulations](https://www.bis.doc.gov/index.php/policy-guidance/encryption) on the matter still exist to this day. Programs on application stores (such as by [Microsoft](https://learn.microsoft.com/en-us/windows/uwp/security/export-restrictions-on-cryptography) and [Apple](https://developer.apple.com/documentation/security/complying_with_encryption_export_regulations)) have to comply with them.
 
