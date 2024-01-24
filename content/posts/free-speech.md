@@ -5,7 +5,7 @@ draft: false
 lastmod: 2023-01-07T19:54:01+01:00
 ---
 
-In this article I will outline my take on freedom of speech and of expression. I will use the two phrases interchangeably, or closely to it, throughout the article, to refer to the right to engage in speech acts, in a rather broad sense, not limited to verbal language.
+In this post I will outline my take on freedom of speech and of expression. I will use the two phrases interchangeably, or closely to it, throughout the post, to refer to the right to engage in speech acts, in a rather broad sense, not limited to verbal language.
 
 Censorship is the act of removing or suppressing the content of any form of communication because it is deemed to be objectionable, offensive or harmful.
 
@@ -21,9 +21,9 @@ First, I will discuss my understanding of the relationship between this freedom 
 
 The right to freedom of opinion and expression is recognized by the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The document is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders). The [International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) commits states to respect certain rights, including freedom of thought and of expression, but it has limitations. In practice, countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in this regard. People in western democracies enjoy freedom of speech, of the press and of assembly, but these liberties are nowhere absolute.
 
-This section will focus on the United States and the European Union. The topic at hand is much vaster than this article. An exhaustive illustration of all relevant restrictions (and protections) could not fit herein, but some sprinkles of information will.
+This section will focus on the United States and the European Union. The topic at hand is much vaster than this post. An exhaustive illustration of all relevant restrictions (and protections) could not fit herein, but some sprinkles of information will.
 
-Behaviours such as fraud, dealing in [child pornography](https://www.justice.gov/criminal-ceos/citizens-guide-us-federal-law-child-pornography), credible threats of illegal violence and defamation do not fall within the scope of protected speech.
+Behaviours such as fraud, dealing in child pornography, credible threats of illegal violence and defamation do not fall within the scope of protected speech.
 
 Artistic and literary works of authorship, including software, are covered by copyright (or "author's rights") according to the [Berne Convention](https://www.wipo.int/treaties/en/ip/berne/). However, this only applies to the works themselves and [does not extend to ideas](https://www.copyright.gov/title17/92chap1.html#102). Limitations to exclusive rights exist in the [US](https://www.copyright.gov/title17/92chap1.html#107) and the [EU](http://data.europa.eu/eli/dir/2019/790/oj) and they help to preserve freedom of speech.
 
@@ -129,13 +129,13 @@ I regard freedom of speech as a necessary cornerstone of a healthy democracy. If
 
 Censorship by social media platforms carries its own bag of issues. Here, I don't argue that limiting content on one's own server is immoral or that it should be illegal. What I also think, however, is that maximally content-neutral social media platforms are better for society and that they should be preferred as general-purpose platforms.
 
-Banning certain ideas from spaces used for public expression, be it through the law, through an extreme amount of public censure or through the choice of private entities that own such spaces, has the risk of creating eco chambers where those with banned opinion assemble and shelter in isolation. This is dangerous in at least two ways. It leaves these people unchallenged, while also giving them a sense of victimhood, potentially leading to radicalization, and it makes it harder for those who aren't part of these groups to learn about what they say and to actually understand them.
+Banning certain ideas from spaces used for public expression, be it through the law, through an extreme amount of public censure or through the choice of private entities that own such spaces, comes at the risk of creating eco chambers where those with banned opinion assemble in isolation. This is dangerous in at least two ways. It leaves these people unchallenged, while also giving them a sense of victimhood, potentially leading to radicalization, and it makes it harder for those who aren't part of these groups to learn about what they say and to actually understand them.
 
-Limiting someone's freedom of speech also impairs everyone else's ability to listen. That doesn't just include fans of the censored ones. Those who simply wanted to be informed about their position are also impacted. Often, the fact that someone has said something becomes news             Whenever the claim is heard that some party has made a certain public assertion, verifying that claim (that the assertion has been made) requires access to the assertion itself, as published by that party. Believing that a party has asserted something is entirely different from believing that the assertion is true. The fact that, often in error, something has been said is often newsworthy. Censorship can prevent fact-checking news of this sort.
+Limiting someone's freedom of speech also impairs everyone else's ability to listen. That doesn't just include fans of the censored ones. Those who simply wanted to be informed about their position are also impacted. The fact that someone has said something often makes news and can only be verified with access to the original source. Censorship can prevent fact-checking.
 
-In addition to everything else, liberty has inherent value and self-expression is something most care about being able to do. It's not just an instrument to achieve other fundamental goals, it is a fundamental goal on its own. Advocating for freedom of speech is akin to supporting the ability to avoid pain and suffering, to have one's dignity preserved and to continue living. What makes freedom of speech different is how much cheaper, in terms of required resources, providing it is.
+In addition to usefulness of free speech, liberty has inherent value and self-expression is something most care about being able to do. It's not just an instrument to achieve other fundamental goals, it is a fundamental goal on its own. Advocating for freedom of speech is akin to supporting the ability to avoid pain and suffering, to have one's dignity preserved and to continue living. What makes freedom of speech different is how much cheaper, in terms of required resources, providing it is.
 
-As for the idea that the right to free speech should be understood to include the right to openly endorse censorship, it's easy enough to see. If we must protect the right to express wrong opinions, then endorsement of censorship is one of them and must therefore be protected.
+As for the idea that the right to free speech should be understood to include the freedom to openly endorse censorship, it's easy enough to see. If we must protect the right to express wrong opinions, then endorsement of censorship is one of them and must therefore be protected.
 
 ## Additional resources
 
