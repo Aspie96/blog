@@ -39,7 +39,7 @@ The US have a history of restricting export of encryption software. It even used
 
 The [free speech flag](https://web.archive.org/web/20070504012547/http://www.badmouth.net/free-speech-flag/), a symbol of personal freedoms, was created as a response to attempts of censorship in the US based on DRM law.
 
-Besides all recognized exceptions to it, several blunt violations of First Amendment rights happen in the US. Organizations like the [Foundation for Individual Rights and Expression](https://www.thefire.org/) fight against these abuses.
+Besides all recognized exceptions to it, several blunt violations of First Amendment rights occur. Organizations like the [Foundation for Individual Rights and Expression](https://www.thefire.org/) fight against these abuses.
 
 In the [World Press Freedom Index](https://rsf.org/index), compiled by [Reporters Without Borders](https://rsf.org/), the United States rank below several other countries.
 
@@ -49,7 +49,7 @@ Different countries in the European Union have significantly different laws and 
 
 Freedom of expression is protected by the [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) and by the [Charter of Fundamental Rights of the European Union](https://fra.europa.eu/eu-charter/article/11-freedom-expression-and-information). These documents, however, allow for limitations for certain stated purposes.
 
-Racist or xenophobic [hate speech](https://commission.europa.eu/node/721) is forbidden, but member states [differ](https://en.wikipedia.org/wiki/Hate_speech_laws_by_country) in how they address it. Many of them also have [blasphemy laws](https://end-blasphemy-laws.org/countries/europe/). Hard-core pornography is regulated by individual countries, but most [allow](https://en.wikipedia.org/wiki/Pornography_laws_by_region#Europe) its possession, production and sale to adults.
+Racist or xenophobic [hate speech](https://commission.europa.eu/node/721) is forbidden, but member states [differ](https://en.wikipedia.org/wiki/Hate_speech_laws_by_country) in how they address it. Many also have [blasphemy laws](https://end-blasphemy-laws.org/countries/europe/). Hard-core pornography is regulated by individual countries, but most [allow](https://en.wikipedia.org/wiki/Pornography_laws_by_region#Europe) its possession, production and sale to adults.
 
 Following the 2022 Russian invasion of Ukraine, The EU [censored](https://www.consilium.europa.eu/en/press/press-releases/2022/03/02/eu-imposes-sanctions-on-state-owned-outlets-rt-russia-today-and-sputnik-s-broadcasting-in-the-eu/) the [RT](https://www.rt.com/) and [Sputnik](https://sputniknews.com/) Russian news outlets, citing the need to counter disinformation. The decision was criticized by [European Digital Rights](https://edri.org/our-work/edri-statement-the-fundamental-rights-consequences-of-the-eu-media-ban/) and the [European Federation of Journalists](https://europeanjournalists.org/blog/2022/03/01/fighting-disinformation-with-censorship-is-a-mistake/), but [upheld](https://curia.europa.eu/jcms/jcms/p1_3832079) by the Court of Justice.
 
@@ -63,7 +63,7 @@ Vilification of the [nation](https://www.gazzettaufficiale.it/dettaglio/codici/c
 
 In order to sell devices containing copyrighted music or videos, one must apply a [sticker](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633~art181bis) by the [Italian Society of Authors and Publishers](https://www.siae.it/). This even includes self-produced works, but the stickers are very [cheap](https://www.gazzettaufficiale.it/eli/id/2002/01/21/02A00483/sg) and this is essentially just bureaucracy.
 
-Italian courts have [enforced](https://communia-association.org/2016/02/22/fair-use-importance-flexible-copyright-exceptions/) restrictions on the use of art pieces in the public domain, with effects [comparable](https://www.wikimedia.it/news/unaltra-ordinanza-sulle-immagini-del-david-unoccasione-persa/) to copyright on the works.
+Italian courts have [enforced](https://communia-association.org/2016/02/22/fair-use-importance-flexible-copyright-exceptions/) restrictions on the use of art pieces in the [public domain]({{< ref "pdd-2024" >}}), with effects [comparable](https://www.wikimedia.it/news/unaltra-ordinanza-sulle-immagini-del-david-unoccasione-persa/) to copyright on the works.
 
 The press in Italy is regulated. All newspapers must be [registered](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-08;47~art5) on a [court registry](https://www.tribunale.belluno.giustizia.it/registrazione-di-giornali-o-periodici_114.html) in order to be legally published ([not necessary](https://www.mcreporter.info/LEGACY/giurisprudenza/cass12_23230.htm) for an online blog) and one needs to [join](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;69~art45) the [Order of Journalists](https://www.odg.it/) in order to practice the profession of journalism (a [controversial](https://www.ilfattoquotidiano.it/2010/07/27/einaudi-abolire-l%E2%80%99ordine-dei-giornalisti/44565/) norm, and which [doesn't exist](https://www.odg.it/la-storia) in the rest of Europe). In the [Press Freedom Index](https://rsf.org/index) Italy ranks below most other EU countries.
 
