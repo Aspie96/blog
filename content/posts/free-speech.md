@@ -27,7 +27,7 @@ Behaviours such as fraud, dealing in child pornography, credible threats of ille
 
 Artistic and literary works of authorship, including software, are covered by copyright (or "author's rights") according to the [Berne Convention](https://www.wipo.int/treaties/en/ip/berne/). However, this only applies to the works themselves and [does not extend to ideas](https://www.copyright.gov/title17/92chap1.html#102). Limitations to exclusive rights exist in the [US](https://www.copyright.gov/title17/92chap1.html#107) and the [EU](http://data.europa.eu/eli/dir/2019/790/oj) and they help to preserve freedom of speech.
 
-Laws concerning [digital rights management](https://www.eff.org/issues/drm) systems can hamper the use of exceptions to copyright. Together with [software patents](https://wiki.endsoftwarepatents.org/wiki/Freedom_of_expression), they also restrict freedom of expression trough computer code.
+Laws concerning [digital rights management](https://www.eff.org/issues/drm) systems can hamper the use of exceptions to copyright. Together with [software patents](https://wiki.endsoftwarepatents.org/wiki/Freedom_of_expression), they also restrict freedom of expression through computer code.
 
 ### In the United States
 
@@ -103,7 +103,7 @@ Rather than try to condense too much of my opinion on the subject in one paragra
 
 - Plain misdeeds with no redeeming social importance which are ill-intended or likely to be harmful, such as fraud, dealing in child pornography and credible threats of illegal violence, don't and shouldn't fall within the scope of free speech.
 - Where some other fundamental right necessarily conflicts with freedom of speech, a reasonable balance needs to be found between the two. Freedom of expression should be held in very high regard when doing so.
-- Free speech should be understood to include expression trough computer code.
+- Free speech should be understood to include expression through computer code.
 - Freedom from government censorship should be strongly protected. Generally, any speech which is currently legal in either the US or the EU should be legal worldwide.
 - Criticizing the law and endorsing new policies should be legally allowed. Laws that prohibit criticism of the legal status quo are illegitimate.
 - Practice of journalism shouldn't be subject to formalities or legal requirements, such as registration.
@@ -133,7 +133,7 @@ Banning certain ideas from spaces used for public expression, be it through the 
 
 Limiting someone's freedom of speech also impairs everyone else's ability to listen. That doesn't just include fans of the censored ones. Those who simply wanted to be informed about their position are also impacted. The fact that someone has said something often makes news and can only be verified with access to the original source. Censorship can prevent fact-checking.
 
-In addition to usefulness of free speech, liberty has inherent value and self-expression is something most care about being able to do. It's not just an instrument to achieve other fundamental goals, it is a fundamental goal on its own. Advocating for freedom of speech is akin to supporting the ability to avoid pain and suffering, to have one's dignity preserved and to continue living. What makes freedom of speech different is how much cheaper, in terms of required resources, providing it is.
+In addition to the usefulness of free speech, liberty has inherent value and self-expression is something most care about being able to do. It's not just an instrument to achieve other fundamental goals, it is a fundamental goal on its own. Advocating for freedom of speech is akin to supporting the ability to avoid pain and suffering, to have one's dignity preserved and to continue living. What makes freedom of speech different is how much cheaper, in terms of required resources, providing it is.
 
 As for the idea that the right to free speech should be understood to include the freedom to openly endorse censorship, it's easy enough to see. If we must protect the right to express wrong opinions, then endorsement of censorship is one of them and must therefore be protected.
 
