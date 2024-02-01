@@ -25,13 +25,13 @@ This section will focus on the United States and the European Union. The topic a
 
 Behaviours such as fraud, dealing in child pornography, credible threats of illegal violence and defamation do not fall within the scope of protected speech.
 
-Artistic and literary works of authorship, including software, are covered by copyright (or "author's rights") according to the [Berne Convention](https://www.wipo.int/treaties/en/ip/berne/). However, this only applies to the works themselves and [does not extend to ideas](https://www.copyright.gov/title17/92chap1.html#102). Limitations to exclusive rights exist in the [US](https://www.copyright.gov/title17/92chap1.html#107) and the [EU](http://data.europa.eu/eli/dir/2019/790/oj) and they help to preserve freedom of speech.
+Artistic and literary works of authorship, including software, are automatically covered by copyright (or "author's rights") according to international treaties. This only applies to the works themselves and [not ideas](https://www.copyright.gov/title17/92chap1.html#102). There are [limitations and exceptions](https://www.wipo.int/copyright/en/limitations/) to exclusive rights and they help to preserve freedom of speech.
 
-Laws concerning [digital rights management](https://www.eff.org/issues/drm) systems can hamper the use of exceptions to copyright. Together with [software patents](https://wiki.endsoftwarepatents.org/wiki/Freedom_of_expression), they also restrict freedom of expression through computer code.
+Laws concerning [digital rights management](https://www.eff.org/issues/drm) systems can hamper the use of limitations and exceptions to copyright. Together with [software patents](https://wiki.endsoftwarepatents.org/wiki/Freedom_of_expression), they also restrict freedom of expression through computer code.
 
 ### In the United States
 
-The [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) to the US Constitution prevents the government from suppressing freedom of religion, of speech, of the press and of assembly and the [right to petition](https://en.wikipedia.org/wiki/Right_to_petition_in_the_United_States). This protection, however, has [exceptions](https://en.wikipedia.org/wiki/United_States_free_speech_exceptions).
+The [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) to the US Constitution prevents the government from abridging freedom of religion, of speech, of the press and of assembly and the [right to petition](https://en.wikipedia.org/wiki/Right_to_petition_in_the_United_States). This protection, however, has [exceptions](https://en.wikipedia.org/wiki/United_States_free_speech_exceptions).
 
 Hate speech is allowed in the country, as it is [covered](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/05/07/no-theres-no-hate-speech-exception-to-the-first-amendment/) by the First Amendment. Sexual obscenity, on the other hand, is [unprotected](https://www.justice.gov/criminal-ceos/obscenity) and can therefore be censored.
 
@@ -69,11 +69,11 @@ The press in Italy is regulated. Physical newspapers must be [registered](https:
 
 The protection of freedom of speech in Italy extends beyond limitations on government censorship. The Workers' Statute grants workers the [right](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art1) to express their thoughts in the workplace and [forbids](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art8) employers from investigating their opinions on political, religious or social topics.
 
-## Social-media censorship
+## Social media censorship
 
 Governments aren't the only ones taking actions to prevent public communications, thereby engaging in censorship.
 
-Social-media platforms are used by many as one of the primary tools for public self-expression. The companies running them, however, can remove anything they wish and even ban accounts altogether. This gives them a lot of power to influence public discourse.
+Social media platforms are used by many as one of the primary tools for public self-expression. The companies running them, however, can remove anything they wish and even ban accounts altogether. This gives them a lot of power to influence public discourse.
 
 Content-neutral free-speech platforms that only remove that which would otherwise threaten their functionality, utility or existence (such as spam and illegal material) do exist. Censorship-resistant options based on [free and open source]({{< ref "free-software" >}}) software and decentralized communication protocols are also available.
 
@@ -109,16 +109,16 @@ Rather than try to condense too much of my opinion on the subject in one paragra
 - Practice of journalism shouldn't be subject to formalities or legal requirements, such as registration.
 - The right to parody and satire should be upheld and defended.
 - Offensive speech, including blasphemy and flag desecration, should be legally allowed.
-- Hate speech and similarly disgraceful expressions of abhorrent ideas should be countered with words, not violence or suppression.
+- Hate speech and similarly disgraceful expressions of abhorrent ideas should be met with words, not violence or suppression.
 - Sexual obscenity and hard-core pornography should be permitted and not restricted beyond the extent necessary to protect children and unwilling recipients.
-- Circumventing DRM technology should be legal, as should be distributing software intended to do so. Customers should be clearly informed of the presence of DRM-based restrictions in any device they buy.
+- Circumventing DRM systems, or distributing software intended to do so, shouldn't be forbidden. Customers should be clearly informed of the presence of DRM-based restrictions in any device they buy.
 - Individuals should have the option of privately communicating in a secure and confidential way, including through strong cryptography. Expressing oneself publicly and yet anonymously should also be possible.
 - Access to neutral tools which can facilitate the actual exercise of freedom of expression should be maximized. This includes high-quality [free software]({{< ref "free-software" >}}) for writers, artists and coders.
 - Privacy-preserving free-speech or censorship-resistant online social media platforms should be made mainstream.
 - A culture of open, rational and honest discourse and analytical thinking should be fostered. The social cost of disagreements should be reduced.
 - People have the right not to take a public stance on issues when they don't wish to do so.
 - Defending others' right to free expression should never be misunderstood as endorsing, approving or liking what they say.
-- Individually, it's important to take actions to protect, preserve and enhance one's ability to exercise one's own freedom of expression effectively.
+- Individually, it's important to take actions to protect, preserve and enhance one's ability to express oneself freely and effectively.
 - The right to free speech includes the right to openly endorse censorship.
 
 The current level of freedom of expression is not sufficient and, while some of the much-needed progress lies in the context of politics and of the law, most of it is cultural and societal. [Free software]({{< ref "free-software" >}}) controlled by users is part of what's needed, but it would be unwise to treat as a technical problem that which mostly isn't.
