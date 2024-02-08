@@ -27,7 +27,7 @@ Behaviours such as fraud, dealing in child pornography, credible threats of ille
 
 Artistic and literary works of authorship, including software, are automatically covered by copyright (or "author's rights") according to international treaties. This only applies to the works themselves and [not ideas](https://www.copyright.gov/title17/92chap1.html#102). There are [limitations and exceptions](https://www.wipo.int/copyright/en/limitations/) to exclusive rights and they help to preserve freedom of speech.
 
-Laws concerning [digital rights management](https://www.eff.org/issues/drm) systems can hamper the use of limitations and exceptions to copyright. Together with [software patents](https://wiki.endsoftwarepatents.org/wiki/Freedom_of_expression), they also restrict freedom of expression through computer code.
+Laws concerning [digital rights management](https://www.eff.org/issues/drm) can hamper the use of limitations and exceptions to copyright. Together with [software patents](https://wiki.endsoftwarepatents.org/wiki/Freedom_of_expression), DRM systems also restrict freedom of expression through computer code.
 
 ### In the United States
 
@@ -49,7 +49,7 @@ Different countries in the European Union have significantly different laws and 
 
 Freedom of expression is protected by the [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) and by the [Charter of Fundamental Rights of the European Union](https://fra.europa.eu/eu-charter/article/11-freedom-expression-and-information). These documents, however, allow for limitations for certain stated purposes.
 
-Racist or xenophobic [hate speech](https://commission.europa.eu/node/721) is forbidden, but member states [differ](https://en.wikipedia.org/wiki/Hate_speech_laws_by_country) in how they address it. A recent [press release](https://www.europarl.europa.eu/news/en/press-room/20240112IPR16777/time-to-criminalise-hate-speech-and-hate-crime-under-eu-law) called for criminalization of hate speech and denounce the use of freedom of expression as a "shield" for hate speech.
+Racist or xenophobic [hate speech](https://commission.europa.eu/node/721) is forbidden in the EU, but member states [differ](https://en.wikipedia.org/wiki/Hate_speech_laws_by_country) in how they address it. A recent [press release](https://www.europarl.europa.eu/news/en/press-room/20240112IPR16777/time-to-criminalise-hate-speech-and-hate-crime-under-eu-law) called for criminalization of hate speech and denounce the use of freedom of expression as a "shield" for hate speech.
 
 Many EU states have [blasphemy laws](https://end-blasphemy-laws.org/countries/europe/). Hard-core pornography is regulated by individual countries, but most [allow](https://en.wikipedia.org/wiki/Pornography_laws_by_region#Europe) its possession, production and sale to adults.
 
@@ -91,7 +91,7 @@ Non-governmental authorities may also take it upon themselves to limit the expre
 
 Public access to tools which facilitate expression can be empowering.
 
-In the world of software, instruments useful for freedom of expression include editors for text, images, videos, audio and 3D models, as well as automatic translators and tools that can improve accessibility for disabled people. These programs should be widely available as [free software]({{< ref "free-software" >}}), as *software freedom* can enhance other kinds of freedom.
+In the world of software, instruments useful for freedom of expression include editors for text, images, videos, audio and 3D models, as well as automatic translators and tools that can improve accessibility for disabled people. These programs should be widely available as [free software]({{< ref "free-software" >}}) because *software freedom* can enhance other kinds of freedom.
 
 ## My take
 
@@ -127,7 +127,7 @@ There are multiple reasons for my highly permissive stance on freedom of express
 
 I regard freedom of speech as a necessary cornerstone of a healthy democracy. If the people are to make collective decisions, they ought to be able to openly discuss and challenge ideas. If an ideology is unpopular enough, that of censoring it might become a common desire. However, democracy should empower all individuals, not just the majority, and certain rights should be preserved. As for free speech specifically, it isn't just fundamental as an individual right, it is also necessary to allow democratic public discourse to continue. Weakening freedom of expressions doesn't only affect those alive in that moment who have disagreeable ideas, it also deteriorates democracy for future generations. Therefore the right to express oneself should supersede others' will to suppress it.
 
-Censorship by social media platforms carries its own bag of issues. Here, I don't argue that limiting content on one's own server is immoral or that it should be illegal. What I think, however, is that maximally content-neutral social media platforms are better for society and should be preferred as general-purpose platforms.
+Censorship by social media platforms carries its own bag of issues. Here, I don't argue that limiting content on one's own server is immoral or that it should be illegal. What I think, however, is that maximally content-neutral social media platforms are better for society and should be preferred for general-purpose use.
 
 Banning certain ideas from spaces used for public expression, be it through the law, through an extreme amount of public censure or through the choice of private entities that own such spaces, comes at the risk of creating eco chambers where those with banned opinion assemble in isolation. This is dangerous in at least two ways. It leaves those people unchallenged, while also giving them a sense of victimhood, potentially leading to radicalization, and it makes it harder for those who aren't part of these groups to learn about what they say and to actually understand them.
 
