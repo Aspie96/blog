@@ -25,7 +25,7 @@ This section will focus on the United States and the European Union. The topic a
 
 Behaviours such as fraud, dealing in child pornography, credible threats of illegal violence and defamation do not fall within the scope of protected speech.
 
-Artistic and literary works of authorship, including software, are automatically covered by copyright (or "author's rights") according to international treaties. This only applies to the works themselves and [not ideas](https://www.copyright.gov/title17/92chap1.html#102). There are [limitations and exceptions](https://www.wipo.int/copyright/en/limitations/) to exclusive rights and they help to preserve freedom of speech.
+Artistic and literary works of authorship, including software, are automatically covered by copyright (or "author's rights") according to international treaties. This only applies to the works themselves and [not to ideas](https://www.copyright.gov/title17/92chap1.html#102). Exclusive rights have [limitations and exceptions](https://www.wipo.int/copyright/en/limitations/) that help to preserve freedom of speech.
 
 Laws concerning [digital rights management](https://www.eff.org/issues/drm) can hamper the use of limitations and exceptions to copyright. Together with [software patents](https://wiki.endsoftwarepatents.org/wiki/Freedom_of_expression), DRM systems also restrict freedom of expression through computer code.
 
@@ -33,15 +33,15 @@ Laws concerning [digital rights management](https://www.eff.org/issues/drm) can 
 
 The [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) to the US Constitution prevents the government from abridging freedom of religion, of speech, of the press or of assembly or the [right to petition](https://en.wikipedia.org/wiki/Right_to_petition_in_the_United_States). This protection, however, has [exceptions](https://en.wikipedia.org/wiki/United_States_free_speech_exceptions).
 
-Hate speech is allowed in the country, as it is [covered](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/05/07/no-theres-no-hate-speech-exception-to-the-first-amendment/) by the First Amendment. Sexual obscenity, on the other hand, is considered to be [unprotected](https://www.justice.gov/criminal-ceos/obscenity) and can therefore be censored.
+Hate speech is allowed in the country, as it is [covered](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/05/07/no-theres-no-hate-speech-exception-to-the-first-amendment/) by the First Amendment. Sexual obscenity, on the other hand, is considered to be [unprotected](https://www.justice.gov/criminal-ceos/obscenity) and it can therefore be censored.
 
-The US have a history of restricting the export of encryption software. It even used to be included in the [Munitions List](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-121) and [regulations](https://www.bis.doc.gov/index.php/policy-guidance/encryption) on the matter still exist to this day. Programs on application stores (such as by [Microsoft](https://learn.microsoft.com/en-us/windows/uwp/security/export-restrictions-on-cryptography) and [Apple](https://developer.apple.com/documentation/security/complying_with_encryption_export_regulations)) have to comply with them.
+The US have a history of restricting the export of encryption software. It even used to be included in the [Munitions List](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-121) and [regulations](https://www.bis.doc.gov/index.php/policy-guidance/encryption) on the matter still exist to this day. Programs on application stores (such as by [Microsoft](https://learn.microsoft.com/en-us/windows/uwp/security/export-restrictions-on-cryptography) and [Apple](https://developer.apple.com/documentation/security/complying_with_encryption_export_regulations)) have to comply.
 
 The [free speech flag](https://web.archive.org/web/20070504012547/http://www.badmouth.net/free-speech-flag/), a symbol of personal freedoms, was created as a response to attempts of censorship in the US based on DRM law.
 
 Besides all recognized exceptions to it, several blunt violations of First Amendment rights occur. Organizations like the [Foundation for Individual Rights and Expression](https://www.thefire.org/) fight against these abuses.
 
-In the [World Press Freedom Index](https://rsf.org/index), compiled by [Reporters Without Borders](https://rsf.org/), the United States rank below several other countries.
+In the [World Press Freedom Index](https://rsf.org/index), compiled by [Reporters Without Borders](https://rsf.org/), the United States rank below several other countries, including most EU members.
 
 ### In the European Union
 
@@ -49,7 +49,7 @@ Different countries in the European Union have significantly different laws and 
 
 Freedom of expression is protected by the [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) and by the [Charter of Fundamental Rights of the European Union](https://fra.europa.eu/eu-charter/article/11-freedom-expression-and-information). These documents, however, allow for limitations for certain stated purposes.
 
-Racist or xenophobic [hate speech](https://commission.europa.eu/node/721) is forbidden in the EU, but member states [differ](https://en.wikipedia.org/wiki/Hate_speech_laws_by_country) in how they address it. A recent [press release](https://www.europarl.europa.eu/news/en/press-room/20240112IPR16777/time-to-criminalise-hate-speech-and-hate-crime-under-eu-law) called for criminalization of hate speech and disapproved of the use of freedom of expression as a "shield" for it.
+Racist or xenophobic [hate speech](https://commission.europa.eu/node/721) is forbidden in the EU, but member states [differ](https://en.wikipedia.org/wiki/Hate_speech_laws_by_country) in how they address it. A recent [press release](https://www.europarl.europa.eu/news/en/press-room/20240112IPR16777/time-to-criminalise-hate-speech-and-hate-crime-under-eu-law) called for the criminalization of hate speech and disapproved of the use of freedom of expression as a "shield" for it.
 
 Several EU states have [blasphemy laws](https://end-blasphemy-laws.org/countries/europe/). Hard-core pornography is regulated by individual countries, but most [allow](https://en.wikipedia.org/wiki/Pornography_laws_by_region#Europe) its possession, production and sale to adults.
 
@@ -61,13 +61,13 @@ Personal data receives strong protection under the [GDPR](https://commission.eur
 
 The freedom to express thoughts and of the press are [protected](https://www.senato.it/istituzione/la-costituzione/parte-i/titolo-i/articolo-21) by the Italian Constitution, but the same article also prohibits exhibits offensive to public morality. Several restrictions exist in the country.
 
-Vilification of the [nation](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/291_1_1), of its [constitutional institutions or armed forces](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/290_1_1) or of its [flag](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/292_1_1) and offence to the honor or prestige of the [president](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/278_1_1) are illegal. Propagating ideas based on racial or ethnic superiority or hatred is also [prohibited](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/604_1_2), as are organisations aimed at discrimination on certain grounds. Public [blasphemy](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/724_1_1) (*bestemmia*) against God is illegal, as is publicly [offending](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/404_1_1) a religion by disparaging objects of worship. Insult (the infringement of another's honor) used to be a crime and is now a [civil wrong](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016;7~art4).
+Vilification of the [nation](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/291_1_1) or its [constitutional institutions or armed forces](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/290_1_1), desecration of the [flag](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/292_1_1) and offence to the honor or prestige of the [president](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/278_1_1) are illegal. Propagating ideas based on racial or ethnic superiority or hatred is also [prohibited](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/604_1_2), as are organisations aimed at discrimination on certain grounds. Public [blasphemy](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/724_1_1) (*bestemmia*) against God is illegal, as is publicly [offending](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/404_1_1) a religion by vilifying objects of worship. Insult (the infringement of another's honor) used to be a crime and is now a [civil wrong](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016;7~art4).
 
 Italian courts have [enforced](https://communia-association.org/2016/02/22/fair-use-importance-flexible-copyright-exceptions/) restrictions on the use of art pieces in the [public domain]({{< ref "pdd-2024" >}}), with effects [comparable](https://www.wikimedia.it/news/unaltra-ordinanza-sulle-immagini-del-david-unoccasione-persa/) to copyright on the works.
 
 Physical newspapers in Italy must be [registered](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-08;47~art5) on a [court registry](https://www.tribunale.belluno.giustizia.it/registrazione-di-giornali-o-periodici_114.html) in order to be legally published ([not necessary](https://www.mcreporter.info/legacy/giurisprudenza/cass12_23230.htm) for an online blog) and one needs to [join](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;69~art45) the [Order of Journalists](https://www.odg.it/) to practice the profession (a [controversial](https://www.ilfattoquotidiano.it/2010/07/27/einaudi-abolire-l%E2%80%99ordine-dei-giornalisti/44565/) norm which [doesn't exist](https://www.odg.it/la-storia) in the rest of Europe). In the [Press Freedom Index](https://rsf.org/index), Italy ranks below most other EU countries.
 
-The protection of freedom of speech in Italy extends beyond limitations on government censorship. The Workers' Statute grants workers the [right](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art1) to express their thoughts in the workplace and [forbids](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art8) employers from investigating their opinions on political, religious or social topics.
+The protection of freedom of speech in the country extends beyond limitations on government censorship. The Workers' Statute grants workers the [right](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art1) to express their thoughts in the workplace and [forbids](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art8) employers from investigating their opinions on political, religious or social topics.
 
 ## Social media censorship
 
@@ -106,7 +106,7 @@ Rather than try to condense too much of my opinion on the subject in one paragra
 - Free speech should be understood to include expression through computer code.
 - Freedom from government censorship should be strongly protected. Generally, any speech which is currently legal in either the US or the EU should be legal worldwide.
 - Criticizing the law and endorsing new policies should be legally allowed. Laws that prohibit criticism of the legal status quo are illegitimate.
-- Practice of journalism shouldn't be subject to formalities or legal requirements, such as registration.
+- Journalism shouldn't be subject to undue formalities or legal requirements, such as membership to an order or registration of newspapers.
 - The right to parody and satire should be upheld and defended.
 - Offensive speech, including blasphemy and flag desecration, should be legally allowed.
 - Hate speech and similarly disgraceful expressions of abhorrent ideas should be met with words, not violence or suppression.
@@ -150,5 +150,5 @@ As for the idea that the right to free speech should be understood to include th
 - *[Glenn Greenwald on "Defending My Enemy"](https://www.thefire.org/news/so-speak-free-speech-podcast-glenn-greenwald-defending-my-enemy)* by Glenn Greenwald and Nico Perrino
 - *[Daryl Davis addresses the 2017 FIRE Student Network Conference](https://www.youtube.com/watch?v=ndPmdL7XqxQ)* by Daryl Davis
 - *[The EU regulation of speech. A critical view](https://www.astrid-online.it/static/upload/zeno/zeno-zencovich_medialaws_14_06_2023.pdf)* by Vincenzo Zeno-Zencovich
-- *[Another Point of View at WMAQ](https://youtu.be/BtVqIYEsbrg?t=791)* by Jerry Springer
+- *[Another Point of View at WMAQ](https://www.youtube.com/watch?v=BtVqIYEsbrg&t=809s)* by Jerry Springer
 - *[Free Speech Lets Me Know My Enemy](https://www.youtube.com/watch?v=OBuXYtmQ8mw)* by Killer Mike
