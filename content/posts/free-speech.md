@@ -7,19 +7,13 @@ lastmod: 2023-01-07T19:54:01+01:00
 
 In this post I will outline my take on freedom of speech and of expression. I will use the two phrases interchangeably, or closely to it, throughout the post, to refer to the right to engage in speech acts, in a rather broad sense, not limited to verbal language.
 
-Censorship is the act of removing or suppressing the content of any form of communication because it is deemed to be objectionable, offensive or harmful.
-
-Freedom of speech is the freedom to communicate without interference through any media and regardless of frontiers.
-
-Freedom of expression is the freedom to communicate information and ideas of all kinds, in any form, through any media of choice, regardless of frontiers.
-
-First, I will discuss my understanding of the relationship between this freedom and the law, although, as will be apparent, the legal aspect of this topic is not the only one that interests me. Secondly, I will briefly consider some specific subjects that relate to freedom of expression. Finally, I will cover my general opinion on the matter, which is a highly liberal and permissive one.
+I will first discuss my understanding of the relationship between this freedom and the law. I will then briefly consider some other specific aspects of freedom of expression. Finally, I will cover my general opinion on the matter, which is a highly liberal and permissive one.
 
 ## Freedom of expression and the law
 
 *I am not a lawyer and this is not legal advice.*
 
-The right to freedom of opinion and expression is recognized by the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The document is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders). The [International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) commits states to respect certain rights, including freedom of thought and of expression, but it has limitations. In practice, countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in this regard. People in western democracies enjoy freedom of speech, of the press and of assembly, but these liberties are nowhere absolute.
+The right to freedom of opinion and expression is recognized by the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The document is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders). The [International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) commits states to respect certain rights, including freedom of thought and of expression, but with some limitations. In practice, countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in this regard. People in western democracies largely enjoy freedom of speech, of the press and of assembly, but these liberties are nowhere absolute.
 
 This section will focus on the United States and the European Union. The topic at hand is much vaster than this post. An exhaustive illustration of all relevant restrictions (and protections) could not fit herein, but some sprinkles of information will.
 
@@ -41,7 +35,9 @@ The [free speech flag](https://web.archive.org/web/20070504012547/http://www.bad
 
 Besides all recognized exceptions to it, several blunt violations of First Amendment rights occur. Organizations like the [Foundation for Individual Rights and Expression](https://www.thefire.org/) fight against these abuses.
 
-In the [World Press Freedom Index](https://rsf.org/index), compiled by [Reporters Without Borders](https://rsf.org/), the United States rank below several other countries, including most EU members.
+The prosecution of [WikiLeaks](https://wikileaks.org/) founder [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange) has raised serious concerns about freedom of speech and the public's right to know. Assange has received support from multiple [media groups](http://www.theguardian.com/media/2022/nov/28/media-groups-urge-us-drop-julian-assange-charges), [Amnesty International](https://www.amnesty.org/en/petition/julian-assange-usa-justice/), [Reporters Without Borders](https://rsf.org/en/usa-rsf-launches-dc-advocacy-week-and-mobile-rally-freeassange) and several other [organizations](https://www.eff.org/it/deeplinks/2021/10/eff-joins-press-freedom-groups-asking-us-drop-assange-extradition-efforts), as well as a large number of individuals, including whistleblower [Edward Snowden](https://twitter.com/Snowden/status/1334608745192677380), political commentator [Tucker Carlson](https://twitter.com/TuckerCarlson/status/1738328708052611148) and many other [journalists](https://speak-up-for-assange.org/).
+
+In the [World Press Freedom Index](https://rsf.org/index), compiled by RFS, the United States rank below several other countries, including most EU members.
 
 ### In the European Union
 
@@ -53,7 +49,7 @@ Racist or xenophobic [hate speech](https://commission.europa.eu/node/721) is for
 
 Several EU states have [blasphemy laws](https://end-blasphemy-laws.org/countries/europe/). Hard-core pornography is regulated by individual countries, but most [allow](https://en.wikipedia.org/wiki/Pornography_laws_by_region#Europe) its possession, production and sale to adults.
 
-Following the 2022 Russian invasion of Ukraine, The EU [censored](https://www.consilium.europa.eu/en/press/press-releases/2022/03/02/eu-imposes-sanctions-on-state-owned-outlets-rt-russia-today-and-sputnik-s-broadcasting-in-the-eu/) the [RT](https://www.rt.com/) and [Sputnik](https://sputniknews.com/) Russian news outlets, citing the need to counter disinformation. The decision was criticized by [European Digital Rights](https://edri.org/our-work/edri-statement-the-fundamental-rights-consequences-of-the-eu-media-ban/) and the [European Federation of Journalists](https://europeanjournalists.org/blog/2022/03/01/fighting-disinformation-with-censorship-is-a-mistake/), but [upheld](https://curia.europa.eu/jcms/jcms/p1_3832079) by the Court of Justice.
+Following the 2022 Russian invasion of Ukraine, the EU [censored](https://www.consilium.europa.eu/en/press/press-releases/2022/03/02/eu-imposes-sanctions-on-state-owned-outlets-rt-russia-today-and-sputnik-s-broadcasting-in-the-eu/) the [RT](https://www.rt.com/) and [Sputnik](https://sputniknews.com/) Russian news outlets, citing the need to counter disinformation. The decision was criticized by [European Digital Rights](https://edri.org/our-work/edri-statement-the-fundamental-rights-consequences-of-the-eu-media-ban/) and the [European Federation of Journalists](https://europeanjournalists.org/blog/2022/03/01/fighting-disinformation-with-censorship-is-a-mistake/), but [upheld](https://curia.europa.eu/jcms/jcms/p1_3832079) by the Court of Justice.
 
 Personal data receives strong protection under the [GDPR](https://commission.europa.eu/node/1300). Member states are required to reconcile the right to privacy with freedom of expression and information.
 
@@ -65,7 +61,7 @@ Vilification of the [nation](https://www.gazzettaufficiale.it/dettaglio/codici/c
 
 Italian courts have [enforced](https://communia-association.org/2016/02/22/fair-use-importance-flexible-copyright-exceptions/) restrictions on the use of art pieces in the [public domain]({{< ref "pdd-2024" >}}), with effects [comparable](https://www.wikimedia.it/news/unaltra-ordinanza-sulle-immagini-del-david-unoccasione-persa/) to copyright on the works.
 
-Physical newspapers in Italy must be [registered](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-08;47~art5) on a [court registry](https://www.tribunale.belluno.giustizia.it/registrazione-di-giornali-o-periodici_114.html) in order to be legally published ([not necessary](https://www.mcreporter.info/legacy/giurisprudenza/cass12_23230.htm) for an online blog) and one needs to [join](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;69~art45) the [Order of Journalists](https://www.odg.it/) to practice the profession (a [controversial](https://www.ilfattoquotidiano.it/2010/07/27/einaudi-abolire-l%E2%80%99ordine-dei-giornalisti/44565/) norm which [doesn't exist](https://www.odg.it/la-storia) in the rest of Europe). In the [Press Freedom Index](https://rsf.org/index), Italy ranks below most other EU countries.
+Physical newspapers in Italy must be [registered](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-08;47~art5) on a [court registry](https://www.tribunale.belluno.giustizia.it/registrazione-di-giornali-o-periodici_114.html) in order to be legally published ([not necessary](https://www.mcreporter.info/legacy/giurisprudenza/cass12_23230.htm) for an online blog) and one needs to [join](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;69~art45) the [Order of Journalists](https://www.odg.it/) to practice the profession (a [controversial](https://www.ilfattoquotidiano.it/2010/07/27/einaudi-abolire-l%E2%80%99ordine-dei-giornalisti/44565/) norm which [doesn't exist](https://www.odg.it/la-storia) in the rest of Europe). In the [World Press Freedom Index](https://rsf.org/index), Italy ranks below most other EU countries.
 
 The protection of freedom of speech in the country extends beyond limitations on government censorship. The Workers' Statute grants workers the [right](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art1) to express their thoughts in the workplace and [forbids](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art8) employers from investigating their opinions on political, religious or social topics.
 
@@ -79,13 +75,15 @@ Content-neutral free speech platforms that only remove that which would otherwis
 
 Some platforms make it easier than others to speak anonymously. This allows users to express themselves without fear of social or professional repercussions. Many people may need this protection. Consider, for example, those living in oppressive religious environments: an apostate in an Islamic theocracy or a gay boy in a family of Christian fundamentalists. Anonymity can shield them while they share their personal experiences and interact with others like them.
 
-## Censorship by thugs
+Several parties besides social media platforms can also engage in various kinds of online censorship, as they constitute [weak links](https://www.eff.org/it/free-speech-weak-link) of the Internet.
 
-Governments aren't alone in violating human rights.
+## Censorship by thugs
 
 If, when speaking a certain idea, one risks being arrested and jailed by employees of the state, one isn't free to express it. If speech is legal, but at the risk of being beaten up or killed by some gang, one is equally unfree. Whether those expected to carry out the punishment are government-sponsored or mafia-sponsored really doesn't make a lot of difference for the victim. Either way, the right to free expression is infringed.
 
-Non-governmental authorities may also take it upon themselves to limit the expression of individuals under their lead. For instance, parents of underage children may force them to say certain things and not to say others, far exceeding the amount of control needed for the children's own sake. This too is an act of censorship.
+## Censorship by non-governmental authorities
+
+In many circumstances, people are subject to rules set by parties of various kinds, with little to no chance of escaping them. Non-governmental authorities may take it upon themselves to limit the expression of individuals under their lead. As an example of this, parents of underage children may force them to say certain things and not to say others, far exceeding the amount of control needed for the children's own sake.
 
 ## Tools of expression
 
@@ -125,7 +123,7 @@ The current level of freedom of expression is not sufficient and, while some of 
 
 There are multiple reasons for my highly permissive stance on freedom of expression.
 
-I regard freedom of speech as a necessary cornerstone of a healthy democracy. If the people are to make collective decisions, they ought to be able to openly discuss and challenge ideas. If an ideology is unpopular enough, that of censoring it might become a common desire. However, democracy should empower all individuals, not just the majority, and certain rights should be preserved. As for free speech specifically, it isn't just fundamental as an individual right, it is also necessary to allow democratic public discourse to continue. Weakening freedom of expressions doesn't only affect those alive in that moment who have disagreeable ideas, it also deteriorates democracy for future generations. Therefore the right to express oneself should supersede others' will to suppress it.
+I regard freedom of speech as a necessary cornerstone of a healthy democracy. If the people are to make collective decisions, they ought to be able to openly discuss and challenge ideas. If an ideology is unpopular enough, that of censoring it might become a common desire. However, democracy should empower and grant essential rights to all individuals, not just the majority. Guarding free speech is essential to preserve democracy itself for future generations.
 
 Censorship by social media platforms carries its own bag of issues. Here, I don't argue that limiting content on one's own server is immoral or that it should be illegal. What I think, however, is that maximally content-neutral social media platforms are better for society and should be preferred for general-purpose use.
 
