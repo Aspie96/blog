@@ -5,7 +5,7 @@ draft: false
 lastmod: 2023-01-07T19:54:01+01:00
 ---
 
-In this post I will outline my take on freedom of speech and of expression. I will use the two phrases interchangeably, or closely to it, throughout the post, to refer to the right to engage in speech acts, in a rather broad sense, not limited to verbal language.
+In this blog post I will outline my take on freedom of speech and of expression. I will use the two phrases interchangeably, or closely to it, throughout the post, to refer to the right to engage in speech acts, in a rather broad sense, not limited to verbal language.
 
 I will first discuss my understanding of the relationship between this freedom and the law. I will then briefly consider some other specific aspects of freedom of expression. Finally, I will cover my general opinion on the matter, which is a highly liberal and permissive one.
 
@@ -115,7 +115,7 @@ Rather than try to condense too much of my opinion on the subject in one paragra
 - Privacy-preserving free-speech or censorship-resistant online social media platforms should be made mainstream.
 - A culture of open, rational and honest discourse and analytical thinking should be fostered. The social cost of disagreements should be reduced.
 - People have the right not to take a public stance on issues when they don't wish to do so.
-- Defending others' right to free expression should never be misunderstood as endorsing, approving or liking what they say.
+- Standing for others' right to free expression should never be misunderstood as endorsing, approving or liking what they say.
 - Individually, it's important to take actions to protect, preserve and enhance one's own ability to express oneself freely and effectively.
 - The right to free speech includes the right to openly endorse censorship.
 
@@ -123,7 +123,7 @@ The current level of freedom of expression is not sufficient and, while some of 
 
 There are multiple reasons for my highly permissive stance on freedom of expression.
 
-I regard freedom of speech as a necessary cornerstone of a healthy democracy. If the people are to make collective decisions, they ought to be able to openly discuss and challenge ideas. If an ideology is unpopular enough, that of censoring it might become a common desire. However, democracy should empower and grant essential rights to all individuals, not just the majority. Guarding free speech is essential to preserve democracy itself for future generations.
+I regard freedom of speech as a necessary cornerstone of a healthy democracy. If the people are to make collective decisions, they ought to be able to openly discuss and challenge ideas. If an ideology is unpopular enough, that of censoring it might become a common desire. However, all individuals should be empowered and granted essential rights, not just the majority. Guarding free speech is essential to preserve democracy itself for future generations.
 
 Censorship by social media platforms carries its own bag of issues. Here, I don't argue that limiting content on one's own server is immoral or that it should be illegal. What I think, however, is that maximally content-neutral social media platforms are better for society and should be preferred for general-purpose use.
 
