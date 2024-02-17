@@ -5,7 +5,7 @@ draft: false
 lastmod: 2023-01-07T19:54:01+01:00
 ---
 
-In this blog post I will outline my take on freedom of speech and of expression. I will use the two phrases interchangeably, or closely to it, throughout the post, to refer to the right to engage in speech acts, in a rather broad sense, not limited to verbal language.
+In this blog post I will outline my take on freedom of speech and of expression. I will use the two phrases interchangeably, or closely to it, to refer to the right to engage in speech acts, in a rather broad sense, not limited to verbal language.
 
 I will first discuss my understanding of the relationship between this freedom and the law. I will then briefly consider some other specific aspects of freedom of expression. Finally, I will cover my general opinion on the matter, which is a highly liberal and permissive one.
 
