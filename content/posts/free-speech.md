@@ -75,15 +75,11 @@ Content-neutral free speech platforms that only remove that which would otherwis
 
 Some platforms make it easier than others to speak anonymously. This allows users to express themselves without fear of social or professional repercussions. Many people may need this protection. Consider, for example, those living in oppressive religious environments: an apostate in an Islamic theocracy or a gay boy in a family of Christian fundamentalists. Anonymity can shield them while they share their personal experiences and interact with others like them.
 
-Several parties besides social media platforms can also engage in various kinds of online censorship, as they constitute [weak links](https://www.eff.org/it/free-speech-weak-link) of the Internet.
-
 ## Censorship by thugs
 
 If, when speaking a certain idea, one risks being arrested and jailed by employees of the state, one isn't free to express it. If speech is legal, but at the risk of being beaten up or killed by some gang, one is equally unfree. Whether those expected to carry out the punishment are government-sponsored or mafia-sponsored really doesn't make a lot of difference for the victim. Either way, the right to free expression is infringed.
 
-## Censorship by non-governmental authorities
-
-In many circumstances, people are subject to rules set by parties of various kinds, with little to no chance of escaping them. Non-governmental authorities may take it upon themselves to limit the expression of individuals under their lead. As an example of this, parents of underage children may force them to say certain things and not to say others, far exceeding the amount of control needed for the children's own sake.
+Non-governmental authorities may take it upon themselves to limit the expression of individuals under their lead. As an example of this, parents of underage children may force them to say certain things and not to say others, far exceeding the amount of control needed for the children's own sake.
 
 ## Tools of expression
 
@@ -100,7 +96,6 @@ I consider myself to be a free speech maximalist. Lack of abuse through governme
 Rather than try to condense too much of my opinion on the subject in one paragraph, I will list simple individual points, each of which is one of its aspects:
 
 - Plain misdeeds with no redeeming social importance which are ill-intended or likely to be harmful, such as fraud, dealing in child pornography and credible threats of illegal violence, don't and shouldn't fall within the scope of free speech.
-- Where some other fundamental right necessarily conflicts with freedom of speech, a reasonable balance needs to be found between the two. Freedom of expression should be held in very high regard when doing so.
 - Free speech should be understood to include expression through computer code.
 - Freedom from government censorship should be strongly protected. Generally, any speech which is currently legal in either the US or the EU should be legal worldwide.
 - Criticizing the law and endorsing new policies should be legally allowed. Laws that prohibit criticism of the legal status quo are illegitimate.
@@ -123,7 +118,7 @@ The current level of freedom of expression is not sufficient and, while some of 
 
 There are multiple reasons for my highly permissive stance on freedom of expression.
 
-I regard freedom of speech as a necessary cornerstone of a healthy democracy. If the people are to make collective decisions, they ought to be able to openly discuss and challenge ideas. If an ideology is unpopular enough, that of censoring it might become a common desire. However, all individuals should be empowered and granted essential rights, not just the majority. Guarding free speech is essential to preserve democracy itself for future generations.
+I regard freedom of speech as a necessary cornerstone of a healthy democracy. If the people are to make collective decisions, they ought to be able to openly discuss and challenge ideas. If an ideology is unpopular enough, that of censoring it might become a common desire. However, all individuals should be empowered and granted essential rights, not just the majority. Guarding free speech is essential to preserve democracy itself for future generations and to discuss the scope of all other rights.
 
 Censorship by social media platforms carries its own bag of issues. Here, I don't argue that limiting content on one's own server is immoral or that it should be illegal. What I think, however, is that maximally content-neutral social media platforms are better for society and should be preferred for general-purpose use.
 
