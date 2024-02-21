@@ -13,7 +13,7 @@ I will first discuss my understanding of the relationship between this freedom a
 
 *I am not a lawyer and this is not legal advice.*
 
-The right to freedom of opinion and expression is recognized by the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The document is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders). The [International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) commits states to respect certain rights, including freedom of thought and of expression, but with some limitations. In practice, countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in this regard. People in western democracies largely enjoy freedom of speech, of the press and of assembly, but these liberties are nowhere absolute.
+The right to freedom of opinion and expression is recognized by the [Universal Declaration of Human Rights](https://www.un.org/about-us/universal-declaration-of-human-rights). The document is, however, [not legally binding](https://www.ohchr.org/en/special-procedures/sr-human-rights-defenders/declaration-human-rights-defenders). The [International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) commits states to respect certain rights, including freedom of thought and of expression, but with some limitations. In practice, countries [differ](https://en.wikipedia.org/wiki/Freedom_of_speech_by_country) widely in this regard. People in Western democracies largely enjoy freedom of speech, of the press and of assembly, but these liberties are nowhere absolute.
 
 This section will focus on the United States and the European Union. The topic at hand is much vaster than this post. An exhaustive illustration of all relevant restrictions (and protections) could not fit herein, but some sprinkles of information will.
 
@@ -35,9 +35,9 @@ The [free speech flag](https://web.archive.org/web/20070504012547/http://www.bad
 
 Besides all recognized exceptions to it, several blunt violations of First Amendment rights occur. Organizations like the [Foundation for Individual Rights and Expression](https://www.thefire.org/) fight against these abuses.
 
-The prosecution of [WikiLeaks](https://wikileaks.org/) founder [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange) has raised serious concerns about freedom of speech and the public's right to know. Assange has received support from multiple [media groups](http://www.theguardian.com/media/2022/nov/28/media-groups-urge-us-drop-julian-assange-charges), [Amnesty International](https://www.amnesty.org/en/petition/julian-assange-usa-justice/), [Reporters Without Borders](https://rsf.org/en/usa-rsf-launches-dc-advocacy-week-and-mobile-rally-freeassange) and several other [organizations](https://www.eff.org/it/deeplinks/2021/10/eff-joins-press-freedom-groups-asking-us-drop-assange-extradition-efforts), as well as a large number of individuals, including whistleblower [Edward Snowden](https://twitter.com/Snowden/status/1334608745192677380), John Mearsheimer, political commentator [Tucker Carlson](https://twitter.com/TuckerCarlson/status/1738328708052611148) and many other [journalists](https://speak-up-for-assange.org/).
+The prosecution of [WikiLeaks](https://wikileaks.org/) founder [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange) has raised serious concerns about freedom of speech and the public's right to know. Assange has received support from multiple [media groups](http://www.theguardian.com/media/2022/nov/28/media-groups-urge-us-drop-julian-assange-charges), [Amnesty International](https://www.amnesty.org/en/petition/julian-assange-usa-justice/), [Reporters Without Borders](https://rsf.org/en/usa-rsf-launches-dc-advocacy-week-and-mobile-rally-freeassange) and several other [organizations](https://www.eff.org/it/deeplinks/2021/10/eff-joins-press-freedom-groups-asking-us-drop-assange-extradition-efforts), as well as a large number of individuals, including whistleblower [Edward Snowden](https://twitter.com/Snowden/status/1334608745192677380), political scientist [John Mearsheimer](https://twitter.com/wikileaks/status/1759581819089920494), political commentator [Tucker Carlson](https://twitter.com/TuckerCarlson/status/1738328708052611148) and many other [journalists](https://speak-up-for-assange.org/).
 
-In the [World Press Freedom Index](https://rsf.org/index), compiled by RFS, the United States rank below several other countries, including most EU members.
+In the [World Press Freedom Index](https://rsf.org/index), compiled by RFS, the United States rank below several other countries, including most in the EU.
 
 ### In the European Union
 
@@ -45,7 +45,7 @@ Different countries in the European Union have significantly different laws and 
 
 Freedom of expression is protected by the [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) and by the [Charter of Fundamental Rights of the European Union](https://fra.europa.eu/eu-charter/article/11-freedom-expression-and-information). These documents, however, allow for limitations for certain stated purposes.
 
-Racist or xenophobic [hate speech](https://commission.europa.eu/node/721) is forbidden in the EU, but member states [differ](https://en.wikipedia.org/wiki/Hate_speech_laws_by_country) in how they address it. A recent [press release](https://www.europarl.europa.eu/news/en/press-room/20240112IPR16777/time-to-criminalise-hate-speech-and-hate-crime-under-eu-law) called for the criminalization of hate speech and disapproved of the use of freedom of expression as a "shield" for it.
+Racist or xenophobic [hate speech](https://commission.europa.eu/node/721) is forbidden in the Union, but member states [differ](https://en.wikipedia.org/wiki/Hate_speech_laws_by_country) in how they address it. A recent [press release](https://www.europarl.europa.eu/news/en/press-room/20240112IPR16777/time-to-criminalise-hate-speech-and-hate-crime-under-eu-law) called for the criminalization of hate speech and disapproved of the use of freedom of expression as a "shield" for it.
 
 Several EU states have [blasphemy laws](https://end-blasphemy-laws.org/countries/europe/). Hard-core pornography is regulated by individual countries, but most [allow](https://en.wikipedia.org/wiki/Pornography_laws_by_region#Europe) its possession, production and sale to adults.
 
@@ -85,7 +85,7 @@ Non-governmental authorities may take it upon themselves to limit the expression
 
 Public access to tools which facilitate expression can be empowering.
 
-In the world of software, instruments useful for freedom of expression include editors for text, images, videos, audio and 3D models, as well as automatic translators and tools that can improve accessibility for disabled people. These programs should be widely available as [free software]({{< ref "free-software" >}}) because *software freedom* can enhance other kinds of freedom.
+In the world of software, instruments useful for freedom of expression include editors for text, images, videos, audio and 3D models, as well as automatic translators and tools that can improve accessibility for the disabled. These programs should be widely available as [free software]({{< ref "free-software" >}}) because *software freedom* can enhance other kinds of freedom.
 
 ## My take
 
@@ -109,7 +109,7 @@ Rather than try to condense too much of my opinion on the subject in one paragra
 - Access to neutral tools which can facilitate the actual exercise of freedom of expression should be maximized. This includes high-quality [free software]({{< ref "free-software" >}}) for writers, artists and coders.
 - Privacy-preserving free speech or censorship-resistant online social media platforms should be made mainstream.
 - A culture of open, rational and honest discourse and analytical thinking should be fostered. The social cost of disagreements should be reduced.
-- People have the right not to take a public stance on issues when they don't wish to do so.
+- It's legitimate not to take a public stance on an issue when not wishing to do so.
 - Standing for others' right to free expression should never be misunderstood as endorsing, approving or liking what they say.
 - Individually, it's important to take actions to protect, preserve and enhance one's own ability to express oneself freely and effectively.
 - The right to free speech includes the right to openly endorse censorship.
