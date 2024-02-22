@@ -43,13 +43,13 @@ In the [World Press Freedom Index](https://rsf.org/index), compiled by RFS, the 
 
 Different countries in the European Union have significantly different laws and legal systems.
 
-Freedom of expression is protected by the [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) and by the [Charter of Fundamental Rights of the European Union](https://fra.europa.eu/eu-charter/article/11-freedom-expression-and-information). These documents, however, allow for limitations for certain stated purposes.
+Freedom of expression is protected by the [European Convention on Human Rights](https://www.echr.coe.int/web/echr/european-convention-on-human-rights) and by the [EU Charter of Fundamental Rights](https://fra.europa.eu/eu-charter/article/11-freedom-expression-and-information). These documents, however, allow for limitations for certain stated purposes.
 
 Racist or xenophobic [hate speech](https://commission.europa.eu/node/721) is forbidden in the Union, but member states [differ](https://en.wikipedia.org/wiki/Hate_speech_laws_by_country) in how they address it. A recent [press release](https://www.europarl.europa.eu/news/en/press-room/20240112IPR16777/time-to-criminalise-hate-speech-and-hate-crime-under-eu-law) called for the criminalization of hate speech and disapproved of the use of freedom of expression as a "shield" for it.
 
 Several EU states have [blasphemy laws](https://end-blasphemy-laws.org/countries/europe/). Hard-core pornography is regulated by individual countries, but most [allow](https://en.wikipedia.org/wiki/Pornography_laws_by_region#Europe) its possession, production and sale to adults.
 
-Following the 2022 Russian invasion of Ukraine, the EU [censored](https://www.consilium.europa.eu/en/press/press-releases/2022/03/02/eu-imposes-sanctions-on-state-owned-outlets-rt-russia-today-and-sputnik-s-broadcasting-in-the-eu/) the [RT](https://www.rt.com/) and [Sputnik](https://sputniknews.com/) Russian news outlets, citing the need to counter disinformation. The decision was criticized by [European Digital Rights](https://edri.org/our-work/edri-statement-the-fundamental-rights-consequences-of-the-eu-media-ban/) and the [European Federation of Journalists](https://europeanjournalists.org/blog/2022/03/01/fighting-disinformation-with-censorship-is-a-mistake/), but [upheld](https://curia.europa.eu/jcms/jcms/p1_3832079) by the Court of Justice.
+Following the 2022 Russian invasion of Ukraine, the EU [censored](https://www.consilium.europa.eu/en/press/press-releases/2022/03/02/eu-imposes-sanctions-on-state-owned-outlets-rt-russia-today-and-sputnik-s-broadcasting-in-the-eu/) the [RT](https://www.rt.com/) and [Sputnik](https://sputnikglobe.com/) Russian news outlets, citing the need to counter disinformation. The decision was criticized by [European Digital Rights](https://edri.org/our-work/edri-statement-the-fundamental-rights-consequences-of-the-eu-media-ban/) and the [European Federation of Journalists](https://europeanjournalists.org/blog/2022/03/01/fighting-disinformation-with-censorship-is-a-mistake/), but [upheld](https://curia.europa.eu/jcms/jcms/p1_3832079) by the Court of Justice.
 
 Personal data receives strong protection under the [GDPR](https://commission.europa.eu/node/1300). Member states are required to reconcile the right to privacy with freedom of expression and information.
 
@@ -59,7 +59,7 @@ The freedom to express thoughts and of the press are [protected](https://www.sen
 
 Vilification of the [nation](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/291_1_1) or its [constitutional institutions or armed forces](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/290_1_1), desecration of the [flag](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/292_1_1) and offence to the honor or prestige of the [president](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/278_1_1) are illegal. Propagating ideas based on racial or ethnic superiority or hatred is also [prohibited](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/604_1_2), as are organisations aimed at discrimination on certain grounds. Public [blasphemy](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/724_1_1) (*bestemmia*) against God is illegal, as is publicly [offending](https://www.gazzettaufficiale.it/dettaglio/codici/codicePenale/404_1_1) a religion by vilifying objects of worship. Insult (the infringement of another's honor) used to be a crime and is now a [civil wrong](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016;7~art4).
 
-Italian courts have [enforced](https://communia-association.org/2016/02/22/fair-use-importance-flexible-copyright-exceptions/) restrictions on the use of art pieces in the [public domain]({{< ref "pdd-2024" >}}), with effects [comparable](https://www.wikimedia.it/news/unaltra-ordinanza-sulle-immagini-del-david-unoccasione-persa/) to copyright on the works.
+Italian courts have [enforced](https://communia-association.org/2023/06/20/something-the-public-domain-is-rotting-in-the-state-of-italy/) restrictions on the use of art pieces in the [public domain]({{< ref "pdd-2024" >}}), with effects [comparable](https://www.wikimedia.it/news/unaltra-ordinanza-sulle-immagini-del-david-unoccasione-persa/) to copyright on the works.
 
 Physical newspapers in Italy must be [registered](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-08;47~art5) on a [court registry](https://www.tribunale.belluno.giustizia.it/registrazione-di-giornali-o-periodici_114.html) in order to be legally published ([not necessary](https://www.mcreporter.info/legacy/giurisprudenza/cass12_23230.htm) for an online blog) and one needs to [join](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;69~art45) the [Order of Journalists](https://www.odg.it/) to practice the profession (a [controversial](https://www.ilfattoquotidiano.it/2010/07/27/einaudi-abolire-l%E2%80%99ordine-dei-giornalisti/44565/) norm which [doesn't exist](https://www.odg.it/la-storia) in the rest of Europe). In the [World Press Freedom Index](https://rsf.org/index), Italy ranks below most other EU countries.
 
@@ -67,7 +67,7 @@ The protection of freedom of speech in the country extends beyond limitations on
 
 ## Social media censorship
 
-Governments aren't the only ones taking actions to prevent public communications, thereby engaging in censorship.
+Governments aren't alone in taking actions to prevent public communications, thereby engaging in censorship.
 
 Social media platforms are used by many as one of the primary tools for public self-expression. The companies running them, however, can remove anything they wish and even ban accounts altogether. This gives them a lot of power to influence public discourse.
 
@@ -79,7 +79,7 @@ Some platforms make it easier than others to speak anonymously. This allows user
 
 If, when speaking a certain idea, one risks being arrested and jailed by employees of the state, one isn't free to express it. If speech is legal, but at the risk of being beaten up or killed by some gang, one is equally unfree. Whether those expected to carry out the punishment are government-sponsored or mafia-sponsored really doesn't make a lot of difference for the victim. Either way, the right to free expression is infringed.
 
-Non-governmental authorities may take it upon themselves to limit the expression of individuals under their lead. As an example of this, parents of underage children may force them to say certain things and not to say others, far exceeding the amount of control needed for the children's own sake.
+Non-governmental authorities may take it upon themselves to limit the expression of individuals under their lead. As an example of this, parents of underage children may force them to say certain things and keep them from saying others, far exceeding the amount of control needed for the children's own sake.
 
 ## Tools of expression
 
