@@ -43,7 +43,7 @@ In the [World Press Freedom Index](https://rsf.org/index), compiled by RFS, the 
 
 Different countries in the European Union have significantly different laws and legal systems.
 
-Freedom of expression is protected by the [European Convention on Human Rights](https://www.echr.coe.int/web/echr/european-convention-on-human-rights) and by the [EU Charter of Fundamental Rights](https://fra.europa.eu/eu-charter/article/11-freedom-expression-and-information). These documents, however, allow for limitations for certain stated purposes.
+Freedom of expression is protected by the [European Convention on Human Rights](https://www.echr.coe.int/web/echr/european-convention-on-human-rights) and by the [Charter of Fundamental Rights of the European Union](https://fra.europa.eu/eu-charter/article/11-freedom-expression-and-information). These documents, however, allow for limitations for certain stated purposes.
 
 Racist or xenophobic [hate speech](https://commission.europa.eu/node/721) is forbidden in the Union, but member states [differ](https://en.wikipedia.org/wiki/Hate_speech_laws_by_country) in how they address it. A recent [press release](https://www.europarl.europa.eu/news/en/press-room/20240112IPR16777/time-to-criminalise-hate-speech-and-hate-crime-under-eu-law) called for the criminalization of hate speech and disapproved of the use of freedom of expression as a "shield" for it.
 
