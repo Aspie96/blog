@@ -7,7 +7,7 @@ title: "Hello, World!"
 
 Hello, world!
 
-I am Valentino Giudice, an Italian guy with an interest in computering born in 1996. You are reading the first article on my personal blog.
+I am Valentino Giudice, an Italian guy with an interest in computering born in 1996. You are reading the first post on my personal blog.
 
 This website is a tool at my complete disposal for me to exercise my freedom of speech. Here, I write and do as I please.
 
