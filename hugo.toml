@@ -1,0 +1,25 @@
+baseURL = "https://www.functorfault.net/"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+languageCode = "en"
+sectionPagesMenu = "main"
+title = "Functor Fault"
+theme = "FunctorDark"
+
+[outputs]
+home = [ "HTML", "RSS", "Atom", "Links"]
+
+[mediaTypes]
+  [mediaTypes."application/atom+xml"]
+  suffix = "xml"
+
+[outputFormats]
+  [outputFormats.links]
+    baseName = "links"
+    isPlainText = true
+    mediaType = "text/plain"
+
+  [outputFormats.Atom]
+    mediaType = "application/atom+xml"
+    baseName = "index"
+    isPlainText = false

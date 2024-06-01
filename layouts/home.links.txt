@@ -1,0 +1,2 @@
+{{ range $index, $page := .Site.Pages }}{{$links := $page.Scratch.Get "links"}}{{ range $links}}{{ . }}
+{{ end }}{{ end }}

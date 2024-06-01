@@ -1,0 +1,3 @@
+{{- with resources.Get "js/removeTrackers.js" }}
+	<script src="{{ .RelPermalink }}"{{- with . | fingerprint }} integrity="{{- .Data.Integrity }}"{{- end }}></script>
+{{- end }}
