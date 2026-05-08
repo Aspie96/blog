@@ -1,7 +1,7 @@
 ---
 title: "Ode to Blender"
 date: 2025-12-25T00:00:00+01:00
-draft: true
+draft: false
 ---
 
 In this blog post, I endorse the [Blender](https://www.blender.org/) free and open source 3D creation suite for artists and applaud its organization, inviting you to support its development through the [Development Fund](https://fund.blender.org/).
